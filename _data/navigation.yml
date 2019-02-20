@@ -1,0 +1,42 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Current Exhibitions
+  url: /current-exhibitions/first-print/
+  sub-links:
+  - title: The First Print - Stories and Legends of Early Singapore
+    url: /current-exhibitions/first-print/
+  - title: Selling Dreams - Early Advertising in Singapore
+    url: /current-exhibitions/selling-dreams/
+  - title: The Rare Collection Gallery
+    url: /current-exhibitions/rare-collection/
+- title: Online Exhibitions
+  url: /online-exhibitions/script-stage/
+  sub-links:
+  - title: Script Stage
+    url: /online-exhibitions/script-stage/
+  - title: From The Stacks
+    url: /online-exhibitions/from-the-stacks/
+- title: Past Exhibition
+  url: /past-exhibition/tales-of-the-malay-world/
+  sub-links:
+  - title: Tales Of The Malay World
+    url: /past-exhibition/tales-of-the-malay-world/
+  - title: Shakespeare In Print
+    url: /past-exhibition/shakespeare-in-print/
+- title: Exhibitions
+  url: /exhibitions/
+  sub-links:
+  - title: All
+    url: /exhibitions/
+  - title: Current Exhibitions
+    url: /exhibitions/current-exhibitions/
+  - title: Online Exhibitions
+    url: /exhibitions/online-exhibitions/
+  - title: Past Exhibitions
+    url: /exhibitions/past-exhibitions/
