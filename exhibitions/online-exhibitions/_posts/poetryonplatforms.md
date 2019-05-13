@@ -4,7 +4,7 @@ title:  Poetry on Platforms
 date:   2015-06-16
 permalink: /exhibitions/online-exhibitions/test2
 ---
-![banner](/images/Geographic_Banner_Big_1.jpg)
-Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping.
+![banner](/images/POP07-191x300.jpg)
+Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them
 
-Download your copy of the festival brochure by clicking the button below.
+Commuters are required to pay applicable fare upon entry and exit from fare gates at SMRT stations.
