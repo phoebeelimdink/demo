@@ -68,7 +68,7 @@ With many tales such as the strong man Badang and the attack of the garfish, Sej
     <td>
       Chetakan Pertama | Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional
       <br>10:30am
-      <br>Level 5, Possibility Room, National Library Building
+      <br>Level 5, Possibility Room, National Library Building.
     </td>
   </tr>
 </table>
