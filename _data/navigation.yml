@@ -4,20 +4,5 @@
 #                                #
 ##################################
 
-- title: Current Exhibitions
-  url: /exhibitions/current-exhibitions/
-- title: Online Exhibitions
-  url: /exhibitions/online-exhibitions/
-- title: Past Exhibitions
-  url: /past-exhibitions/
-- title: Exhibition Programmes
-  url: /exhibitions/exhibition-programmes/
-  sub-links:
-  - title: All
-    url: /exhibitions/
-  - title: Current Exhibitions
-    url: /exhibitions/current-exhibitions/
-  - title: Online Exhibitions
-    url: /exhibitions/online-exhibitions/
-  - title: Past Exhibitions
-    url: /exhibitions/past-exhibitions/
+- title: Contact Us
+  url: /contact-us/
