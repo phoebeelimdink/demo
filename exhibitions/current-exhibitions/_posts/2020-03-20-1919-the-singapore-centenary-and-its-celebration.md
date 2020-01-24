@@ -1,0 +1,68 @@
+---
+layout: post
+title:  1919 = The Singapore Centenary and its Celebration
+date:   2020-03-20
+permalink: /exhibitions/current-exhibitions/1919-the-cingapore-centenary-and-its-celebration
+---
+
+{% assign event-details = site.data.event-list %}
+
+{% for thisevent in event-details.event %}
+{% if thisevent.short-name == "1919sg" %}
+<div class="event-tab-area" style="background:url('/images/event-images{{ thisevent.details.tab-banner-image-link }}');">
+  <div class="event-tab-list">
+    <a href="#tab1">About Exhibition</a>
+    {% if thisevent.gallery-tab == "show" %}<a href="#tab2">Gallery</a>{% else %}{% endif %}
+    {% if thisevent.highlight-tab == "show" %}<a href="#tab3">Exhibtion Highlights</a>{% else %}{% endif %}
+  </div>
+  <div class="tab-gradient-overlay"></div>
+</div>
+<div class="event-details-area">
+  
+  <div id="tab1">
+    <div class="event-main-image-wrap">
+      <img src="/images/event-images{{ thisevent.details.main-image-link }}">
+      <div class="event-place-date-and-time">
+        <p {% if thisevent.details.date == "nodata" %} class="hide" {% else %} class="detail-date-info" {% endif %}>{{ thisevent.details.date }}</p>
+        <p {% if thisevent.details.time == "nodata" %} class="hide" {% else %} class="detail-time-info" {% endif %}>{{ thisevent.details.time }}</p>
+        <p {% if thisevent.details.place == "nodata" %} class="hide" {% else %} class="detail-place-info" {% endif %}>{{ thisevent.details.place }}</p>
+        <p {% if thisevent.details.price == "nodata" %} class="hide" {% else %} class="detail-price-info" {% endif %}>{{ thisevent.details.price }}</p>
+      </div>
+   </div>
+   <div class="event-text-area" markdown="1">
+[//]: # (CUSTOM MARKDOWN HERE FOR EVENT DETAILS)
+#### Description
+Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion. These materials not only capture the day’s events, but also reveal how people in Singapore took part in the commemoration and spectacle of empire.
+   
+   </div>
+  </div>
+  
+  {% if thisevent.gallery-tab == "show" %}
+  <div id="tab2">
+    <h3>Gallery</h3>
+    <div class="event-gallery-wrap">
+      {% for image in thisevent.gallery-image %}
+         <img src="/images/event-images{{image.photo-link}}">
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  {% endif %}
+  
+  {% if thisevent.highlight-tab == "show" %}
+  <div id="tab3">
+    <h3>Exhibition Highlights</h3>
+    <div class="exhibition-highlights-wrap">
+      {% for highlight in thisevent.highlight-list %}
+         <img src="/images/event-images{{highlight.highlight-image-link}}">
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  {% endif %}
+  
+</div>
+
+{% else %}
+{% endif %}
+{% endfor %}
