@@ -10,7 +10,7 @@ breadcrumb: Current Exhibtions
   {% if currentlist.category == "current" %}
   <div class="event-list-wrap">
     <div class="event-image-wrap">
-      <img class="event-poster" src="/images/event-images/{{currentlist.details.thumbnail-link}}">
+      <img class="event-poster" src="/images/event-images{{currentlist.details.thumbnail-link}}">
       <div {% if currentlist.details.price == "nodata" %} class="hide" {% else %} class="event-price" {% endif %}>{{currentlist.details.price}}</div>
     </div>
     <h3>{{currentlist.title}}</h3>
