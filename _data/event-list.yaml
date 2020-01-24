@@ -43,28 +43,28 @@ event:
       place: Level 10, Gallery National Library Building
       price: free
       short-description: Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past.
-      #photo gallery
-      gallery-tab: show
-      gallery-image: 
-        - photo-link: /onpaper/On-Paper_gallery_1.jpg
-        - photo-link: /onpaper/On-Paper_gallery_2.jpg
-        - photo-link: /onpaper/On-Paper_gallery_3.jpg
-        - photo-link: /onpaper/On-Paper_gallery_4.jpg
-        - photo-link: /onpaper/On-Paper_gallery_5.jpg
-        - photo-link: /onpaper/On-Paper_gallery_6.jpg
-        - photo-link: /onpaper/On-Paper_gallery_7.jpg
-        - photo-link: /onpaper/On-Paper_gallery_8.jpg
-        - photo-link: /onpaper/On-Paper_gallery_9.jpg
-      #video gallery
-      video-tab: show
-      video-list: 
-        - video-link:
-          video-title:
-          video-description:
-      #highlight
-      highlight-tab: show
-      highlight-list:
-        - highlight-image-link:
+    #photo gallery
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /onpaper/On-Paper_gallery_1.jpg
+      - photo-link: /onpaper/On-Paper_gallery_2.jpg
+      - photo-link: /onpaper/On-Paper_gallery_3.jpg
+      - photo-link: /onpaper/On-Paper_gallery_4.jpg
+      - photo-link: /onpaper/On-Paper_gallery_5.jpg
+      - photo-link: /onpaper/On-Paper_gallery_6.jpg
+      - photo-link: /onpaper/On-Paper_gallery_7.jpg
+      - photo-link: /onpaper/On-Paper_gallery_8.jpg
+      - photo-link: /onpaper/On-Paper_gallery_9.jpg
+    #video gallery
+    video-tab: show
+    video-list: 
+      - video-link:
+        video-title:
+        video-description:
+    #highlight
+    highlight-tab: show
+    highlight-list:
+      - highlight-image-link:
  #
  #
   - title: The Rare Collection Gallery
