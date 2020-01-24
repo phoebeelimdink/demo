@@ -36,8 +36,8 @@ event:
     url: /exhibitions/current-exhibitions/onpaper
     details:
       thumbnail-link: /onpaper/On-Paper-thumbnail.jpg
-      tab-banner-image-link:
-      main-image-link:
+      tab-banner-image-link: /onpaper/On-Paper-tab-banner.jpg
+      main-image-link: /onpaper/On-Paper-main-image.jpg
       date: 28 September 2019 – 22 March 2020
       time: 10.00am – 9.00pm
       place: Level 10, Gallery National Library Building
