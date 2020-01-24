@@ -2,7 +2,7 @@
 layout: simple-page
 title: Current Exhibitions
 permalink: /exhibitions/current-exhibitions/
-breadcrumb: Current Exhibtions
+breadcrumb: Current Exhibitions
 ---
 {% assign event-details = site.data.event-list %}
 <div class="event-area">
