@@ -11,7 +11,7 @@ event:
       date: 12 November 2019 – 13 March 2020
       time: nodata
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
-      price: FREE
+      price: nodata
       short-description: Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
     #photo gallery
     gallery-tab: show
@@ -35,7 +35,7 @@ event:
     category: current
     url:
     details:
-      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      thumbnail-link: /onpaper/On-Paper-thumbnail.jpg
       tab-banner-image-link:
       main-image-link:
       date: 28 September 2019 – 22 March 2020
@@ -46,10 +46,15 @@ event:
       #photo gallery
       gallery-tab: show
       gallery-image: 
-        - photo-link: /centenary/1919-Centenary-gallery.jpg
-        - photo-link: /centenary/1919-Centenary-gallery_2.jpg
-        - photo-link: /centenary/1919-Centenary-gallery_2.jpg
-        - photo-link: /centenary/1919-Centenary-gallery.jpg
+        - photo-link: /onpaper/On-Paper_gallery_1.jpg
+        - photo-link: /onpaper/On-Paper_gallery_2.jpg
+        - photo-link: /onpaper/On-Paper_gallery_3.jpg
+        - photo-link: /onpaper/On-Paper_gallery_4.jpg
+        - photo-link: /onpaper/On-Paper_gallery_5.jpg
+        - photo-link: /onpaper/On-Paper_gallery_6.jpg
+        - photo-link: /onpaper/On-Paper_gallery_7.jpg
+        - photo-link: /onpaper/On-Paper_gallery_8.jpg
+        - photo-link: /onpaper/On-Paper_gallery_9.jpg
       #video gallery
       video-tab: show
       video-list: 
@@ -57,7 +62,7 @@ event:
           video-title:
           video-description:
       #highlight
-      highlight-tab: hide
+      highlight-tab: show
       highlight-list:
         - highlight-image-link:
  #
