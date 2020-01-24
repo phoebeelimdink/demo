@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Current Exhibition
-permalink: /current-exhibition/
-breadcrumb: Current Exhibtion
+title: Current Exhibitions
+permalink: /current-exhibitions/
+breadcrumb: Current Exhibtions
 ---
 {% assign event-details = site.data.event-list %}
 <div class="event-area">
