@@ -20,19 +20,6 @@ hero-banner: /images/event-images/onpaper/On-Paper-tab-banner-enlarge.jpg
 #  - text: Learn More
 #    url: /who-we-are/
 
-#key-highlights:
-#  - title: On Paper
-#    description: Singapore before 1867
-#    url: https://google.com
-#    external: true
-#  - title: The Rare Collection Gallery
-#    description: Treasures from the Rare Materials Collection
-#    url: https://yahoo.com
-#    external: true
-#  - title: Highlights of the National Gallery
-#    description: Discover early Singapore from a fresh perspective
-#    url: /page-A/
-
 # Info Sections
 info-sections:
   - section-title: On Paper: Singapore Before 1867
