@@ -360,6 +360,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+
+/*custom homepage*/
+#main-content .bp-section p {
+    white-space: pre-wrap;
+}
+
 /*event list css*/
 .event-list-wrap p {
     font-size: 12pt;
