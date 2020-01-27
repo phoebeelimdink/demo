@@ -15,11 +15,6 @@ agency-logo: /images/Exhibition-logo.png
 #hero-subtitle: "On Paper: Singapore before 1867"
 hero-banner: /images/event-images/onpaper/On-Paper-tab-banner-enlarge.jpg
 
-#Call to Action Button
-#button:
-#  - text: Learn More
-#    url: /who-we-are/
-
 # Info Sections
 info-sections:
   - section-title: On Paper: Singapore Before 1867
@@ -30,7 +25,4 @@ info-sections:
     section-more-button-url: /exhibitions/current-exhibitions/onpaper#tab1
     section-image-path: /images/about-oin-051119.jpg
 
-resources-title: Exhibition Highlights
-resources-subtitle: 
-resources-more-button: More Resources
-resources-more-button-url: exhibitions/
+
