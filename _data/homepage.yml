@@ -11,8 +11,8 @@ favicon: /images/cropped-nlb-favicon.png
 agency-logo: /images/Exhibition-logo.png
 
 # Hero Banner
-hero-title: On Paper
-hero-subtitle: "On Paper: Singapore before 1867"
+#hero-title: On Paper
+#hero-subtitle: "On Paper: Singapore before 1867"
 hero-banner: /images/event-images/onpaper/On-Paper-main-image.jpg
 
 #Call to Action Button
