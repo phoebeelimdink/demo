@@ -65,8 +65,8 @@ event:
     #highlight
     highlight-tab: show
     highlight-list:
-      - highlight-lowres-image-link: /images/event-images/onpaper/On-Paper-exhibition-highlights-low.jpg
-        highlight-hires-image-link: /images/event-images/onpaper/On-Paper-exhibition-highlights-high.jpg
+      - highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
+        highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
  #
  #
   - title: The Rare Collection Gallery
