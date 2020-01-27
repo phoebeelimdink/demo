@@ -28,7 +28,7 @@ event:
     highlight-tab: hide
     highlight-list:
       - highlight-lowres-image-link: /images/event-images/onpaper/On-Paper-exhibition-highlights-low.jpg
-      - highlight-hires-image-link: /images/event-images/onpaper/On-Paper-exhibition-highlights-high.jpg
+        highlight-hires-image-link: /images/event-images/onpaper/On-Paper-exhibition-highlights-high.jpg
  #
  #
   - title: On Paper = Singapore before 1867
