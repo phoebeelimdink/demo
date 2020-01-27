@@ -620,32 +620,32 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 a.file-download-style-1 {
-    text-decoration: none;
-    color: #d51919;
+    text-decoration: none !important;
+    color: #d51919 !important;
     width: 100%;
     display: block;
-    margin-left: 0px;
+    margin-left: 0px !important;
     padding: 10px;
     font-style: italic;
     font-weight: 100;
     border-bottom: 1px #ffdfdf solid;
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
     transition: 0.3s all ease;
 }
 
 a.file-download-style-1::before {
-    position: relative;
-    left: 0px;
-    color: #d51919;
+    position: relative !important;
+    left: 0px !important;
+    color: #d51919 !important;
     margin-right: 10px;
     font-style: normal;
     transition: 0.3s all ease;
 }
 
 a.file-download-style-1:hover {
-    background: #d51919;
-    color: white;
-    padding-left:20px;
+    background: #d51919 !important;
+    color: white !important;
+    padding-left:20px !important;
 }
 
 a.file-download-style-1:hover:before {
