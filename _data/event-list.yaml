@@ -70,9 +70,9 @@ event:
     highlight-list:
       - highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
         highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
-        highlight-title: highlight 1
-        highlight-subtitle: Sub Heading 1
-        highlight-text: text here
+        highlight-title: 
+        highlight-subtitle: 
+        highlight-text: 
  #
  #
   - title: The Rare Collection Gallery
