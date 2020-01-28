@@ -75,16 +75,13 @@ event:
         highlight-text: 
     #custom tab 1 tab
     custom-tab1: show
-    custom-content:
-      - custom-tab1-title:
+    custom-tab1-title:
     #custom tab 2 tab
     custom-tab2: show
-    custom-content:
-      - custom-tab2-title:
+    custom-tab2-title:
     #custom tab 3 tab
     custom-tab3: show
-    custom-content:
-      - custom-tab3-title:
+    custom-tab3-title:
     
  #
  #
