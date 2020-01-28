@@ -727,11 +727,16 @@ input[name="event-programme"]:checked+div+div>input {
     transition:0.3s all ease;
 }
 
+.programme-input-wrap>input:hover+.event-programme-brief-wrap {
+    box-shadow: 5px 5px 10px #00000020;
+}
+
 .event-programme-brief-wrap {
     display: flex;
     flex-direction: row;
     margin-bottom: 10px;
     padding: 10px;
+    transition: 0.3s all ease;
     border: 1px solid #ececec;
 }
 
