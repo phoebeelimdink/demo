@@ -697,7 +697,7 @@ a.dl-style-1:hover:before {
 }
 
 /*exhibition programmes*/
-input[name="event-programme"]:checked+div+.programme-details {
+input[name="event-programme"]:checked+div+div {
     height: auto;
 }
 
