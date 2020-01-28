@@ -777,6 +777,20 @@ input[name="event-programme"]:checked+div+div>input {
     flex: 0 0 20%;
     margin-top: 0px !important;
     margin-bottom: 0px !important;
+    position:relative;
+    padding-left:15px;
+}
+
+.programme-title-time::before {
+    content: '';
+    background: url(/images/watch.png);
+    width: 10px;
+    height: 10px;
+    background-size: 10px;
+    position: absolute;
+    left: 0;
+    top: 3px;
+    opacity: 0.6;
 }
 
 .programme-title-place {
@@ -784,6 +798,20 @@ input[name="event-programme"]:checked+div+div>input {
     margin-top: 0px !important;
     flex: 1 1 80%;
     line-height: 14pt !important;
+    position:relative;
+    padding-left:15px;
+}
+
+.programme-title-place::before {
+    content: '';
+    background: url(/images/pin.png);
+    width: 10px;
+    height: 10px;
+    background-size: 10px;
+    position: absolute;
+    left: 0;
+    top: 3px;
+    opacity: 0.6;
 }
 
 .programme-details-title-wrap {
