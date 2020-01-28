@@ -696,6 +696,30 @@ a.dl-style-1:hover:before {
     margin-top: 20px;
 }
 
+/*exhibition programmes*/
+input[name="event-programme"]:checked+div+.programme-details {
+    height: auto;
+}
+
+.programme-input-wrap input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+.programme-input-wrap {
+    position: relative;
+}
+.programme-details {
+    position: relative;
+    display: flex;
+    height: 0px;
+    overflow: hidden;
+    transition:0.3s all ease;
+}
+
 
 /*animation*/
 .event-details-area > div{
