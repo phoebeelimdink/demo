@@ -29,6 +29,9 @@ event:
     highlight-list:
       - highlight-lowres-image-link:
         highlight-hires-image-link:
+        highlight-title:
+        highlight-subtitle:
+        highlight-text:
  #
  #
   - title: On Paper = Singapore before 1867
@@ -67,6 +70,9 @@ event:
     highlight-list:
       - highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
         highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
+        highlight-title:
+        highlight-subtitle:
+        highlight-text:
  #
  #
   - title: The Rare Collection Gallery
