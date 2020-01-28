@@ -73,6 +73,8 @@ event:
         highlight-title: 
         highlight-subtitle: 
         highlight-text: 
+    #programmes tab
+    programmes-tab: show
     #custom tab 1 tab
     custom-tab1: show
     custom-tab1-title: Custom Satu
