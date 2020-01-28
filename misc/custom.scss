@@ -721,7 +721,9 @@ input[name="event-programme"]:checked+div+div>input {
     position: relative;
 }
 .programme-details {
+    margin-left: 22%;
     display: flex;
+    flex-direction: column;
     max-height: 0px;
     overflow: hidden;
     transition:0.3s all ease;
@@ -782,6 +784,22 @@ input[name="event-programme"]:checked+div+div>input {
     margin-top: 0px !important;
     flex: 1 1 80%;
     line-height: 14pt !important;
+}
+
+.programme-details-title-wrap {
+    margin-bottom: 20px;
+}
+
+p.programme-details-title {
+    font-weight: 900;
+    color: #a2a2a2;
+    font-size: 12pt;
+    line-height: 14pt !important;
+    margin-bottom: 0px !important;
+}
+
+.programme-details-title-wrap p {
+    margin-top: 0px;
 }
 
 
