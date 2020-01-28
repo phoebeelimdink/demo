@@ -362,7 +362,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 /*custom homepage*/
-#main-content .bp-section p {
+.bp-hero ~ .bp-section p {
     white-space: pre-wrap;
 }
 
