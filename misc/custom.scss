@@ -700,7 +700,7 @@ a.dl-style-1:hover:before {
 
 /*exhibition programmes*/
 input[name="event-programme"]:checked+div+div {
-    height: auto;
+    max-height: 2000px;
 }
 input[name="event-programme"]+div+div>input {
     z-index:-1;
@@ -722,7 +722,7 @@ input[name="event-programme"]:checked+div+div>input {
 }
 .programme-details {
     display: flex;
-    height: 0px;
+    max-height: 0px;
     overflow: hidden;
     transition:0.3s all ease;
 }
