@@ -75,13 +75,13 @@ event:
         highlight-text: 
     #custom tab 1 tab
     custom-tab1: show
-    custom-tab1-title:
+    custom-tab1-title: Custom Satu
     #custom tab 2 tab
     custom-tab2: show
-    custom-tab2-title:
+    custom-tab2-title: Custom Dua
     #custom tab 3 tab
     custom-tab3: show
-    custom-tab3-title:
+    custom-tab3-title: Custom Tiga
     
  #
  #
