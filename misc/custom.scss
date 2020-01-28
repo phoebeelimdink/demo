@@ -700,6 +700,12 @@ a.dl-style-1:hover:before {
 input[name="event-programme"]:checked+div+div {
     height: auto;
 }
+input[name="event-programme"]+div+div>input {
+    z-index:-1;
+}
+input[name="event-programme"]:checked+div+div>input {
+    z-index:99;
+}
 
 .programme-input-wrap input {
     position: absolute;
