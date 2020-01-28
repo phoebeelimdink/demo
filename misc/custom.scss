@@ -727,6 +727,58 @@ input[name="event-programme"]:checked+div+div>input {
     transition:0.3s all ease;
 }
 
+.event-programme-brief-wrap {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ececec;
+}
+
+.event-programme-brief-date-wrap {
+    flex: 1 1 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-right: 3px solid #ffd2d2;
+}
+
+.event-programme-brief-date-wrap p {
+    font-size: 20pt;
+    font-weight: 900;
+}
+
+.event-programme-brief-wrap .event-progremme-brief-info-wrap {
+    flex: 1 1 80%;
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.programme-title {
+    font-weight: 900;
+    font-size: 11pt;
+    line-height: 14pt !important;
+    margin-bottom: 5px !important;
+    flex: 1 1 100%;
+}
+
+.programme-title-time {
+    font-size: 10pt;
+    flex: 0 0 20%;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.programme-title-place {
+    font-size: 10pt;
+    margin-top: 0px !important;
+    flex: 1 1 80%;
+    line-height: 14pt !important;
+}
+
 
 /*animation*/
 .event-details-area > div{
