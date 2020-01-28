@@ -779,6 +779,7 @@ input[name="event-programme"]:checked+div+div>input {
     margin-bottom: 0px !important;
     position:relative;
     padding-left:15px;
+    line-height: 14pt !important;
 }
 
 .programme-title-time::before {
@@ -789,7 +790,7 @@ input[name="event-programme"]:checked+div+div>input {
     background-size: 10px;
     position: absolute;
     left: 0;
-    top: 3px;
+    top: 4px;
     opacity: 0.6;
 }
 
@@ -810,7 +811,7 @@ input[name="event-programme"]:checked+div+div>input {
     background-size: 10px;
     position: absolute;
     left: 0;
-    top: 3px;
+    top: 4px;
     opacity: 0.6;
 }
 
