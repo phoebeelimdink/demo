@@ -513,6 +513,7 @@ $desktop: 960px + (2 * $gap) !default;
     margin-right: 10px;
     z-index: 2;
     align-items: baseline;
+    flex-wrap: wrap;
 }
 
 .event-tab-area .event-tab-list a {
@@ -523,8 +524,9 @@ $desktop: 960px + (2 * $gap) !default;
     color: white;
     transition: 0.3s all ease;
     font-weight: 900;
-    margin-left: 10px;
-    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
     transition: all 0.3s ease;
 }
 
