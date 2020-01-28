@@ -814,11 +814,41 @@ p.programme-details-title {
 }
 .programme-details-time-wrap .programme-details-time {
     margin-top: 0px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    position:relative;
+    padding-left:30px;
+}
+.programme-details-time::before {
+    content: '';
+    background: url(/images/watch.png);
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+    opacity: 0.6;
 }
 .programme-details-time-wrap .programme-details-date {
     margin-top: 0px !important;
     margin-bottom: 0px !important;
+    position:relative;
+    padding-left:30px;
 }
+
+.programme-details-date::before {
+    content: '';
+    background: url(/images/calendar.png);
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+    opacity: 0.6;
+}
+
 .programme-details-time-wrap .programme-details-title {
     flex: 1 1 100%;
 }
