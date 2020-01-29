@@ -1069,6 +1069,19 @@ a.dl-style-1 {
 p.programme-details-title {
     margin-bottom: 7px !important;
 }
+.programme-time-start {
+    flex: 0;
+}
+.programme-details-time-wrap>div>p {
+    margin-right: 10px;
+}
+.programme-time-end {
+    flex: 1 1 50%;
+}
+
+.programme-time-start {
+    flex: 1 1 50%;
+}
 /*.event-area {
     width: 110%;
     right: 5%;
