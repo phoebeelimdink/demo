@@ -989,6 +989,26 @@ p.programme-details-title {
     flex-wrap: nowrap;
     overflow-x: scroll;
 }
+.event-tab-area {
+    width: 116%;
+    right: 8%;
+    margin-top: -80px;
+}
+.event-details-area {
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+}
+.event-place-date-and-time p::before {
+    width: 15px;
+    height: 15px;
+    background-size: 15px;
+    top: 5px;
+}
+.event-place-date-and-time p {
+    font-size: 10pt;
+    margin-bottom: 0px !important;
+}
 /*.event-area {
     width: 110%;
     right: 5%;
