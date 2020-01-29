@@ -365,7 +365,9 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero ~ .bp-section p {
     white-space: pre-wrap;
 }
-
+.bg-hero {
+    background-position: center;
+}
 /*event list css*/
 .event-list-wrap p {
     font-size: 12pt;
@@ -1048,6 +1050,12 @@ a.dl-style-1 {
 }
 .programme-details p {
     font-size: 10pt;
+}
+.programme-details-title-wrap p:nth-of-type(2) {
+    line-height: 14pt;
+}
+p.programme-details-title {
+    margin-bottom: 7px !important;
 }
 /*.event-area {
     width: 110%;
