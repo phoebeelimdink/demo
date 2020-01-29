@@ -366,7 +366,7 @@ $desktop: 960px + (2 * $gap) !default;
     white-space: pre-wrap;
 }
 .bg-hero {
-    background-position: center;
+    background-position: center !important;
 }
 /*event list css*/
 .event-list-wrap p {
