@@ -622,26 +622,30 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 a.dl-style-1 {
-    text-decoration: none !important;
-    color: #d51919 !important;
+    text-decoration: none!important;
+    color: #d51919!important;
     width: 100%;
     display: block;
-    margin-left: 0px !important;
+    margin-left: 0!important;
     padding: 15px 10px 10px;
     font-style: italic;
     font-weight: 100;
     border-bottom: 1px #ffdfdf solid;
-    margin-bottom: 0px !important;
-    transition: 0.3s all ease;
+    margin-bottom: 0!important;
+    transition: .3s all ease;
+    padding-left: 50px;
 }
 
 a.dl-style-1::before {
-    position: relative !important;
-    left: 0px !important;
-    color: #d51919 !important;
+    position: absolute!important;
+    left: 10px!important;
+    color: #d51919!important;
     margin-right: 10px;
     font-style: normal;
-    transition: 0.3s all ease;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .3s all ease;
+    height: auto;
 }
 
 a.dl-style-1:hover {
@@ -1003,11 +1007,29 @@ p.programme-details-title {
     width: 15px;
     height: 15px;
     background-size: 15px;
-    top: 5px;
 }
 .event-place-date-and-time p {
     font-size: 10pt;
-    margin-bottom: 0px !important;
+    margin-bottom: 10px!important;
+    line-height: 14pt;
+}
+.event-place-date-and-time {
+    padding: 10px 20px;
+}
+.detail-price-info {
+    position: relative !important;
+    top: 0px;
+    margin-left: auto;
+    display: block;
+    width: 100%;
+    left: 0px;
+    font-size: 10pt !important;
+}
+.event-text-area {
+    margin-top: 20px;
+}
+a.dl-style-1 {
+    font-size: 10pt;
 }
 /*.event-area {
     width: 110%;
