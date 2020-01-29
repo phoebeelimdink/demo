@@ -979,6 +979,16 @@ p.programme-details-title {
     position: relative;
     top: -50px;
 }
+/*event detail page*/
+.event-tab-area .event-tab-list a {
+    flex: 1 1 100%;
+    width: 100%;
+    white-space: nowrap;
+}
+.event-tab-area .event-tab-list {
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
 /*.event-area {
     width: 110%;
     right: 5%;
