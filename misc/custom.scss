@@ -971,7 +971,10 @@ p.programme-details-title {
 
 /*media query*/
 @media (max-width: 575px){
-.event-area {
+.event-list-wrap {
+    width: 100%;
+}
+/*.event-area {
     width: 110%;
     right: 5%;
     position: relative;
@@ -1020,7 +1023,7 @@ p.programme-details-title {
     font-size: 10pt;
     line-height: 18pt;
     margin-top: 12px;
-}
+}*/
 
 }
 @media (max-width: 767px){
