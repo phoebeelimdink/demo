@@ -973,6 +973,11 @@ p.programme-details-title {
 @media (max-width: 575px){
 .event-list-wrap {
     width: 100%;
+    padding: 15px;
+}
+.event-area {
+    position: relative;
+    top: -50px;
 }
 /*.event-area {
     width: 110%;
