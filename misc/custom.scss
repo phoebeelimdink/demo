@@ -971,11 +971,13 @@ p.programme-details-title {
 
 /*media query*/
 @media (max-width: 575px){
-.event-list-wrap {
-    padding: 10px;
+.event-area {
     width: 110%;
     right: 5%;
     position: relative;
+}
+.event-list-wrap {
+    padding: 10px;
 }
 .event-area h3 {
     font-size: 12pt;
