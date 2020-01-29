@@ -1036,6 +1036,18 @@ p.programme-details-title {
 a.dl-style-1 {
     font-size: 10pt;
 }
+.detail-price-info::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    background: url(/images/ticket.png);
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 2px;
+    opacity: 0.5;
+    filter: invert(100%) sepia(0) saturate(7482%) hue-rotate(223deg) brightness(107%) contrast(105%);
+}
 /*gallery*/
 .event-gallery-wrap {
     column-count: 1;
