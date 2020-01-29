@@ -651,7 +651,7 @@ a.dl-style-1::before {
 a.dl-style-1:hover {
     background: #d51919 !important;
     color: white !important;
-    padding-left:10% !important;
+    padding-left:20% !important;
 }
 
 a.dl-style-1:hover:before {
@@ -745,6 +745,7 @@ input[name="event-programme"]:checked+div+div>input {
     padding: 10px;
     transition: 0.3s all ease;
     border: 1px solid #ececec;
+    text-align: right;
 }
 
 .event-programme-brief-date-wrap {
@@ -997,6 +998,7 @@ p.programme-details-title {
     width: 116%;
     right: 8%;
     margin-top: -80px;
+    margin-bottom: 30px;
 }
 .event-details-area {
     margin-left: 0px;
@@ -1029,6 +1031,21 @@ p.programme-details-title {
     margin-top: 20px;
 }
 a.dl-style-1 {
+    font-size: 10pt;
+}
+/*gallery*/
+.event-gallery-wrap {
+    column-count: 1;
+}
+/*programme*/
+.event-progremme-brief-info-wrap p {
+    margin-bottom: 5px !important;
+}
+.programme-details {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.programme-details p {
     font-size: 10pt;
 }
 /*.event-area {
