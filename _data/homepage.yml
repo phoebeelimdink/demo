@@ -28,3 +28,8 @@ info-sections:
     section-more-button-url: /exhibitions/current-exhibitions/onpaper#tab1
     section-image-path: /images/event-images/onpaper/OnPaper-homepage-side-info.png
 
+# Resources Section
+resources-title: Exhibitions
+resources-subtitle: Current Exhibitions
+resources-more-button: Exhibitions List
+resources-more-button-url: exhibitions/current-exhibitions
