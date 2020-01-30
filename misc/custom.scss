@@ -380,6 +380,7 @@ $desktop: 960px + (2 * $gap) !default;
 .media-card-plain .has-text-white {
     position: relative;
     z-index: 2;
+    pointer-events: none;
 }
 .media-card-plain .is-fluid {
     position: absolute;
