@@ -29,7 +29,7 @@ info-sections:
     section-image-path: /images/event-images/onpaper/OnPaper-homepage-side-info.png
 
 # Resources Section
-resources-title: exhibitions
+resources-title: Exhibitions
 resources-subtitle: Current Exhibitions
 resources-more-button: Exhibitions List
-resources-more-button-url: exhibitions/
+resources-more-button-url: /exhibitions/
