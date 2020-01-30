@@ -117,4 +117,19 @@ event:
     highlight-tab: hide
     highlight-list:
       - highlight-image-link:
+#
+#
+  - title: Script & Stage: Theatre in Singapore from the 50s to 80s
+    shortname: scriptandstage
+    category: online
+    url: http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html
+    details: 
+      thumbnail-link: /online/Script-and-stage-thumbnail.jpg
+      tab-banner-image-link:
+      main-image-link:
+      date: nodata
+      time: nodata
+      place: nodata
+      price: online
+      short-description: This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
 
