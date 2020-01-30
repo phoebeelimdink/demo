@@ -32,8 +32,8 @@ event:
         highlight-title:
         highlight-subtitle:
         highlight-text:
- #
- #
+##
+##
   - title: On Paper = Singapore before 1867
     short-name: onpaper
     category: current
@@ -84,8 +84,8 @@ event:
     #custom tab 3 tab
     custom-tab3: hide
     custom-tab3-title: Custom Tiga
- #
- #
+##
+##
   - title: The Rare Collection Gallery
     shortname: rarecollection
     category: current
@@ -116,8 +116,8 @@ event:
     highlight-tab: hide
     highlight-list:
       - highlight-image-link:
- #
- #
+##
+##
   - title: Script & Stage = Theatre in Singapore from the 50s to 80s
     shortname: scriptandstage
     category: online
@@ -131,4 +131,18 @@ event:
       place: nodata
       price: online
       short-description: This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
-
+##
+##
+  - title: From the Stacks = Highlights of the National Library
+    shortname: fromthestacks
+    category: online
+    url: http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html
+    details: 
+      thumbnail-link: /online/From-the-Stacks-thumbnail.jpg
+      tab-banner-image-link:
+      main-image-link:
+      date: nodata
+      time: nodata
+      place: nodata
+      price: online
+      short-description: Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition.
