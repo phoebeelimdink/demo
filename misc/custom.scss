@@ -617,6 +617,7 @@ event-tab-list.tab-list-outside a:hover {
     padding: 20px 20px 10px 20px;
     justify-content: center;
     align-items: flex-end;
+    position: relative;
 }
 
 .event-details-area {
@@ -1060,6 +1061,19 @@ p.programme-details-title {
     margin-top: -50px;
 }
 /*event detail page*/
+.event-tab-list.tab-list-outside {
+    width: 116%;
+    right: 8%;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.event-tab-list.tab-list-outside a:nth-last-child(1) {
+    margin-bottom: 20px;
+}
+.event-tab-list.tab-list-outside a {
+    margin-bottom: 30px;
+}
 .event-tab-area .event-tab-list a {
     flex: 1 1 100%;
     width: 100%;
@@ -1073,7 +1087,6 @@ p.programme-details-title {
     width: 116%;
     right: 8%;
     margin-top: -80px;
-    margin-bottom: 30px;
 }
 .event-details-area {
     margin-left: 0px;
