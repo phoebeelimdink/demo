@@ -457,7 +457,7 @@ $desktop: 960px + (2 * $gap) !default;
     font-weight: bolder;
     line-height: 23pt;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 10px !Important;
 }
 .event-list-wrap {
     width: 48%;
@@ -501,6 +501,14 @@ $desktop: 960px + (2 * $gap) !default;
 	
 .event-list-wrap:hover img {
     transform: scale(1.2);
+}
+
+.event-area a:hover {
+    text-decoration: none;
+}
+
+.event-area a {
+    text-decoration: none;
 }
 
 .event-list-wrap a.readmore:hover {
