@@ -591,6 +591,34 @@ section.bp-section.bg-secondary .bp-container .row small.has-text-white {
     width: 100%;
     opacity: 0.6;
 }
+/*new tab style - Outside the banner*/
+event-tab-list.tab-list-outside a:hover {
+    font-size: 16pt;
+    margin-bottom: 10px;
+    transform: translateY(-5px);
+}
+.event-tab-list.tab-list-outside a {
+    color: white;
+    text-decoration: none;
+    font-size: 14pt;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 15px;
+    top: 0px;
+    position: relative;
+    transition: 0.3s all ease;
+}
+.event-tab-list.tab-list-outside {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background: #252525;
+    border-top: 2px solid #d51918;
+    margin-bottom: 50px;
+    padding: 20px 20px 10px 20px;
+    justify-content: center;
+    align-items: flex-end;
+}
 
 .event-details-area {
     margin-left: 20px;
