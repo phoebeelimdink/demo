@@ -532,6 +532,10 @@ h1 {
 }
 
 /*event page*/
+section.bp-section.bg-secondary .bp-container .row small.has-text-white {
+    display: none;
+}
+
 .event-details-area > div:target {
     display: block;
 }
