@@ -503,12 +503,12 @@ $desktop: 960px + (2 * $gap) !default;
     transform: scale(1.2);
 }
 
-.event-list-wrap a:hover {
+.event-list-wrap a.readmore:hover {
     color: #d51918;
     text-decoration: none;
     transform: translateX(10px);
 }
-.event-list-wrap a {
+.event-list-wrap a.readmore {
     text-decoration: none;
     color: #b3b3b3;
     font-weight: 900;
