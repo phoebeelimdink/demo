@@ -1,5 +1,5 @@
 event:
-  - title: 1919 = The Singapore Centenary and its Celebration
+  - title: "1919 : The Singapore Centenary and its Celebration"
     short-name: 1919sg
     category: current
     url: /exhibitions/current-exhibitions/singaporecentenary
@@ -34,7 +34,7 @@ event:
         highlight-text:
 ##
 ##
-  - title: On Paper = Singapore before 1867
+  - title: "On Paper : Singapore before 1867"
     short-name: onpaper
     category: current
     url: /exhibitions/current-exhibitions/onpaper
@@ -45,7 +45,7 @@ event:
       date: 28 September 2019 – 22 March 2020
       time: 10.00am – 9.00pm
       place: Level 10, Gallery National Library Building
-      price: free
+      price: nodata
       short-description: Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past.
     #photo gallery tab
     gallery-tab: show
@@ -86,7 +86,7 @@ event:
     custom-tab3-title: Custom Tiga
 ##
 ##
-  - title: The Rare Collection Gallery
+  - title: "The Rare Collection Gallery"
     shortname: rarecollection
     category: current
     url:
@@ -97,7 +97,7 @@ event:
       date: permanent
       time: This gallery is open to public during scheduled guided tours only.
       place: Level 13, Rare Gallery. National Library Building
-      price: free
+      price: nodata
       short-description: The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
     #photo gallery
     gallery-tab: show
@@ -118,7 +118,7 @@ event:
       - highlight-image-link:
 ##
 ##
-  - title: Script & Stage = Theatre in Singapore from the 50s to 80s
+  - title: "Script & Stage : Theatre in Singapore from the 50s to 80s"
     shortname: scriptandstage
     category: online
     url: http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html
@@ -133,7 +133,7 @@ event:
       short-description: This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
 ##
 ##
-  - title: From the Stacks = Highlights of the National Library
+  - title: "From the Stacks : Highlights of the National Library"
     shortname: fromthestacks
     category: online
     url: http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html
