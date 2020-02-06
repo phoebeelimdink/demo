@@ -1052,6 +1052,10 @@ p.programme-details-title {
 
 /*media query*/
 @media (max-width: 575px){
+h1 {
+    font-size: 27pt;
+    line-height: 36pt;
+}
 .event-list-wrap {
     width: 100%;
     padding: 15px;
@@ -1220,8 +1224,12 @@ p.programme-details-title {
 
 }
 @media (max-width: 767px){
-
+h1 {
+    font-size: 20pt;
+    line-height: 38pt;
 }
+}
+
 @media (max-width: 991px){
 .event-area h3 {
     font-size: 14pt;
