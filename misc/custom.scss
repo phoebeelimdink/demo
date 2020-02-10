@@ -788,7 +788,7 @@ input[name="event-programme"]:checked+div+div>input {
     z-index:98;
 }
 /*to make the text selectable without blocking all the hidden close button*/
-.programme-details > div > p {
+.programme-details p {
     position: relative;
     display: table;
     z-index: 99;
