@@ -22,8 +22,7 @@ breadcrumb: Programmes
         <p>{{prog-listing.data.event-des}}</p>
       </div>
    <div class="programme-details-title-wrap">
-      <p class="programme-details-title">Organizer</p>
-      <p>{{prog-listing.data.organizer}}</p>
+      <a class="programme-readmore" href="{{prog-listing.data.url}}">Read More</a>
    </div>
       <div class="programme-details-time-wrap">
          <p class="programme-details-title">Time of Event</p>
@@ -38,7 +37,9 @@ breadcrumb: Programmes
               <p class="programme-details-time">{{prog-listing.data.time-end}}</p>
          </div>
       </div>
+      <div style="position:relative">close
       <input type="radio" name="event-programme" class="close-radio">
+      </div>
    </div>
 </div>
 {% endfor %}
