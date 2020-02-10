@@ -37,7 +37,7 @@ breadcrumb: Programmes
               <p class="programme-details-time">{{prog-listing.data.time-end}}</p>
          </div>
       </div>
-      <div style="position:relative">close
+      <div class="programme-close-btn" style="position:relative">close
       <input type="radio" name="event-programme" class="close-radio">
       </div>
    </div>
