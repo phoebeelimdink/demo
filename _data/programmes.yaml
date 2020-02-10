@@ -11,7 +11,7 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
         Singapore
   - date : 08 Feb
@@ -26,9 +26,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 09 Feb
     group-name: onpaper
     color : gold
@@ -41,9 +40,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 09 Feb
     group-name: onpaper
     color : gold
@@ -56,9 +54,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 15 Feb
     group-name: onpaper
     color : gold
@@ -71,9 +68,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 15 Feb
     group-name: onpaper
     color : gold
@@ -86,9 +82,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 16 Feb
     group-name: onpaper
     color : gold
@@ -101,9 +96,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 16 Feb
     group-name: onpaper
     color : gold
@@ -116,9 +110,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore 
   - date : 20 Feb
     group-name: onpaper
     color : gold
@@ -131,9 +124,8 @@ programme:
       time-end: 8.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
-        100 Victoria Street, Singapore 188064
-        Singapore     
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064  
   - date : 22 Feb
     group-name: onpaper
     color : gold
@@ -146,9 +138,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 22 Feb
     group-name: onpaper
     color : gold
@@ -161,9 +152,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore       
   - date : 23 Feb
     group-name: onpaper
     color : gold
@@ -176,9 +166,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 23 Feb
     group-name: onpaper
     color : gold
@@ -191,9 +180,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore     
   - date : 29 Feb
     group-name: onpaper
     color : gold
@@ -206,9 +194,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 29 Feb
     group-name: onpaper
     color : gold
@@ -221,9 +208,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore 
   - date : 01 Mar
     group-name: onpaper
     color : gold
@@ -236,9 +222,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore   
   - date : 07 Mar
     group-name: onpaper
     color : gold
@@ -251,9 +236,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 07 Mar
     group-name: onpaper
     color : gold
@@ -266,9 +250,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore      
   - date : 08 Mar
     group-name: onpaper
     color : gold
@@ -281,9 +264,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singa8pore
   - date : 08 Mar
     group-name: onpaper
     color : gold
@@ -296,9 +278,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 14 Mar
     group-name: onpaper
     color : gold
@@ -311,9 +292,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 14 Mar
     group-name: onpaper
     color : gold
@@ -326,9 +306,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 15 Mar
     group-name: onpaper
     color : gold
@@ -341,9 +320,8 @@ programme:
       time-end: 3.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 15 Mar
     group-name: onpaper
     color : gold
@@ -356,9 +334,8 @@ programme:
       time-end: 4.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore
   - date : 19 Mar
     group-name: onpaper
     color : gold
@@ -371,6 +348,5 @@ programme:
       time-end: 8.00pm
       organizer: On Paper
       venue: |
-        Level 10, Gallery, National Library Building
+        Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
-        Singapore  
