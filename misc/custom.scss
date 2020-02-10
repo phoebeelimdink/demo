@@ -901,6 +901,10 @@ input[name="event-programme"]:checked+div+div>input {
     margin-bottom: 20px;
 }
 
+.programme-details>div:nth-child(1) {
+    margin-top: 20px;
+}
+
 p.programme-details-title {
     font-weight: 900;
     color: #a2a2a2;
@@ -968,6 +972,8 @@ p.programme-details-title {
     flex-direction: row;
     flex-wrap: wrap;
     margin-bottom: 20px;
+    border-top: 1px dashed #e6e6e6;
+    padding-top: 21px;
 }
 
 a.programme-readmore:hover {
@@ -988,6 +994,19 @@ a.programme-readmore {
     position: relative;
 }
 
+.programme-close-btn:hover {
+    background: #f7f7f7;
+}
+
+.programme-close-btn {
+    background: #e4e4e4;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 10px;
+    color: #7b7b7b;
+    cursor: pointer !important;
+    transition: all 0.3s ease;
+}
 
 /*animation*/
 .event-details-area > div{
