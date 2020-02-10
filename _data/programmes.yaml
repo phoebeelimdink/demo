@@ -9,7 +9,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 8, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -38,7 +38,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 9, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -52,7 +52,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 9, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -66,7 +66,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 15, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -80,7 +80,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 15, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -94,7 +94,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 16, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -108,7 +108,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 16, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -122,7 +122,7 @@ programme:
       time-start: 7.00pm
       date-end: Feb 20, 2020
       time-end: 8.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064  
@@ -136,7 +136,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 22, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -150,7 +150,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 22, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -164,7 +164,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 23, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -178,7 +178,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 23, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -192,7 +192,7 @@ programme:
       time-start: 2.00pm
       date-end: Feb 29, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -206,7 +206,7 @@ programme:
       time-start: 3.00pm
       date-end: Feb 29, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -220,7 +220,7 @@ programme:
       time-start: 2.00pm
       date-end: Mar 1, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -234,7 +234,7 @@ programme:
       time-start: 2.00pm
       date-end: Mar 7, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -248,7 +248,7 @@ programme:
       time-start: 3.00pm
       date-end: Mar 7, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -262,7 +262,7 @@ programme:
       time-start: 2.00pm
       date-end: Mar 8, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -276,7 +276,7 @@ programme:
       time-start: 3.00pm
       date-end: Mar 8, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -290,7 +290,7 @@ programme:
       time-start: 2.00pm
       date-end: Mar 14, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -304,7 +304,7 @@ programme:
       time-start: 3.00pm
       date-end: Mar 14, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -318,7 +318,7 @@ programme:
       time-start: 2.00pm
       date-end: Mar 15, 2020
       time-end: 3.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -332,7 +332,7 @@ programme:
       time-start: 3.00pm
       date-end: Mar 15, 2020
       time-end: 4.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
@@ -346,7 +346,7 @@ programme:
       time-start: 7.00pm
       date-end: Mar 19, 2020
       time-end: 8.00pm
-      organizer: On Paper
+      url: #
       venue: |
         Level 10, Gallery, National Library Building,
         100 Victoria Street, Singapore 188064
