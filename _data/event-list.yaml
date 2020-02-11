@@ -69,9 +69,9 @@ event:
         video-title: 
         video-subtitle: 
         video-description: |
-          Extract from a _Berita Singapura_ programme presenting several new public services in Singapore.
+          Extract from a *Berita Singapura* programme presenting several new public services in Singapore.
           
-          _Ministry of Culture, Broadcasting Division_
+          *Ministry of Culture, Broadcasting Division*
     #highlight tab
     highlight-tab: show
     highlight-list:
