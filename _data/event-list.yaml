@@ -68,7 +68,7 @@ event:
       - video-youtube-embed-code: 
         video-title: 
         video-subtitle: 
-        video-description: |
+        video-description: >
           Extract from a ''Berita Singapura'' programme presenting several new public services in Singapore.
           
           ''Ministry of Culture, Broadcasting Division''
