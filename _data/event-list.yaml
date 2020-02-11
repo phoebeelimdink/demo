@@ -64,6 +64,7 @@ event:
     video-list: 
       - video-link:
         video-title:
+        video-subtitle:
         video-description:
     #highlight tab
     highlight-tab: show
