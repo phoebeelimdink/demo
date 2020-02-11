@@ -24,6 +24,9 @@ event:
       - video-link:
         video-title:
         video-description:
+      - video-link:
+        video-title:
+        video-description:
     #highlight
     highlight-tab: hide
     highlight-list:
@@ -63,9 +66,13 @@ event:
     video-tab: show
     video-list: 
       - video-youtube-embed-code: SPb79aI6quk
-        video-title:
-        video-subtitle:
-        video-description:
+        video-title: Title
+        video-subtitle: Sub Here
+        video-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      - video-youtube-embed-code: SPb79aI6quk
+        video-title: Title 2
+        video-subtitle: Sub 2 Here
+        video-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     #highlight tab
     highlight-tab: show
     highlight-list:
