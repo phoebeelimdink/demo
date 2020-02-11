@@ -63,16 +63,12 @@ event:
       - photo-link: /onpaper/On-Paper_gallery_8.jpg
       - photo-link: /onpaper/On-Paper_gallery_9.jpg
     #video gallery tab
-    video-tab: show
+    video-tab: hide
     video-list: 
-      - video-youtube-embed-code: SPb79aI6quk
-        video-title: Title
-        video-subtitle: Sub Here
-        video-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      - video-youtube-embed-code: SPb79aI6quk
-        video-title: Title 2
-        video-subtitle: Sub 2 Here
-        video-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
     #highlight tab
     highlight-tab: show
     highlight-list:
