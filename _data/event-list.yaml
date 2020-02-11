@@ -62,7 +62,7 @@ event:
     #video gallery tab
     video-tab: show
     video-list: 
-      - video-youtube-embed-code:
+      - video-youtube-embed-code: SPb79aI6quk
         video-title:
         video-subtitle:
         video-description:
