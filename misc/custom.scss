@@ -625,6 +625,10 @@ event-tab-list.tab-list-outside a:hover {
     margin-right: 20px;
 }
 
+.event-details-area p {
+    white-space: pre-wrap;
+}
+
 .event-place-date-and-time p {
     color: white;
     margin-bottom: 5px !important;
@@ -979,6 +983,10 @@ p.programme-details-title {
     margin-bottom: 0px !important;
     position:relative;
     padding-left:30px;
+}
+
+.programme-input-wrap p {
+    white-space: pre-wrap;
 }
 
 .programme-details-date::before {
