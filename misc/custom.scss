@@ -777,6 +777,29 @@ a.dl-style-1:hover:before {
     margin-top: 20px;
 }
 
+/*video tab*/
+.featured-video-wrap p {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+.featured-video-wrap h4 {
+    margin-top: 20px !important;
+}
+.youtube-video-wrap:nth-child(1) {
+    margin-top: 0px;
+}
+.youtube-video-wrap iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.youtube-video-wrap {
+    position: relative;
+    margin-top: 50px;
+}
+
 /*exhibition programmes*/
 input[name="event-programme"]:checked+div+div {
     max-height: 2000px;
