@@ -63,12 +63,15 @@ event:
       - photo-link: /onpaper/On-Paper_gallery_8.jpg
       - photo-link: /onpaper/On-Paper_gallery_9.jpg
     #video gallery tab
-    video-tab: hide
+    video-tab: show
     video-list: 
       - video-youtube-embed-code: 
         video-title: 
         video-subtitle: 
-        video-description: 
+        video-description: |
+          Extract from a ''Berita Singapura'' programme presenting several new public services in Singapore.
+          
+          ''Ministry of Culture, Broadcasting Division''
     #highlight tab
     highlight-tab: show
     highlight-list:
