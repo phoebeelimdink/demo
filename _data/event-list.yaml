@@ -72,7 +72,7 @@ event:
     #featured highlight tab
     featured-highlight-tab: show
     featured-highlight-list: 
-      - featured-highlight-image: 
+      - featured-highlight-image-link: 
         featured-highlight-title: 
         featured-highlight-subtitle: 
         featured-highlight-description:   
