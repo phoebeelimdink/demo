@@ -27,14 +27,14 @@ event:
       - video-link:
         video-title:
         video-description:
-    #highlight
-    highlight-tab: hide
-    highlight-list:
-      - highlight-lowres-image-link:
-        highlight-hires-image-link:
-        highlight-title:
-        highlight-subtitle:
-        highlight-text:
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link:
+        exhibition-highlight-hires-image-link:
+        exhibition-highlight-title:
+        exhibition-highlight-subtitle:
+        exhibition-highlight-text:
 ##
 ##
   - title: "On Paper : Singapore before 1867"
@@ -77,13 +77,13 @@ event:
         featured-highlight-subtitle: 
         featured-highlight-description:   
     #exhibition highlight tab
-    highlight-tab: show
-    highlight-list:
-      - highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
-        highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
-        highlight-title: 
-        highlight-subtitle: 
-        highlight-text: 
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
+        exhibition-highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
     #programmes tab
     programmes-tab: show
     #custom tab 1 tab
