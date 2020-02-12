@@ -811,7 +811,9 @@ a.dl-style-1:hover:before {
 .featured-highlight-wrap h4 {
     margin-top: 20px !important;
 }
-
+.featured-highlight-wrap img {
+    margin-top: 40px;
+}
 /*exhibition programmes*/
 input[name="event-programme"]:checked+div+div {
     max-height: 2000px;
