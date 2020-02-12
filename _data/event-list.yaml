@@ -69,7 +69,14 @@ event:
         video-title: 
         video-subtitle: 
         video-description: 
-    #highlight tab
+    #featured highlight tab
+    featured-highlight-tab: show
+    featured-highlight-list: 
+      - featured-highlight-image: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description:   
+    #exhibition highlight tab
     highlight-tab: show
     highlight-list:
       - highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
