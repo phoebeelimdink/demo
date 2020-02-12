@@ -18,15 +18,20 @@ event:
     gallery-image: 
       - photo-link: /centenary/1919-Centenary-gallery.jpg
       - photo-link: /centenary/1919-Centenary-gallery_2.jpg
-    #video gallery
-    video-tab: show
+    #video gallery tab
+    video-tab: hide
     video-list: 
-      - video-link:
-        video-title:
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
         video-description:
-      - video-link:
-        video-title:
-        video-description:
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link:
+        featured-highlight-title: 
+        featured-highlight-subtitle:
+        featured-highlight-description:   
     #exhibition highlight tab
     exhibition-highlight-tab: hide
     exhibition-highlight-list:
@@ -35,12 +40,24 @@ event:
         exhibition-highlight-title:
         exhibition-highlight-subtitle:
         exhibition-highlight-text:
+    #programmes tab
+    programmes-tab: show
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title: 
 ##
 ##
   - title: "On Paper : Singapore before 1867"
     short-name: onpaper
     category: current
     url: /exhibitions/current-exhibitions/onpaper#tab1
+    #detalis
     details:
       thumbnail-link: /onpaper/On-Paper-thumbnail.jpg
       tab-banner-image-link: /onpaper/On-Paper-tab-banner.jpg
@@ -98,13 +115,13 @@ event:
     programmes-tab: show
     #custom tab 1 tab
     custom-tab1: hide
-    custom-tab1-title: Custom Satu
+    custom-tab1-title:
     #custom tab 2 tab
     custom-tab2: hide
-    custom-tab2-title: Custom Dua
+    custom-tab2-title:
     #custom tab 3 tab
     custom-tab3: hide
-    custom-tab3-title: Custom Tiga
+    custom-tab3-title:
 ##
 ##
   - title: "The Rare Collection Gallery"
@@ -128,7 +145,7 @@ event:
       - photo-link: /centenary/1919-Centenary-gallery_2.jpg
       - photo-link: /centenary/1919-Centenary-gallery.jpg
     #video gallery
-    video-tab: show
+    video-tab: hide
     video-list: 
       - video-link:
         video-title:
