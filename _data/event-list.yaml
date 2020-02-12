@@ -70,7 +70,7 @@ event:
         video-subtitle: 
         video-description: 
     #featured highlight tab
-    featured-highlight-tab: show
+    featured-highlight-tab: hide
     featured-highlight-list: 
       - featured-highlight-image-link: /donors/donors-gallery_featured_1.jpg
         featured-highlight-title: Singapore’s Urban Built Heritage
