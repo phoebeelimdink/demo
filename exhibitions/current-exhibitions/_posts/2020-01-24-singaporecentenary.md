@@ -18,10 +18,11 @@ permalink: /exhibitions/current-exhibitions/singaporecentenary
   {% if thisevent.exhibition-highlight-tab == "show" %}<a href="#tab3">Exhibition Highlights</a>{% else %}{% endif %}
   {% if thisevent.video-tab == "show" %}<a href="#tab4">Featured Video</a>{% else %}{% endif %}
   {% if thisevent.featured-highlight-tab == "show" %}<a href="#tab5">Featured Highlights</a>{% else %}{% endif %}
-  {% if thisevent.custom-tab1 == "show" %}<a href="#tab6">{{thisevent.custom-tab1-title}}</a>{% else %}{% endif %}
-  {% if thisevent.custom-tab2 == "show" %}<a href="#tab7">{{thisevent.custom-tab2-title}}</a>{% else %}{% endif %}
-  {% if thisevent.custom-tab3 == "show" %}<a href="#tab8">{{thisevent.custom-tab3-title}}</a>{% else %}{% endif %}
-  {% if thisevent.programmes-tab == "show" %}<a href="#tab9">Exhibition Programmes</a>{% else %}{% endif %}
+  {% if thisevent.resources-tab == "show" %}<a href="#tab6">Resources</a>{% else %}{% endif %}
+  {% if thisevent.custom-tab1 == "show" %}<a href="#tab7">{{thisevent.custom-tab1-title}}</a>{% else %}{% endif %}
+  {% if thisevent.custom-tab2 == "show" %}<a href="#tab8">{{thisevent.custom-tab2-title}}</a>{% else %}{% endif %}
+  {% if thisevent.custom-tab3 == "show" %}<a href="#tab9">{{thisevent.custom-tab3-title}}</a>{% else %}{% endif %}
+  {% if thisevent.programmes-tab == "show" %}<a href="#tab10">Exhibition Programmes</a>{% else %}{% endif %}
 </div>
 <div class="event-details-area">
   
@@ -103,8 +104,24 @@ Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth y
   {% else %}
   {% endif %}
   
-  {% if thisevent.custom-tab1 == "show" %}
+  {% if thisevent.resources-tab == "show" %}
   <div id="tab6">
+    <h3>Resources</h3>
+    <div class="featured-highlight-wrap">
+      <h4>{{thisevent.resources-title}}</h4>
+      <p>{{thisevent.resources-text}}</p>
+      {% for resourceslist in thisevent.resources-list %}
+        <div class="resources-url-style">
+          <a href="{{resourceslist.url}}">{{resourceslist.url-name}}</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  {% endif %}
+  
+  {% if thisevent.custom-tab1 == "show" %}
+  <div id="tab7">
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTEN-START-HERE--------------------------------------------------------- -->
 <div markdown="1">      
@@ -117,7 +134,7 @@ Put your content here!
   {% endif %}
   
   {% if thisevent.custom-tab2 == "show" %}
-  <div id="tab7">
+  <div id="tab8">
     <h3>{{thisevent.custom-tab2-title}}</h3>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div markdown="1">      
@@ -130,7 +147,7 @@ Put your content here!
   {% endif %}
   
   {% if thisevent.custom-tab3 == "show" %}
-  <div id="tab8">
+  <div id="tab9">
     <h3>{{thisevent.custom-tab3-title}}</h3>
 <!-- ----------------------------------------------------CONTENT START HERE--------------------------------------------------------- -->
 <div markdown="1">     
@@ -143,7 +160,7 @@ Put your content here!
   {% endif %}
   
   {% if thisevent.programmes-tab == "show" %}
-  <div id="tab9">
+  <div id="tab10">
     {% assign programmes = site.data.programmes %}
     {% for prog-listing in programmes.programme %}
     {% if prog-listing.group-name == "" %}
