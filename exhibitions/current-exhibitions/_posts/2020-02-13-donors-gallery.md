@@ -104,7 +104,7 @@ permalink: /exhibitions/current-exhibitions/donors-gallery
   {% endif %}
   
   {% if thisevent.resources-tab == "show" %}
-  <div id="tab5">
+  <div id="tab6">
     <h3>Resources</h3>
     <div class="featured-highlight-wrap">
       <h4>{{thisevent.resources-title}}</h4>
