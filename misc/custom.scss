@@ -746,6 +746,25 @@ a.dl-style-1:hover:before {
     color: white !important;
 }
 
+a.dl-style-2:hover {
+    text-decoration: none;
+    color: #d51918;
+    background: white;
+}
+
+a.dl-style-2::after {
+    display: none;
+}
+a.dl-style-2 {
+    background: #d51918;
+    text-decoration: none;
+    border: 1px solid #d51918;
+    color: white;
+    padding: 20px 30px 25px 30px;
+    display: table;
+    transition: all 0.3s ease;
+}
+
 .gallery-image-popup a {
     text-decoration: none;
     color: white;
