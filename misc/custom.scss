@@ -638,6 +638,10 @@ event-tab-list.tab-list-outside a:hover {
     white-space: pre-wrap;
 }
 
+.event-details-area a::after {
+    display: none;
+}
+
 .event-place-date-and-time p {
     color: white;
     margin-bottom: 5px !important;
