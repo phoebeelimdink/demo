@@ -2,7 +2,7 @@
 layout: post
 title: Donors' Gallery
 date: 2020-02-13
-permalink: /exhibitions/current-exhibitions/donorsgallery
+permalink: /exhibitions/current-exhibitions/donors-gallery
 ---
 
 {% assign event-details = site.data.event-list %}
