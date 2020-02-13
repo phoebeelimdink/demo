@@ -128,7 +128,7 @@ One of the aims of the National Library is to build a comprehensive collection o
 
 Please click on the button below to find out more about the donation process, and materials we are looking for in particular.
 
-[Br a Donor](https://nlb.gov.sg/SupportUs/BeaDonor.aspx)
+[Br a Donor](https://nlb.gov.sg/SupportUs/BeaDonor.aspx){: .dl-style-2 target="_blank"}
 </div>     
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
