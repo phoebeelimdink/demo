@@ -104,8 +104,8 @@ event:
     #programmes tab
     programmes-tab: show
     #custom tab 1 tab
-    custom-tab1: hide
-    custom-tab1-title:
+    custom-tab1: show
+    custom-tab1-title: Merchandise
     #custom tab 2 tab
     custom-tab2: hide
     custom-tab2-title:
