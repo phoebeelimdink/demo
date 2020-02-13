@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Donors' Gallery
-date: 2020-02-13
+date: 2020-01-01
 permalink: /exhibitions/current-exhibitions/donors-gallery
 ---
 
