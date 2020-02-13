@@ -146,7 +146,7 @@ Put your content here!
   <div id="tab9">
     {% assign programmes = site.data.programmes %}
     {% for prog-listing in programmes.programme %}
-    {% if prog-listing.group-name == "onpaper" %}
+    {% if prog-listing.group-name == "" %}
         <div class="programme-input-wrap">
            <input type="radio" name="event-programme" value="{{prog-listing.date}}">
            <div class="event-programme-brief-wrap">
