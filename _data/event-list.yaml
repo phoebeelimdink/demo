@@ -144,7 +144,7 @@ event:
         video-subtitle: 
         video-description: 
     #featured highlight tab
-    featured-highlight-tab: hide
+    featured-highlight-tab: show
     featured-highlight-list: 
       - featured-highlight-image-link: /donors/donors-gallery_featured_1.jpg
         featured-highlight-title: Singapore’s Urban Built Heritage
@@ -168,7 +168,7 @@ event:
         featured-highlight-description: |
           Muhammad Ariff Ahmad (1924 – 2016), also known as MAS, was an award-winning writer, editor and lecturer. His works include children’s books and textbooks as well as essays on Malay culture and language. Taman Puspa (1949) is an illustrated collection of 67 poems written from 1944 to 1949.
     #exhibition highlight tab
-    exhibition-highlight-tab: show
+    exhibition-highlight-tab: hide
     exhibition-highlight-list:
       - exhibition-highlight-lowres-image-link: 
         exhibition-highlight-hires-image-link: 
@@ -176,7 +176,7 @@ event:
         exhibition-highlight-subtitle: 
         exhibition-highlight-text: 
     #programmes tab
-    programmes-tab: show
+    programmes-tab: hide
     #custom tab 1 tab
     custom-tab1: hide
     custom-tab1-title:
