@@ -122,15 +122,15 @@ permalink: /exhibitions/current-exhibitions/donors-gallery
   {% if thisevent.custom-tab1 == "show" %}
   <div id="tab7">
     <h3>{{thisevent.custom-tab1-title}}</h3>
-<!-- ----------------------------------------------------CONTEN-START-HERE--------------------------------------------------------- -->
+<!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
 One of the aims of the National Library is to build a comprehensive collection on Singapore and selectively on Southeast Asia. We welcome donations of published and unpublished works that will enrich our collection, but unfortunately are not able to accept everything.
 
 Please click on the button below to find out more about the donation process, and materials we are looking for in particular.
 
-[Br a Donor](https://nlb.gov.sg/SupportUs/BeaDonor.aspx){: .dl-style-2 target="_blank"}
+[Be a Donor](https://nlb.gov.sg/SupportUs/BeaDonor.aspx){: .dl-style-2 target="_blank"}
 </div>     
-<!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
+<!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
   {% else %}
   {% endif %}
@@ -138,12 +138,12 @@ Please click on the button below to find out more about the donation process, an
   {% if thisevent.custom-tab2 == "show" %}
   <div id="tab8">
     <h3>{{thisevent.custom-tab2-title}}</h3>
-<!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
+<!-- ---------------------------------------------------CONTENT-CUSTOM-2-START-HERE------------------------------------------------- -->
 <div markdown="1">      
 #### Custom Markdown Here for Custom Tab 2
 Put your content here!
 </div>      
-<!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
+<!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
   </div>
   {% else %}
   {% endif %}
@@ -151,12 +151,12 @@ Put your content here!
   {% if thisevent.custom-tab3 == "show" %}
   <div id="tab9">
     <h3>{{thisevent.custom-tab3-title}}</h3>
-<!-- ----------------------------------------------------CONTENT START HERE--------------------------------------------------------- -->
+<!-- ----------------------------------------------------CONTENT-CUSTOM-3-START-HERE------------------------------------------------ -->
 <div markdown="1">     
 #### Custom Markdown Here for Custom Tab 3
 Put your content here!
 </div>      
-<!-- -------------------------------------------------------CONTENT END------------------------------------------------------------- -->
+<!-- -------------------------------------------------------CONTENT-CUSTOM-3-END---------------------------------------------------- -->
   </div>
   {% else %}
   {% endif %}
