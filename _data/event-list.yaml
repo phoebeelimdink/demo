@@ -181,6 +181,7 @@ event:
     resources-text: "Selected materials have been digitized and made accessible on:"
     resources-list: 
       - url:
+        url-name:
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
