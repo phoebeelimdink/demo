@@ -180,8 +180,8 @@ event:
     resources-title: Digital access
     resources-text: "Selected materials have been digitized and made accessible on:"
     resources-list: 
-      - url:
-        url-name:
+      - url: http://www.nlb.gov.sg/donors/
+        url-name: Donors showcase
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
