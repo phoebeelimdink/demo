@@ -1059,6 +1059,29 @@ a.programme-readmore {
     transition: all 0.3s ease;
 }
 
+.resources-url-style:hover a {
+    color: white;
+    text-decoration: none;
+}
+
+.resources-url-style:hover {
+    background: #d51918;
+}
+.resources-url-style a {
+    color: #424242;
+    text-decoration: none;
+    font-weight: 900;
+    transition: all 0.3s ease;
+    display: block;
+    padding: 20px 10px 25px 10px;
+}
+.resources-url-style {
+    transition: 0.3s all ease;
+    background: #cacaca;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 /*animation*/
 .event-details-area > div{
   animation: eventtab ease 1s;
