@@ -38,6 +38,10 @@ permalink: /exhibitions/current-exhibitions/donors-gallery
    </div>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
+Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. Over the past 10 years, we have collected over 116,000 items contributed by more than 425 donors.
+
+Our donors comprise individuals (including collectors and scholars), families and organisations. The types of materials donated include primary materials such as diaries, personal papers, letters, business and organisational documents, manuscripts of notable Singaporean writers and artists, photographs and early maps of Singapore and the region.
+This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
