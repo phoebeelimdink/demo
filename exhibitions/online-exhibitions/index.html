@@ -1,6 +1,29 @@
 ---
-layout: resources-alt
+layout: simple-page
 title: Exhibitions
 permalink: /exhibitions/online-exhibitions/
 breadcrumb: Online Exhibitions
 ---
+{% assign event-details = site.data.event-list %}
+<div class="event-area">
+  {% for events in event-details.event %}
+  {% if events.category == "online" %}
+  <div class="event-list-wrap">
+    <div class="event-image-wrap">
+      <a href="{{ events.url }}"><img class="event-poster" src="/images/event-images{{events.details.thumbnail-link}}"></a>
+      <div {% if events.details.label == "nodata" %} class="hide" {% else %} class="event-price" {% endif %}>{{events.details.label}}</div>
+    </div>
+    <a href="{{ events.url }}"><h3>{{events.title}}</h3></a>
+    <div class="time-and-place-info-wrap">
+      <p {% if events.details.date == "nodata" %} class="hide" {% else %} class="date-info" {% endif %}>{{events.details.date}}</p>
+      <p {% if events.details.time == "nodata" %} class="hide" {% else %} class="time-info" {% endif %}>{{events.details.time}}</p>
+      <p {% if events.details.place == "nodata" %} class="hide" {% else %} class="place-info" {% endif %}>{{events.details.place}}</p>
+    </div>
+    <div class="event-list-partition"></div>
+    <p>{{events.details.short-description}}</p>
+    <a class="readmore" href="{{ events.url }}">Read More</a>
+  </div>
+  {% else %}
+  {% endif %}
+  {% endfor %}
+</div>
