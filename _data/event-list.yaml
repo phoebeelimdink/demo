@@ -175,6 +175,12 @@ event:
         exhibition-highlight-title: 
         exhibition-highlight-subtitle: 
         exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: Digital access
+    resources-text: "Selected materials have been digitized and made accessible on:"
+    resources-list: 
+      - url:
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
