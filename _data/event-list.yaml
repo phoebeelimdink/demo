@@ -41,7 +41,7 @@ event:
         exhibition-highlight-subtitle:
         exhibition-highlight-text:
     #programmes tab
-    programmes-tab: show
+    programmes-tab: hide
     #custom tab 1 tab
     custom-tab1: hide
     custom-tab1-title: 
