@@ -2,7 +2,7 @@
 layout: post
 title: Script and Stage
 date: 2020-01-01
-permalink: /exhibitions/past-exhibitions/script-and-stage
+permalink: /exhibitions/online-exhibitions/script-and-stage
 ---
 
 {% assign event-details = site.data.event-list %}
