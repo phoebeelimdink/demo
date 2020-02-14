@@ -196,7 +196,7 @@ event:
 ##
 ##
   - title: "Script & Stage : Theatre in Singapore from the 50s to 80s"
-    shortname: scriptandstage
+    short-name: scriptandstage
     category: online
     url: /exhibitions/online-exhibitions/script-and-stage#tab1
     details: 
@@ -211,7 +211,7 @@ event:
 ##
 ##
   - title: "From the Stacks : Highlights of the National Library"
-    shortname: fromthestacks
+    short-name: fromthestacks
     category: online
     url: http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html
     details: 
