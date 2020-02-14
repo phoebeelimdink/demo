@@ -17,3 +17,5 @@ Meeting point for all tours: Level 10, Gallery entrance
 
 _Tours will be conducted in English._
 _Free admission. Register at [www.nlb.gov.sg/golibrary](www.nlb.gov.sg/golibrary)_
+
+<small>[Return to On Paper Page](/exhibitions/current-exhibitions/onpaper#tab1)</small>
