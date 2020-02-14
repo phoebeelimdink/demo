@@ -8,9 +8,7 @@ breadcrumb: Programmes
 Join our docent-led tours and discover fascinating stories from Singapore’s rich history.
 
 <strong>Public Tours (English) | 2.00pm – 3.00pm</strong>
-
 <strong>(Please note that all public tours for February 2020 and March 2020 are cancelled until further notice)</strong>
-<br/>
 <table class="custom-table">
   <tr>
     <td rowspan="3">2019</td>
