@@ -11,7 +11,7 @@ Join our docent-led tours and discover fascinating stories from Singapore’s ri
 
 <strong>(Please note that all public tours for February 2020 and March 2020 are cancelled until further notice)</strong>
 
-<table>
+<table class="custom-table">
   <tr>
     <td rowspan="3">2019</td>
     <td>12, 13, 19, 20 & 26 Oct</td>
@@ -24,7 +24,7 @@ Join our docent-led tours and discover fascinating stories from Singapore’s ri
   </tr>
 </table>
 
-<table>
+<table class="custom-table">
   <tr>
     <td rowspan="2">2020</td>
     <td>4, 5, 11, 12, 18 & 19 Jan</td>
