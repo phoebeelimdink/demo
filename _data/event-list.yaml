@@ -200,9 +200,9 @@ event:
     category: online
     url: http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html
     details: 
-      thumbnail-link: /online/Script-and-stage-thumbnail.jpg
-      tab-banner-image-link:
-      main-image-link:
+      thumbnail-link: /script-and-stage/script-and-stage-thumbnail.jpg
+      tab-banner-image-link: /script-and-stage/script-and-stage-tab-banner.jpg
+      main-image-link: /script-and-stage/script-and-stage-main-image.jpg
       date: nodata
       time: nodata
       place: nodata
