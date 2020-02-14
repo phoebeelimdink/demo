@@ -38,15 +38,8 @@ permalink: /exhibitions/online-exhibitions/script-and-stage
    </div>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
-**Script & Stage** explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
-
-As we trace the development of Singapore’s vernacular theatre communities from the 1950s to the 1980s, treat yourself to publications such as _Keris Sempena Riau_, the first _sandiwara_ (Malay historical theatre) published and staged locally, as well as the manuscripts and drafts of acclaimed local playwrights like Kuo Pao Kun and Robert Yeo.
-
-Not to be missed are showcases of notable local musicals, such as Beauty World (TheatreWorks) and Chang and Eng (Action! Theatre), at the lobby of the National Library Building.
-
-Download a copy of the brochure by clicking the button below.
-[Exhibition Brochure](http://www.nlb.gov.sg/exhibitions/wp-content/uploads/2018/10/Script-Stage-Exhibition-Brochure-Resized.pdf){: .dl-style-1 target="_blank"}
-<br>
+**Script & Stage** explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore. Explore all these and more at this virtual exhibition.
+  
 [Visit Exhibition](http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html){: .dl-style-2 target="_blank"}
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
