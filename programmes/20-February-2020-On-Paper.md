@@ -7,7 +7,9 @@ breadcrumb: Programmes
 
 #### Curator’s Tours (English)
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
+
 __17 Oct 2019 | [Special] Behind-the-Scenes: A Curator’s Perspective__
+
 Time: 7.00pm – 8.00pm
 __19 Nov 2019 | 23 Jan, 20 Feb, 19 Mar 2020__
 Time: 7.00pm – 8.00pm
