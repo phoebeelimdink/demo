@@ -487,11 +487,12 @@ h1 {
 .event-price {
     position: absolute;
     top: 0;
-    background: white;
-    right: 20px;
-    padding: 5px 20px;
+    background: #ffffffc4;
+    right: 0px;
+    padding: 8px 20px;
     font-weight: 100;
-    font-size: 14pt;
+    font-size: 12pt;
+    border-radius: 0px 0px 0px 30px;
 }
 .event-image-wrap {
     position: relative;
