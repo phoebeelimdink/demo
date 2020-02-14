@@ -36,4 +36,4 @@ Meeting point: Level 10, Gallery entrance
 
 _Led by docents. Free admission, first-come, first-served basis._
 
-[Return to On Paper Page](/exhibitions/current-exhibitions/onpaper#tab1)
+<small>[Return to On Paper Page](/exhibitions/current-exhibitions/onpaper#tab1)</small>
