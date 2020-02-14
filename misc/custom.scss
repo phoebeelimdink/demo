@@ -1115,6 +1115,23 @@ a.programme-readmore {
     margin-bottom: 10px;
 }
 
+table.custom-table tr:nth-child(even) {
+    background: whitesmoke;
+}
+table.custom-table tr:nth-child(1)>td:nth-child(1) {
+    width: 30% !important;
+    text-align: center;
+}
+table.custom-table {
+    margin-bottom: 30px;
+}
+
+table.custom-table td {
+    border: 1px solid #cacaca !important;
+    vertical-align: middle !IMPORTANT;
+    width: fit-content !important;
+}
+
 /*animation*/
 .event-details-area > div{
   animation: eventtab ease 1s;
