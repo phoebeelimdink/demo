@@ -1,18 +1,18 @@
 ---
 layout: simple-page
 title: 20 February 2020 On Paper
-file_url: /programmes/list/
-breadcrumb: List
+file_url: /programmes/
+breadcrumb: Programmes
 ---
 
 #### Curator’s Tours (English)
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
 
-**17 Oct 2019 | [Special] Behind-the-Scenes: A Curator’s Perspective**
+__17 Oct 2019 | [Special] Behind-the-Scenes: A Curator’s Perspective__
 
 Time: 7.00pm – 8.00pm
 
-**19 Nov 2019 | 23 Jan, 20 Feb, 19 Mar 2020**
+__19 Nov 2019 | 23 Jan, 20 Feb, 19 Mar 2020__
 
 Time: 7.00pm – 8.00pm
 
