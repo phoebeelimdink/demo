@@ -9,9 +9,11 @@ permalink: /exhibitions/current-exhibitions/singaporecentenary
 
 {% for thisevent in event-details.event %}
 {% if thisevent.short-name == "1919sg" %}
+<!--
 <div class="event-tab-area" style="background:url('/images/event-images{{ thisevent.details.tab-banner-image-link }}');">
   <div class="tab-gradient-overlay"></div>
-</div>
+</div> -->
+<div><img src="/images/event-images{{ thisevent.details.tab-banner-image-link }}"></div>
 <div class="event-tab-list tab-list-outside">
   <a href="#tab1">About Exhibition</a>
   {% if thisevent.gallery-tab == "show" %}<a href="#tab2">Gallery</a>{% else %}{% endif %}
