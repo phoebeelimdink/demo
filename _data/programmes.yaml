@@ -17,7 +17,7 @@ programme:
     group-name: onpaper
     color : gold
     data:
-      event-title: Tours | On Paper | Public Tours (English)
+      event-title: Tours | On Paper | Public Tours (English) (Cancelled)
       event-des: Led by docents. Free admission, first-come, first-served basis.
       date-start: Mar 7, 2020
       time-start: 2.00pm
@@ -31,7 +31,7 @@ programme:
     group-name: onpaper
     color : gold
     data:
-      event-title: Tours | On Paper | 周末导览 （华语讲解）
+      event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消）
       event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
       date-start: Mar 7, 2020
       time-start: 3.00pm
@@ -45,7 +45,7 @@ programme:
     group-name: onpaper
     color : gold
     data:
-      event-title: Tours | On Paper | Public Tours (English)
+      event-title: Tours | On Paper | Public Tours (English) (Cancelled)
       event-des: Led by docents. Free admission, first-come, first-served basis.
       date-start: Mar 14, 2020
       time-start: 2.00pm
@@ -59,7 +59,7 @@ programme:
     group-name: onpaper
     color : gold
     data:
-      event-title: Tours | On Paper | 周末导览 （华语讲解）
+      event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消)
       event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
       date-start: Mar 14, 2020
       time-start: 3.00pm
