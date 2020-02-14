@@ -22,7 +22,7 @@ Join our docent-led tours and discover fascinating stories from Singapore’s ri
 
 <table>
   <tr>
-    <td colspan="3">2019</td>
+    <td>2019</td>
     <td>12, 13, 19, 20 & 26 Oct</td>
   </tr>
   <tr>
