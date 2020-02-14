@@ -402,6 +402,10 @@ h1 {
     position: relative;
 }
 /*event list css*/
+.print-content p {
+    white-space: pre-wrap;
+}
+
 .event-list-wrap p {
     font-size: 12pt;
     line-height: 22pt;
