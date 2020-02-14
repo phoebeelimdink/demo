@@ -7,7 +7,7 @@ breadcrumb: Past Exhibitions
 {% assign event-details = site.data.event-list %}
 <div class="event-area">
   {% for events in event-details.event %}
-  {% if events.category == "past" %}
+  {% if events.category == "current" %}
   <div class="event-list-wrap">
     <div class="event-image-wrap">
       <a href="{{ events.url }}"><img class="event-poster" src="/images/event-images{{events.details.thumbnail-link}}"></a>
