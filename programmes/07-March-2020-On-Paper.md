@@ -22,17 +22,19 @@ Join our docent-led tours and discover fascinating stories from Singapore’s ri
 
 <table>
   <tr>
-    <td>
+    <td colspan="3">
       2019
     </td>
     <td>
-      <tr>
-       <td>12, 13, 19, 20 & 26 Oct</td>
-       <td>2, 3, 9, 10, 16, 17, 23, 24 & 30 Nov</td>
-       <td>1, 7, 8, 14 & 15 Dec</td>
-      </tr>
+      12, 13, 19, 20 & 26 Oct
     </td>
   </tr>
+  <tr>
+    <td>2, 3, 9, 10, 16, 17, 23, 24 & 30 Nov</td>
+  </tr>
+  <tr>
+    <td>1, 7, 8, 14 & 15 Dec</td>
+  </td>
 </table>
 
 Meeting point: Level 10, Gallery entrance
