@@ -126,7 +126,7 @@ event:
       date: nodata
       time: 10.00am – 9.00pm
       place: Level 10, Donors’ Gallery, National Library Building
-      label: permanent
+      label: Permanent
       short-description: Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
     #photo gallery tab
     gallery-tab: show
@@ -206,7 +206,7 @@ event:
       date: nodata
       time: nodata
       place: nodata
-      label: online
+      label: Online
       short-description: This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
 ##
 ##
@@ -221,5 +221,5 @@ event:
       date: nodata
       time: nodata
       place: nodata
-      label: online
+      label: Online
       short-description: Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition.
