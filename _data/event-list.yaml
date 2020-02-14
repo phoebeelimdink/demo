@@ -213,11 +213,11 @@ event:
   - title: "From the Stacks : Highlights of the National Library"
     short-name: fromthestacks
     category: online
-    url: http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html
+    url: /exhibitions/online-exhibitions/from-the-stacks#tab1
     details: 
-      thumbnail-link: /online/From-the-Stacks-thumbnail.jpg
-      tab-banner-image-link:
-      main-image-link:
+      thumbnail-link: /from-the-stacks/from-the-stacks-thumbnail.jpg
+      tab-banner-image-link: /from-the-stacks/from-the-stacks-tab-banner.jpg
+      main-image-link: /from-the-stacks/from-the-stacks-main-image.jpg
       date: nodata
       time: nodata
       place: nodata
