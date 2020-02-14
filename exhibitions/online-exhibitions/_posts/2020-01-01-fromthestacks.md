@@ -39,7 +39,8 @@ permalink: /exhibitions/online-exhibitions/from-the-stacks
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
 Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition.
-<br>
+
+
 [Visit Exhibition](http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html){: .dl-style-2 target="_blank"}
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
