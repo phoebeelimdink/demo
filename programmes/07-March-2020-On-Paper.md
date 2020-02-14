@@ -23,7 +23,7 @@ Join our docent-led tours and discover fascinating stories from Singapore’s ri
     <td>1, 7, 8, 14 & 15 Dec</td>
   </tr>
 </table>
-
+<br>
 <table class="custom-table">
   <tr>
     <td rowspan="2">2020</td>
