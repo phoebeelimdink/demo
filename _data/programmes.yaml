@@ -1,7 +1,7 @@
 programme:
   - date : 20 Feb
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | Curator’s Tours (English)
       event-des: Tours will be conducted in English. Free admission. Register at www.nlb.gov.sg/golibrary
@@ -15,7 +15,7 @@ programme:
         100 Victoria Street, Singapore 188064  
   - date : 07 Mar
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | Public Tours (English) (Cancelled)
       event-des: Led by docents. Free admission, first-come, first-served basis.
@@ -29,7 +29,7 @@ programme:
         100 Victoria Street, Singapore 188064
   - date : 07 Mar
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消）
       event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
@@ -43,7 +43,7 @@ programme:
         100 Victoria Street, Singapore 188064
   - date : 14 Mar
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | Public Tours (English) (Cancelled)
       event-des: Led by docents. Free admission, first-come, first-served basis.
@@ -57,7 +57,7 @@ programme:
         100 Victoria Street, Singapore 188064
   - date : 14 Mar
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消)
       event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
@@ -71,7 +71,7 @@ programme:
         100 Victoria Street, Singapore 188064
   - date : 19 Mar
     group-name: onpaper
-    color : gold
+    color : "#d51818"
     data:
       event-title: Tours | On Paper | Curator’s Tours (English)
       event-des: Tours will be conducted in English. Free admission. Register at www.nlb.gov.sg/golibrary
