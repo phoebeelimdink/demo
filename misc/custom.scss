@@ -621,6 +621,11 @@ event-tab-list.tab-list-outside a:hover {
     position: relative;
     transition: 0.3s all ease;
 }
+
+.event-tab-list.tab-list-outside a:hover {
+    color: #fb3635;
+}
+
 .event-tab-list.tab-list-outside {
     display: flex;
     flex-wrap: wrap;
