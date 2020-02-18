@@ -720,6 +720,10 @@ event-tab-list.tab-list-outside a:hover {
     filter: invert(100%) sepia(0%) saturate(7482%) hue-rotate(223deg) brightness(107%) contrast(105%);
 }
 
+p.detail-date-info , p.detail-place-info , p.detail-time-info {
+    width: 80%;
+}
+
 .event-text-area {
     margin-top: 50px;
 }
@@ -1286,6 +1290,9 @@ h1 {
     left: 0px;
     font-size: 10pt !important;
 }
+p.detail-date-info , p.detail-place-info , p.detail-time-info {
+    width: 100%;
+}	
 .event-text-area {
     margin-top: 20px;
 }
