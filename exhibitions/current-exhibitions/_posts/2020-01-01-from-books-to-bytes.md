@@ -128,8 +128,10 @@ permalink: /exhibitions/current-exhibitions/from-books-to-bytes
   <div id="tab7">
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTEN-START-HERE--------------------------------------------------------- -->
-<div markdown="1">      
-[![From Books to Bytes Microsite](http://eresources.nlb.gov.sg/webarchives/wayback/20150724091101/http:/www.nlb.gov.sg/exhibitions/bookstobytes/home/index.html)](/frombooks/from-boooks-to-bytes-microsite.jpg){: .normal-width-img target="_blank"}
+<div markdown="1">
+  <div style="text-align:center; margin-left:auto; margin-right:auto;">
+[![From Books to Bytes Microsite](http://eresources.nlb.gov.sg/webarchives/wayback/20150724091101/http:/www.nlb.gov.sg/exhibitions/bookstobytes/home/index.html)](/frombooks/from-books-to-bytes-microsite.jpg){: .normal-width-img target="_blank"}
+  </div>
 </div>     
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
