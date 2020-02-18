@@ -284,6 +284,73 @@ event:
     custom-tab3-title:
 ##
 ##
+  - title: "From Books to Bytes: The Story of the National Library"
+    short-name: frombooks
+    category: current
+    url: /exhibitions/current-exhibitions/from-books-to-bytes#tab1
+    #detalis
+    details:
+      thumbnail-link: /frombooks/from-boooks-to-bytes-thumbnail.jpg
+      tab-banner-image-link: /frombooks/from-boooks-to-bytes-tab-banner.jpg
+      main-image-link: /frombooks/from-boooks-to-bytes-main-image.jpg
+      date: nodata
+      time: 10:00am – 9:00pm
+      place: Level 5, Promenade, National Library Building
+      label: On-Site
+      short-description: Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /frombooks/from-boooks-to-bytes_gallery_1.jpg
+      - photo-link: /frombooks/from-boooks-to-bytes_gallery_2.jpg
+      - photo-link: /frombooks/from-boooks-to-bytes_gallery_3.jpg
+      - photo-link: /frombooks/from-boooks-to-bytes_gallery_4.jpg
+      - photo-link: /frombooks/from-boooks-to-bytes_gallery_5.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: SPb79aI6quk
+        video-title: The mobile library, 1960s
+        video-subtitle: 
+        video-description: |
+          Extract from a _Berita Singapura_ programme presenting several new public services in Singapore.
+
+          _Ministry of Culture, Broadcasting Division_
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description:
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Exhibition Microsite
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
   - title: "Script & Stage : Theatre in Singapore from the 50s to 80s"
     short-name: scriptandstage
     category: online
