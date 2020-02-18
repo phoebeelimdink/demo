@@ -66,7 +66,7 @@ This Donors’ Gallery was set up to acknowledge our donors and showcase their d
     <div class="exhibition-highlights-wrap">
       {% for eventhighlight in thisevent.exhibition-highlight-list %}
       <a href="/images/event-images{{eventhighlight.exhibition-highlight-hires-image-link}}" target="_blank"><img src="/images/event-images{{eventhighlight.exhibition-highlight-lowres-image-link}}"></a>
-      {% if eventhighlight.exhibition-highlight-title== "" %}{% else %}<h4>{{eventhighlight.exhibition-highlight-title}}</h4>{% endif %}
+      {% if eventhighlight.exhibition-highlight-title== "" %}{% else %}<h4 markdown="1">{{eventhighlight.exhibition-highlight-title}}</h4>{% endif %}
       {% if eventhighlight.exhibition-highlight-subtitle== "" %}{% else %}<p markdown="1"><strong>{{eventhighlight.exhibition-highlight-subtitle}}</strong></p>{% endif %}
       {% if eventhighlight.exhibition-highlight-text== "" %}{% else %}<p markdown="1">{{eventhighlight.exhibition-highlight-text}}</p>{% endif %}
       {% endfor %}
@@ -84,7 +84,7 @@ This Donors’ Gallery was set up to acknowledge our donors and showcase their d
           <img src="/images/16-9-ratio.png">
           <iframe src="https://www.youtube.com/embed/{{featuredvideo.video-youtube-embed-code}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      {% if featuredvideo.video-title== "" %}{% else %}<h4>{{featuredvideo.video-title}}</h4>{% endif %}
+      {% if featuredvideo.video-title== "" %}{% else %}<h4 markdown="1">{{featuredvideo.video-title}}</h4>{% endif %}
       {% if featuredvideo.video-subtitle== "" %}{% else %}<p markdown="1"><strong>{{featuredvideo.video-subtitle}}</strong></p>{% endif %}
       {% if featuredvideo.video-description== "" %}{% else %}<p markdown="1">{{featuredvideo.video-description}}</p>{% endif %}
       {% endfor %}
@@ -99,7 +99,7 @@ This Donors’ Gallery was set up to acknowledge our donors and showcase their d
     <div class="featured-highlight-wrap">
       {% for featuredhightlight in thisevent.featured-highlight-list %}
       <img src="/images/event-images{{featuredhightlight.featured-highlight-image-link}}">
-      {% if featuredhightlight.featured-highlight-title== "" %}{% else %}<h4>{{featuredhightlight.featured-highlight-title}}</h4>{% endif %}
+      {% if featuredhightlight.featured-highlight-title== "" %}{% else %}<h4 markdown="1">{{featuredhightlight.featured-highlight-title}}</h4>{% endif %}
       {% if featuredhightlight.featured-highlight-subtitle== "" %}{% else %}<p markdown="1"><strong>{{featuredhightlight.featured-highlight-subtitle}}</strong></p>{% endif %}
       {% if featuredhightlight.featured-highlight-description== "" %}{% else %}<p markdown="1">{{featuredhightlight.featured-highlight-description}}</p>{% endif %}
       <hr>
