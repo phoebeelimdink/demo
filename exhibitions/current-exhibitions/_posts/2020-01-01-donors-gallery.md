@@ -31,7 +31,7 @@ permalink: /exhibitions/current-exhibitions/donors-gallery
   <div id="tab1">
     <div class="event-main-image-wrap">
       <img src="/images/event-images{{ thisevent.details.main-image-link }}">
-      <div class="event-place-date-and-time">
+      <div class="event-place-date-and-time" markdown="1">
         <p {% if thisevent.details.date == "nodata" %} class="hide" {% else %} class="detail-date-info" {% endif %}>{{ thisevent.details.date }}</p>
         <p {% if thisevent.details.time == "nodata" %} class="hide" {% else %} class="detail-time-info" {% endif %}>{{ thisevent.details.time }}</p>
         <p {% if thisevent.details.place == "nodata" %} class="hide" {% else %} class="detail-place-info" {% endif %}>{{ thisevent.details.place }}</p>
