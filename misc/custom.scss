@@ -537,6 +537,10 @@ h1 {
 }
 
 /*event page*/
+a.normal-width-img>img , img.normal-width-img{
+    width: auto;
+}
+
 .event-details-area h3 {
    font-weight:900;
    margin-bottom: 30px;
@@ -1246,6 +1250,12 @@ h1 {
     flex-direction: column;
     align-content: center;
     align-items: center;
+}
+.tab-banner-image {
+    width: 116%;
+    right: 8% !important;
+    position: relative;
+    margin-top: -26%;
 }
 .event-tab-list.tab-list-outside a:nth-last-child(1) {
     margin-bottom: 20px;
