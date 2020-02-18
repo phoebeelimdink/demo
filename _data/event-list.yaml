@@ -379,3 +379,18 @@ event:
       place: nodata
       label: Online
       short-description: Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition.
+##
+##
+  - title: "Selling Dreams: Early Advertising in Singapore"
+    short-name: sellingdreams
+    category: online
+    url: /exhibitions/online-exhibitions/selling-dreams#tab1
+    details: 
+      thumbnail-link: /sellingdreams/selling-dreams-thumbnail.jpg
+      tab-banner-image-link: /sellingdreams/selling-dreams-tab-banner.jpg
+      main-image-link: /sellingdreams/selling-dreams-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
