@@ -290,9 +290,9 @@ event:
     url: /exhibitions/current-exhibitions/from-books-to-bytes#tab1
     #detalis
     details:
-      thumbnail-link: /frombooks/from-boooks-to-bytes-thumbnail.jpg
-      tab-banner-image-link: /frombooks/from-boooks-to-bytes-tab-banner.jpg
-      main-image-link: /frombooks/from-boooks-to-bytes-main-image.jpg
+      thumbnail-link: /frombooks/from-books-to-bytes-thumbnail.jpg
+      tab-banner-image-link: /frombooks/from-books-to-bytes-tab-banner.jpg
+      main-image-link: /frombooks/from-books-to-bytes-main-image.jpg
       date: nodata
       time: 10:00am – 9:00pm
       place: Level 5, Promenade, National Library Building
@@ -301,11 +301,11 @@ event:
     #photo gallery tab
     gallery-tab: show
     gallery-image: 
-      - photo-link: /frombooks/from-boooks-to-bytes_gallery_1.jpg
-      - photo-link: /frombooks/from-boooks-to-bytes_gallery_2.jpg
-      - photo-link: /frombooks/from-boooks-to-bytes_gallery_3.jpg
-      - photo-link: /frombooks/from-boooks-to-bytes_gallery_4.jpg
-      - photo-link: /frombooks/from-boooks-to-bytes_gallery_5.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_1.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_2.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_3.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_4.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_5.jpg
     #video gallery tab
     video-tab: hide
     video-list: 
