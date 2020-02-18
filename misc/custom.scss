@@ -678,6 +678,10 @@ event-tab-list.tab-list-outside a:hover {
     font-size: 15pt !important;
 }
 
+.event-place-date-and-time a {
+    color: white;
+}
+
 .detail-date-info::before {
     content: '';
     width: 20px;
