@@ -29,7 +29,7 @@ permalink: /exhibitions/current-exhibitions/the-rare-collection-gallery
 <div class="event-details-area">
   
   <div id="tab1">
-    <div class="event-main-image-wrap">
+    <div class="event-main-image-wrap" markdown="1">
       <img src="/images/event-images{{ thisevent.details.main-image-link }}">
       <div class="event-place-date-and-time">
         <p {% if thisevent.details.date == "nodata" %} class="hide" {% else %} class="detail-date-info" {% endif %}>{{ thisevent.details.date }}</p>
