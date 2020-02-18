@@ -394,3 +394,33 @@ event:
       place: nodata
       label: Online
       short-description: Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+##
+##
+  - title: "Former Ford Factory"
+    short-name: formerford
+    category: online
+    url: /exhibitions/online-exhibitions/former-ford-factory#tab1
+    details: 
+      thumbnail-link: /formerfordfactory/former-ford-factory-thumbnail.jpg
+      tab-banner-image-link: /formerfordfactory/former-ford-factory-tab-banner.jpg
+      main-image-link: /formerfordfactory/former-ford-factory-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: Surviving the Japanese Occupation: War and its Legacies is a World War II exhibition presented by the National Archives of Singapore at the historic Former Ford Factory.
+##
+##
+  - title: "Law of the Land : Highlights of Singapore’s Constitutional Documents"
+    short-name: lawoftheland
+    category: online
+    url: /exhibitions/online-exhibitions/law-of-the-land#tab1
+    details: 
+      thumbnail-link: /lawoftheland/law-of-the-land-thumbnail.jpg
+      tab-banner-image-link: /lawoftheland/law-of-the-land-tab-banner.jpg
+      main-image-link: /lawoftheland/law-of-the-land-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: This exhibition explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965.
