@@ -12,7 +12,7 @@ event:
       time: nodata
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
       label: nodata
-      short-description: Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
+      short-description: "Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion."
     #photo gallery
     gallery-tab: show
     gallery-image: 
@@ -66,7 +66,7 @@ event:
       time: 10.00am – 9.00pm
       place: Level 10, Gallery National Library Building
       label: nodata
-      short-description: Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past.
+      short-description: "Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past."
     #photo gallery tab
     gallery-tab: show
     gallery-image: 
@@ -127,7 +127,7 @@ event:
       time: nodata
       place: Level 13, Rare Gallery, National Library Building
       label: On-Site
-      short-description: The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
+      short-description: "The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals."
     #photo gallery tab
     gallery-tab: show
     gallery-image: 
@@ -216,7 +216,7 @@ event:
       time: 10.00am – 9.00pm
       place: Level 10, Donors’ Gallery, National Library Building
       label: On-Site
-      short-description: Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
+      short-description: "Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years."
     #photo gallery tab
     gallery-tab: show
     gallery-image: 
@@ -297,7 +297,7 @@ event:
       time: 10:00am – 9:00pm
       place: Level 5, Promenade, National Library Building
       label: On-Site
-      short-description: Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
+      short-description: "Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present."
     #photo gallery tab
     gallery-tab: show
     gallery-image: 
@@ -363,7 +363,7 @@ event:
       time: nodata
       place: nodata
       label: Online
-      short-description: This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
+      short-description: "This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore."
 ##
 ##
   - title: "From the Stacks : Highlights of the National Library"
@@ -378,7 +378,7 @@ event:
       time: nodata
       place: nodata
       label: Online
-      short-description: Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition.
+      short-description: "Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition."
 ##
 ##
   - title: "Selling Dreams: Early Advertising in Singapore"
@@ -393,7 +393,7 @@ event:
       time: nodata
       place: nodata
       label: Online
-      short-description: Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+      short-description: "Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market."
 ##
 ##
   - title: "Former Ford Factory"
@@ -408,7 +408,7 @@ event:
       time: nodata
       place: nodata
       label: Online
-      short-description: Surviving the Japanese Occupation: War and its Legacies is a World War II exhibition presented by the National Archives of Singapore at the historic Former Ford Factory.
+      short-description: "Surviving the Japanese Occupation: War and its Legacies is a World War II exhibition presented by the National Archives of Singapore at the historic Former Ford Factory."
 ##
 ##
   - title: "Law of the Land: Highlights of Singapore’s Constitutional Documents"
@@ -423,4 +423,4 @@ event:
       time: nodata
       place: nodata
       label: Online
-      short-description: This exhibition explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965.
+      short-description: "This exhibition explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965."
