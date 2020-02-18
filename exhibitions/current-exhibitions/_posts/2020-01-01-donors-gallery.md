@@ -24,7 +24,7 @@ permalink: /exhibitions/current-exhibitions/donors-gallery
   {% if thisevent.custom-tab1 == "show" %}<a href="#tab7">{{thisevent.custom-tab1-title}}</a>{% else %}{% endif %}
   {% if thisevent.custom-tab2 == "show" %}<a href="#tab8">{{thisevent.custom-tab2-title}}</a>{% else %}{% endif %}
   {% if thisevent.custom-tab3 == "show" %}<a href="#tab9">{{thisevent.custom-tab3-title}}</a>{% else %}{% endif %}
-  {% if thisevent.programmes-tab == "show" %}<a href="#tab10">Exhibition Programmes</a>{% else %}{% endif %}
+  {% if thisevent.programmes-tab == "show" %}<a href="#tab10">Programmes</a>{% else %}{% endif %}
 </div>
 <div class="event-details-area">
   
