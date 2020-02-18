@@ -307,7 +307,7 @@ event:
       - photo-link: /frombooks/from-books-to-bytes_gallery_4.jpg
       - photo-link: /frombooks/from-books-to-bytes_gallery_5.jpg
     #video gallery tab
-    video-tab: hide
+    video-tab: show
     video-list: 
       - video-youtube-embed-code: SPb79aI6quk
         video-title: The mobile library, 1960s
