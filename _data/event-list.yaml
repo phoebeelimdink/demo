@@ -155,13 +155,41 @@ event:
         featured-highlight-subtitle: 
         featured-highlight-description: 
     #exhibition highlight tab
-    exhibition-highlight-tab: hide
+    exhibition-highlight-tab: show
     exhibition-highlight-list:
-      - exhibition-highlight-lowres-image-link: 
-        exhibition-highlight-hires-image-link: 
-        exhibition-highlight-title: 
-        exhibition-highlight-subtitle: 
-        exhibition-highlight-text: 
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-the-history-of-java.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-the-history-of-java.jpg
+        exhibition-highlight-title: The history of Java
+        exhibition-highlight-subtitle: |
+          Thomas Stamford Raffles (1781 – 1826)
+          _London, 1817_
+        exhibition-highlight-text: |
+          Stamford Raffles describes the various dances that were performed by both females and males. _S’rimpi_, _bedaya_ and _rong-geng_ were dances presented by females, while _gambuh_, _niutra_ and _beksa_ were undertaken by males. Though more popular in the western part of Java, _Rong-geng_ was a dance that could be found in many towns and was performed during festivities and celebrations.
+          
+          _Rong-geng_ dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As _rong-geng_ was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-views-in-burma.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-views-in-burma.jpg
+        exhibition-highlight-title: Views in Burma
+        exhibition-highlight-subtitle: |
+          Joseph Moore
+          Fredrick Marryat (1792-)
+          _London, 1825-1826_
+        exhibition-highlight-text: |
+          This work was produced by Fredrick Marryat, an officer in the British Royal Navy as well as an author, and Joseph Moore, a lieutenant in the British Army. This portfolio of 18 views was dedicated to the directors of the British E.I.C.
+
+          Scenes from this work include some of the earliest views of Rangoon, depictions of British operations in Burma (present-day Myanmar) in the 19th century, as well as military actions during the first Anglo-Burmese war (1824-1826).
+
+          The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great Dagon Pagoda or the Golden Pagoda, located in Rangoon (Yangon). It was used by the British in 1824 during the war.
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-a-voyage-to.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-a-voyage-to.jpg
+        exhibition-highlight-title: A voyage to and from the island of Borneo, in the East Indies …
+        exhibition-highlight-subtitle: |
+          Daniel Beeckman
+          _London, 1718_
+        exhibition-highlight-text: |
+          Daniel Beeckman was the captain of an English merchant ship that traded under the British E.I.C. This book records his observations and experiences during his travels to Southeast Asia, especially Borneo, from 1713-1714. Beeckman described Borneo in detail, giving an account of the indigenous people and their customs, as well as the island’s produce and ports. Beeckman noted the revival of British trade in Borneo after the destruction of the British trading post in 1714 by the Banjarese of southern Borneo.
+
+          He also documented the animals he saw in Borneo; his record of the orangutan (meaning “Man of the Woods” in Malay) is thought to be one of the earliest. He opined that the orangutan was more handsome than some of the natives he had seen. Beeckman had bought an orangutan as a pet for six Spanish dollars but it died after seven months.
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
