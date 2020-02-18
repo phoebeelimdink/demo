@@ -114,6 +114,67 @@ event:
     custom-tab3-title:
 ##
 ##
+  - title: "The Rare Collection Gallery"
+    short-name: rare
+    category: current
+    url: /exhibitions/current-exhibitions/therarecollectiongallery#tab1
+    #detalis
+    details:
+      thumbnail-link: /rarecollection/the-rare-collection-gallery-thumbnail.jpg
+      tab-banner-image-link: /rarecollection/the-rare-collection-gallery-tab-banner.jpg
+      main-image-link: /rarecollection/the-rare-collection-gallery-main-image.jpg
+      date: nodata
+      time: nodata
+      place: Level 13, Rare Gallery, National Library Building
+      label: On-Site
+      short-description: The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_1.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_2.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_3.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_4.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_5.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_6.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_7.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_8.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
   - title: "Donors’ Gallery"
     short-name: donors
     category: current
