@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Books to Bytes
+title: "From Books to Bytes : The Story of the National Library"
 date: 2020-01-01
 permalink: /exhibitions/current-exhibitions/from-books-to-bytes
 ---
