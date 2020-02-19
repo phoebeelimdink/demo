@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From the Stacks
+title: "From the Stacks : Highlights of the National Library"
 date: 2020-01-01
 permalink: /exhibitions/online-exhibitions/from-the-stacks
 ---
