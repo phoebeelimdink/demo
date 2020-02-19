@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selling Dreams
+title: "Selling Dreams : Early Advertising in Singapore"
 date: 2020-01-01
 permalink: /exhibitions/online-exhibitions/selling-dreams
 ---
