@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Script and Stage
+title: "Script and Stage : Theatre in Singapore from the 50s to 80s"
 date: 2020-01-01
 permalink: /exhibitions/online-exhibitions/script-and-stage
 ---
