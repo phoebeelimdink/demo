@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1919 The Singapore Centenary and its Celebration
+title: "1919 : The Singapore Centenary and its Celebration"
 date: 2020-01-24
 permalink: /exhibitions/current-exhibitions/singaporecentenary
 ---
