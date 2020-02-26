@@ -395,6 +395,7 @@ h1 {
     height: 100%;
     background: #00000040;
     transition: 0.3s all ease;
+    display: none;
 }
 .media-card-plain {
     background-size: cover !important;
@@ -894,7 +895,6 @@ input[name="event-programme"]:checked+div+div>input {
     height: 100%;
     opacity: 0;
     z-index: 2;
-    display:none;
 }
 .programme-input-wrap {
     position: relative;
