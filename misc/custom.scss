@@ -894,6 +894,7 @@ input[name="event-programme"]:checked+div+div>input {
     height: 100%;
     opacity: 0;
     z-index: 2;
+    display:none;
 }
 .programme-input-wrap {
     position: relative;
