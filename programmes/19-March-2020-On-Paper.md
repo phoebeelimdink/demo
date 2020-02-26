@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: 19 March 2020 On Paper
+title: 19 March 2020
 file_url: /programmes/
 breadcrumb: Programmes
 ---
