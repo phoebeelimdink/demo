@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: 14 March 2020 On Paper (Chinese)
+title: 14 March 2020
 file_url: /programmes/
 breadcrumb: Programmes
 ---
