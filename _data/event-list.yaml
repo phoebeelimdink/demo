@@ -583,3 +583,75 @@ event:
     #custom tab 3 tab
     custom-tab3: hide
     custom-tab3-title:
+##
+##
+  - title: "Tales of the Malay World: Manuscripts and Early Books"
+    short-name: tmw
+    category: past
+    url: /past-exhibitions/tales-of-the-malay-world#tab1
+    #detalis
+    details:
+      thumbnail-link: /tmw/tales-of-the-malay-world-thumbnail.jpg
+      tab-banner-image-link: /tmw/tales-of-the-malay-world-tab-banner.jpg
+      main-image-link: /tmw/tales-of-the-malay-world-main-image.jpg
+      date: 18 August 2017 – 25 February 2018
+      time: nodata
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_1.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_2.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_3.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_4.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_5.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_6.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_7.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_8.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /tmw/tales-of-the-malay-world-exhibition-highlights-low.jpg
+        exhibition-highlight-hires-image-link: /tmw/tales-of-the-malay-world-highlights-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: Digitised Malay Manuscripts
+    resources-text: "Digitised collections of Malay Manuscripts are available at BookSG. To explore these collections, please click on the buttons below."
+    resources-list: 
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/British_Library.aspx
+        url-name: Malay Manuscripts from the British Library
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/Malay_Manuscripts_Staatsbibliothek.aspx
+        url-name: Malay Manuscripts from Staatsbibliothek zu Berlin
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/Malay_Manuscripts_Royal_Asiatic_Society_GBI.aspx
+        url-name: Malay Manuscripts from the Royal Asiatic Society of Great Britain and Ireland
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
