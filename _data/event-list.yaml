@@ -470,7 +470,14 @@ event:
         exhibition-highlight-hires-image-link: 
         exhibition-highlight-title: 
         exhibition-highlight-subtitle: 
-        exhibition-highlight-text: 
+        exhibition-highlight-text:
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name:
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
