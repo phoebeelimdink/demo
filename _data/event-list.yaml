@@ -482,3 +482,97 @@ event:
     #custom tab 3 tab
     custom-tab3: hide
     custom-tab3-title:
+##
+##
+  - title: "Selling Dreams: Early Advertising in Singapore"
+    short-name: dreamsonsite
+    category: past
+    url: /past-exhibitions/selling-dreams#tab1
+    #detalis
+    details:
+      thumbnail-link: /sellingdreamsonsite/selling-dreams-thumbnail.jpg
+      tab-banner-image-link: /sellingdreamsonsite/selling-dreams-tab-banner.jpg
+      main-image-link: /sellingdreamsonsite/selling-dreams-main-image.jpg
+      date: 20 July 2018 – 24 February 2019
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_1.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_2.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_3.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_4.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_5.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_6.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_7.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_8.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_9.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_10.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_11.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_12.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_13.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_14.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+      - exhibition-highlight-lowres-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-2-low.jpg
+        exhibition-highlight-hires-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-2-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text:
+    #resources tab
+    resources-tab: show
+    resources-title: 
+    resources-text: "The National Library’s collection contains more information available on several of the brands and companies featured in Selling Dreams. Browse through these pages on branding history to discover more resources pertaining to brands and their history in Singapore."
+    resources-list: 
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/lGIhSavnYR8&label=Bata%20Shoe%20(Singapore)
+        url-name: Bata
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/_iSrQYqQ78s&label=Capitol%20Building
+        url-name: Capitol Building
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/HtylhdS4c_s&label=Capitol%20Theatre
+        url-name: Capitol Theatre
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/Oyt8kXd4bJs&label=Federated%20Malay%20States%20Railways
+        url-name: Federated Malay States Railways
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/ynmNWap_sVQ&label=Great%20World%20Amusement%20Park
+        url-name: Great World Amusement Park
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/40n0D3rZzp0&label=Haw%20Par%20Brothers%20International
+        url-name: Haw Par Brothers International (Tiger Balm)
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/sgSdcWBjAHk&label=Leung%20Kai%20Fook%20Medical%20Company
+        url-name: Leung Kai Fook Medical Company (Axe Brand)
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/X05X35cVLNs&label=Raffles%20Hotel
+        url-name: Raffles Hotel
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/FhPTOKxtSAg&label=Robinsons%20(Department%20store)
+        url-name: Robinsons
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Online Exhibition
+    #custom tab 2 tab
+    custom-tab2: show
+    custom-tab2-title: Programmes
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
