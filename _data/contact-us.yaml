@@ -9,28 +9,31 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 100 Victoria St<br>Singapore 188064
-    find-directions: https://www.google.com/maps/place/100+Victoria+St,+Singapore+188064/@1.2974415,103.8519551,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a53b4620a1:0x2836ebe8c4083d03!8m2!3d1.2974415!4d103.8541438
+    address: National Library Building<br>100 Victoria Street<br>Singapore 188064<br>
+    find-directions: https://www.google.com.sg/maps/place/National+Library+Board/@1.2975644,103.8521073,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a53b44f507:0x2ce078e72b32d70!8m2!3d1.297559!4d103.854296
   # Operating Hours [OPTIONAL]
     operating-hours:
-      - days: Mon - Thu
-        time: 8.30am - 6.00pm
-      - days: Fri
-        time: 8.30am - 5.30pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
-
+      - days: Mon - Sun
+        time: 10.00am - 9.00pm
+        description: "Closed on Public Holidays.<br>Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year."
 
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    - line: ref@nlb.gov.sg (email)
+    # If you have an email, put (email) after the actual email
+    
+#column:
+#  - title: General Enquiries & Feedback
+#    content:
+#   - line: +65 6222 5295
+#    - line: boarch@singnet.com.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
-    content:
-    - line: +65 6222 4452
+#  - title: Fax
+#    content:
+#    - line: +65 6222 4452
 
 # Image
 image-url:

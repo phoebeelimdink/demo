@@ -1,0 +1,657 @@
+event:
+  - title: "1919 : The Singapore Centenary and its Celebration"
+    short-name: 1919sg
+    category: current
+    url: /exhibitions/current-exhibitions/singaporecentenary#tab1
+    #details
+    details:
+      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
+      tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
+      main-image-link: /centenary/SG-centenary-main-image.jpg
+      date: 12 November 2019 – 13 March 2020
+      time: nodata
+      place: Level 11, Lee Kong Chian Reference Library, National Library Building
+      label: nodata
+      short-description: "Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion."
+    #photo gallery
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description:
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link:
+        featured-highlight-title: 
+        featured-highlight-subtitle:
+        featured-highlight-description:   
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link:
+        exhibition-highlight-hires-image-link:
+        exhibition-highlight-title:
+        exhibition-highlight-subtitle:
+        exhibition-highlight-text:
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title: 
+##
+##
+  - title: "On Paper : Singapore before 1867"
+    short-name: onpaper
+    category: current
+    url: /exhibitions/current-exhibitions/onpaper#tab1
+    #detalis
+    details:
+      thumbnail-link: /onpaper/On-Paper-thumbnail.jpg
+      tab-banner-image-link: /onpaper/On-Paper-tab-banner.jpg
+      main-image-link: /onpaper/On-Paper-main-image.jpg
+      date: 28 September 2019 – 22 March 2020
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery National Library Building
+      label: nodata
+      short-description: "Through carefully preserved records from not only the collections of the National Library and the National Archives of Singapore, On Paper presents a rare treat to all who are interested in our nation’s past."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /onpaper/On-Paper_gallery_1.jpg
+      - photo-link: /onpaper/On-Paper_gallery_2.jpg
+      - photo-link: /onpaper/On-Paper_gallery_3.jpg
+      - photo-link: /onpaper/On-Paper_gallery_4.jpg
+      - photo-link: /onpaper/On-Paper_gallery_5.jpg
+      - photo-link: /onpaper/On-Paper_gallery_6.jpg
+      - photo-link: /onpaper/On-Paper_gallery_7.jpg
+      - photo-link: /onpaper/On-Paper_gallery_8.jpg
+      - photo-link: /onpaper/On-Paper_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /onpaper/On-Paper-exhibition-highlights-low.jpg
+        exhibition-highlight-hires-image-link: /onpaper/On-Paper-exhibition-highlights-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #programmes tab
+    programmes-tab: show
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Merchandise
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "The Rare Collection Gallery"
+    short-name: rare
+    category: current
+    url: /exhibitions/current-exhibitions/the-rare-collection-gallery#tab1
+    #detalis
+    details:
+      thumbnail-link: /rarecollection/the-rare-collection-gallery-thumbnail.jpg
+      tab-banner-image-link: /rarecollection/the-rare-collection-gallery-tab-banner.jpg
+      main-image-link: /rarecollection/the-rare-collection-gallery-main-image.jpg
+      date: This gallery is open to public during scheduled guided tours only. Please refer to [Golibrary](https://www.nlb.gov.sg/golibrary2/c/30307529/) for tour dates.
+      time: nodata
+      place: Level 13, Rare Gallery, National Library Building
+      label: On-Site
+      short-description: "The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_1.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_2.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_3.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_4.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_5.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_6.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_7.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_8.jpg
+      - photo-link: /rarecollection/the-rare-collection-gallery_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-the-history-of-java.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-the-history-of-java.jpg
+        exhibition-highlight-title: The history of Java
+        exhibition-highlight-subtitle: |
+          Thomas Stamford Raffles (1781 – 1826)
+          _London, 1817_
+        exhibition-highlight-text: |
+          Stamford Raffles describes the various dances that were performed by both females and males. _S’rimpi_, _bedaya_ and _rong-geng_ were dances presented by females, while _gambuh_, _niutra_ and _beksa_ were undertaken by males. Though more popular in the western part of Java, _Rong-geng_ was a dance that could be found in many towns and was performed during festivities and celebrations.
+          
+          _Rong-geng_ dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As _rong-geng_ was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-views-in-burma.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-views-in-burma.jpg
+        exhibition-highlight-title: Views in Burma
+        exhibition-highlight-subtitle: |
+          Joseph Moore
+          Fredrick Marryat (1792-)
+          _London, 1825-1826_
+        exhibition-highlight-text: |
+          This work was produced by Fredrick Marryat, an officer in the British Royal Navy as well as an author, and Joseph Moore, a lieutenant in the British Army. This portfolio of 18 views was dedicated to the directors of the British E.I.C.
+
+          Scenes from this work include some of the earliest views of Rangoon, depictions of British operations in Burma (present-day Myanmar) in the 19th century, as well as military actions during the first Anglo-Burmese war (1824-1826).
+
+          The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great Dagon Pagoda or the Golden Pagoda, located in Rangoon (Yangon). It was used by the British in 1824 during the war.
+      - exhibition-highlight-lowres-image-link: /rarecollection/the-rare-collection-gallery-a-voyage-to.jpg
+        exhibition-highlight-hires-image-link: /rarecollection/the-rare-collection-gallery-a-voyage-to.jpg
+        exhibition-highlight-title: A voyage to and from the island of Borneo, in the East Indies …
+        exhibition-highlight-subtitle: |
+          Daniel Beeckman
+          _London, 1718_
+        exhibition-highlight-text: |
+          Daniel Beeckman was the captain of an English merchant ship that traded under the British E.I.C. This book records his observations and experiences during his travels to Southeast Asia, especially Borneo, from 1713-1714. Beeckman described Borneo in detail, giving an account of the indigenous people and their customs, as well as the island’s produce and ports. Beeckman noted the revival of British trade in Borneo after the destruction of the British trading post in 1714 by the Banjarese of southern Borneo.
+
+          He also documented the animals he saw in Borneo; his record of the orangutan (meaning “Man of the Woods” in Malay) is thought to be one of the earliest. He opined that the orangutan was more handsome than some of the natives he had seen. Beeckman had bought an orangutan as a pet for six Spanish dollars but it died after seven months.
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Donors’ Gallery"
+    short-name: donors
+    category: current
+    url: /exhibitions/current-exhibitions/donors-gallery#tab1
+    #detalis
+    details:
+      thumbnail-link: /donors/donors-gallery-thumbnail.jpg
+      tab-banner-image-link: /donors/donors-gallery-tab-banner.jpg
+      main-image-link: /donors/donors-gallery-main-image.jpg
+      date: nodata
+      time: 10.00am – 9.00pm
+      place: Level 10, Donors’ Gallery, National Library Building
+      label: On-Site
+      short-description: "Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /donors/donors-gallery_gallery_1.jpg
+      - photo-link: /donors/donors-gallery_gallery_2.jpg
+      - photo-link: /donors/donors-gallery_gallery_3.jpg
+      - photo-link: /donors/donors-gallery_gallery_4.jpg
+      - photo-link: /donors/donors-gallery_gallery_5.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: show
+    featured-highlight-list: 
+      - featured-highlight-image-link: /donors/donors-gallery_featured_1.jpg
+        featured-highlight-title: Singapore’s Urban Built Heritage
+        featured-highlight-subtitle: Through the Lens of Lee Kip Lin
+        featured-highlight-description: |
+          Lee Kip Lin (1925 – 2011) was a well-known architectural historian, educator and architect. An advocate of conservation, he undertook extensive photographic surveys of streets and buildings in Singapore from 1965 to 1995. The Lee Kip Lin Collection, containing over 17,000 images, is a meticulous visual record of Sinagapore’s architectural heritage and spatial transformation over a 30-year period. The Lee family donated the photographs to the National Library Board in 2009.
+          
+          This display highlights Lee’s efforts in documenting the diverse architecture and streetscapes of Singapore. The photographs capture the oldest urban areas of Singapore – Boat Quay, Chinatown, Kampong Glam and Little India. These four areas were the first to be gazetted for conservation by the Urban Redevelopment Authority on 7 July 1989, which saw strict conservation guidelines put in place to preserve the physical character of these historic districts. While Lee’s primary focus was on the built form, his photographs also serve as a record of the social life and economic activities in these areas.
+      - featured-highlight-image-link: /donors/donors-gallery_featured_2.jpg
+        featured-highlight-title: Follow the Track of the Ancient Navigators
+        featured-highlight-subtitle: |
+          Batavia, 1938
+          Donated by John Koh
+        featured-highlight-description: |
+          This is a brochure issued by the Dutch shipping line, Koninklijke Paketvaart-Maatschappij (KPM). The objective was to interest the travelling public in the company’s Orient-Java-Africa Service, which offered a voyage on board one of KMP’s new luxurious vessels which travelled to various ports and destinations including Singapore.
+      - featured-highlight-image-link: /donors/donors-gallery_featured_3.jpg
+        featured-highlight-title: Taman Puspa
+        featured-highlight-subtitle: |
+          1949 (unpublished)
+          Donated by Muhammad Ariff Ahmad
+        featured-highlight-description: |
+          Muhammad Ariff Ahmad (1924 – 2016), also known as MAS, was an award-winning writer, editor and lecturer. His works include children’s books and textbooks as well as essays on Malay culture and language. Taman Puspa (1949) is an illustrated collection of 67 poems written from 1944 to 1949.
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: Digital access
+    resources-text: "Selected materials have been digitized and made accessible on:"
+    resources-list: 
+      - url: http://www.nlb.gov.sg/donors/
+        url-name: Donors showcase
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Be a Donor
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "From Books to Bytes: The Story of the National Library"
+    short-name: frombooks
+    category: current
+    url: /exhibitions/current-exhibitions/from-books-to-bytes#tab1
+    #detalis
+    details:
+      thumbnail-link: /frombooks/from-books-to-bytes-thumbnail.jpg
+      tab-banner-image-link: /frombooks/from-books-to-bytes-tab-banner.jpg
+      main-image-link: /frombooks/from-books-to-bytes-main-image.jpg
+      date: nodata
+      time: 10:00am – 9:00pm
+      place: Level 5, Promenade, National Library Building
+      label: On-Site
+      short-description: "Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /frombooks/from-books-to-bytes_gallery_1.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_2.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_3.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_4.jpg
+      - photo-link: /frombooks/from-books-to-bytes_gallery_5.jpg
+    #video gallery tab
+    video-tab: show
+    video-list: 
+      - video-youtube-embed-code: SPb79aI6quk
+        video-title: The mobile library, 1960s
+        video-subtitle: 
+        video-description: |
+          Extract from a _Berita Singapura_ programme presenting several new public services in Singapore.
+
+          _Ministry of Culture, Broadcasting Division_
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description:
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Microsite
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Script & Stage : Theatre in Singapore from the 50s to 80s"
+    short-name: scriptandstage
+    category: online
+    url: /exhibitions/online-exhibitions/script-and-stage#tab1
+    details: 
+      thumbnail-link: /script-and-stage/script-and-stage-thumbnail-2.jpg
+      tab-banner-image-link: /script-and-stage/script-and-stage-tab-banner.jpg
+      main-image-link: /script-and-stage/script-and-stage-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: "This exhibition explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore."
+##
+##
+  - title: "From the Stacks : Highlights of the National Library"
+    short-name: fromthestacks
+    category: online
+    url: /exhibitions/online-exhibitions/from-the-stacks#tab1
+    details: 
+      thumbnail-link: /from-the-stacks/from-the-stacks-thumbnail.jpg
+      tab-banner-image-link: /from-the-stacks/from-the-stacks-tab-banner.jpg
+      main-image-link: /from-the-stacks/from-the-stacks-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: "Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more at this virtual exhibition."
+##
+##
+  - title: "Selling Dreams: Early Advertising in Singapore"
+    short-name: sellingdreams
+    category: online
+    url: /exhibitions/online-exhibitions/selling-dreams#tab1
+    details: 
+      thumbnail-link: /sellingdreams/selling-dreams-thumbnail.jpg
+      tab-banner-image-link: /sellingdreams/selling-dreams-tab-banner.jpg
+      main-image-link: /sellingdreams/selling-dreams-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: "Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market."
+##
+##
+  - title: "Former Ford Factory"
+    short-name: formerford
+    category: online
+    url: /exhibitions/online-exhibitions/former-ford-factory#tab1
+    details: 
+      thumbnail-link: /formerfordfactory/former-ford-factory-thumbnail.jpg
+      tab-banner-image-link: /formerfordfactory/former-ford-factory-tab-banner.jpg
+      main-image-link: /formerfordfactory/former-ford-factory-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: "Surviving the Japanese Occupation: War and its Legacies is a World War II exhibition presented by the National Archives of Singapore at the historic Former Ford Factory."
+##
+##
+  - title: "Law of the Land: Highlights of Singapore’s Constitutional Documents"
+    short-name: lawoftheland
+    category: online
+    url: /exhibitions/online-exhibitions/law-of-the-land#tab1
+    details: 
+      thumbnail-link: /lawoftheland/law-of-the-land-thumbnail.jpg
+      tab-banner-image-link: /lawoftheland/law-of-the-land-tab-banner.jpg
+      main-image-link: /lawoftheland/law-of-the-land-main-image.jpg
+      date: nodata
+      time: nodata
+      place: nodata
+      label: Online
+      short-description: "This exhibition explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965."
+##
+##
+  - title: "The First Print: Stories and Legends of Early Singapore"
+    short-name: thefirst
+    category: past
+    url: /past-exhibitions/the-first-print#tab1
+    #detalis
+    details:
+      thumbnail-link: /the-first-print/the-first-print-thumbnail.jpg
+      tab-banner-image-link: /the-first-print/the-first-print-tab-banner.jpg
+      main-image-link: /the-first-print/the-first-print-main-image.jpg
+      date: 23 January – 24 March 2019
+      time: nodata
+      place: nodata
+      label: nodata
+      short-description: "With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /the-first-print/the-first-print_gallery_1.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_2.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_3.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_4.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_5.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_6jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text:
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name:
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Selling Dreams: Early Advertising in Singapore"
+    short-name: dreamsonsite
+    category: past
+    url: /past-exhibitions/selling-dreams#tab1
+    #detalis
+    details:
+      thumbnail-link: /sellingdreamsonsite/selling-dreams-thumbnail.jpg
+      tab-banner-image-link: /sellingdreamsonsite/selling-dreams-tab-banner.jpg
+      main-image-link: /sellingdreamsonsite/selling-dreams-main-image.jpg
+      date: 20 July 2018 – 24 February 2019
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_1.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_2.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_3.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_4.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_5.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_6.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_7.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_8.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_9.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_10.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_11.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_12.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_13.jpg
+      - photo-link: /sellingdreamsonsite/selling-dreams_gallery_14.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+      - exhibition-highlight-lowres-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-2-low.jpg
+        exhibition-highlight-hires-image-link: /sellingdreamsonsite/selling-dreams-exhibition-highlights-2-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text:
+    #resources tab
+    resources-tab: show
+    resources-title: 
+    resources-text: "The National Library’s collection contains more information available on several of the brands and companies featured in Selling Dreams. Browse through these pages on branding history to discover more resources pertaining to brands and their history in Singapore."
+    resources-list: 
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/lGIhSavnYR8&label=Bata%20Shoe%20(Singapore)
+        url-name: Bata
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/_iSrQYqQ78s&label=Capitol%20Building
+        url-name: Capitol Building
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/HtylhdS4c_s&label=Capitol%20Theatre
+        url-name: Capitol Theatre
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/Oyt8kXd4bJs&label=Federated%20Malay%20States%20Railways
+        url-name: Federated Malay States Railways
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/ynmNWap_sVQ&label=Great%20World%20Amusement%20Park
+        url-name: Great World Amusement Park
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/40n0D3rZzp0&label=Haw%20Par%20Brothers%20International
+        url-name: Haw Par Brothers International (Tiger Balm)
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/sgSdcWBjAHk&label=Leung%20Kai%20Fook%20Medical%20Company
+        url-name: Leung Kai Fook Medical Company (Axe Brand)
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/X05X35cVLNs&label=Raffles%20Hotel
+        url-name: Raffles Hotel
+      - url: http://eresources.nlb.gov.sg/linkeddata/entity_new.html?uri=http://eresources.nlb.gov.sg/ID/NLBDM/vocab/FhPTOKxtSAg&label=Robinsons%20(Department%20store)
+        url-name: Robinsons
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Online Exhibition
+    #custom tab 2 tab
+    custom-tab2: show
+    custom-tab2-title: Programmes
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Tales of the Malay World: Manuscripts and Early Books"
+    short-name: tmw
+    category: past
+    url: /past-exhibitions/tales-of-the-malay-world#tab1
+    #detalis
+    details:
+      thumbnail-link: /tmw/tales-of-the-malay-world-thumbnail.jpg
+      tab-banner-image-link: /tmw/tales-of-the-malay-world-tab-banner.jpg
+      main-image-link: /tmw/tales-of-the-malay-world-main-image.jpg
+      date: 18 August 2017 – 25 February 2018
+      time: nodata
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_1.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_2.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_3.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_4.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_5.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_6.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_7.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_8.jpg
+      - photo-link: /tmw/tales-of-the-malay-world_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /tmw/tales-of-the-malay-world-exhibition-highlights-low.jpg
+        exhibition-highlight-hires-image-link: /tmw/tales-of-the-malay-world-highlights-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: Digitised Malay Manuscripts
+    resources-text: "Digitised collections of Malay Manuscripts are available at BookSG. To explore these collections, please click on the buttons below."
+    resources-list: 
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/British_Library.aspx
+        url-name: Malay Manuscripts from the British Library
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/Malay_Manuscripts_Staatsbibliothek.aspx
+        url-name: Malay Manuscripts from Staatsbibliothek zu Berlin
+      - url: http://eresources.nlb.gov.sg/printheritage/browse/Malay_Manuscripts_Royal_Asiatic_Society_GBI.aspx
+        url-name: Malay Manuscripts from the Royal Asiatic Society of Great Britain and Ireland
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:

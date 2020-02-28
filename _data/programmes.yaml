@@ -1,0 +1,85 @@
+programme:
+  - date : 20 Feb
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | Curator’s Tours (English)
+      event-des: Tours will be conducted in English. Free admission. Register at www.nlb.gov.sg/golibrary
+      date-start: Feb 20, 2020
+      time-start: 7.00pm
+      date-end: Feb 20, 2020
+      time-end: 8.00pm
+      url: /programmes/20-february-2020-on-paper
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064  
+  - date : 07 Mar
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | Public Tours (English) (Cancelled)
+      event-des: Led by docents. Free admission, first-come, first-served basis.
+      date-start: Mar 7, 2020
+      time-start: 2.00pm
+      date-end: Mar 7, 2020
+      time-end: 3.00pm
+      url: /programmes/07-march-2020-on-paper
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064
+  - date : 07 Mar
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消）
+      event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
+      date-start: Mar 7, 2020
+      time-start: 3.00pm
+      date-end: Mar 7, 2020
+      time-end: 4.00pm
+      url: /programmes/07-march-2020-on-paper-cn
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064
+  - date : 14 Mar
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | Public Tours (English) (Cancelled)
+      event-des: Led by docents. Free admission, first-come, first-served basis.
+      date-start: Mar 14, 2020
+      time-start: 2.00pm
+      date-end: Mar 14, 2020
+      time-end: 3.00pm
+      url: /programmes/14-march-2020-on-paper
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064
+  - date : 14 Mar
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | 周末导览 （华语讲解）（已取消)
+      event-des: 由义务导览员带领。入场免费，人数有限，先到先得。
+      date-start: Mar 14, 2020
+      time-start: 3.00pm
+      date-end: Mar 14, 2020
+      time-end: 4.00pm
+      url: /programmes/14-march-2020-on-paper-cn
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064
+  - date : 19 Mar
+    group-name: onpaper
+    color : "#d51818"
+    data:
+      event-title: Tours | On Paper | Curator’s Tours (English)
+      event-des: Tours will be conducted in English. Free admission. Register at www.nlb.gov.sg/golibrary
+      date-start: Mar 19, 2020
+      time-start: 7.00pm
+      date-end: Mar 19, 2020
+      time-end: 8.00pm
+      url: /programmes/19-march-2020-on-paper
+      venue: |
+        Level 10, Gallery, National Library Building,
+        100 Victoria Street, Singapore 188064
