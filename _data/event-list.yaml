@@ -424,3 +424,61 @@ event:
       place: nodata
       label: Online
       short-description: "This exhibition explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965."
+##
+##
+  - title: "The First Print: Stories and Legends of Early Singapore"
+    short-name: thefirst
+    category: past
+    url: /past-exhibitions/the-first-print#tab1
+    #detalis
+    details:
+      thumbnail-link: /the-first-print/the-first-print-thumbnail.jpg
+      tab-banner-image-link: /the-first-print/the-first-print-tab-banner.jpg
+      main-image-link: /the-first-print/the-first-print-main-image.jpg
+      date: 23 January – 24 March 2019
+      time: nodata
+      place: nodata
+      label: nodata
+      short-description: "With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /the-first-print/the-first-print_gallery_1.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_2.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_3.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_4.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_5.jpg
+      - photo-link: /the-first-print/the-first-print_gallery_6jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
