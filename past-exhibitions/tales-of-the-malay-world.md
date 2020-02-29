@@ -343,8 +343,8 @@ Join Prof. Edwin P. Wieringa as he discusses this once-popular Malay poem, which
 #### **Curator’s Tours**
 What kinds of stories were popular in the early Malay world? And how was the manuscript tradition different from printed books? Join our guided tours to learn about these and more.
 
-**2017** | 8 Sep, 6 Oct, 3 Nov, 8 Dec
-**2018** | 5 Jan, 2 Feb
+<p><strong>2017</strong> | 8 Sep, 6 Oct, 3 Nov, 8 Dec <br>
+<strong>2018</strong> | 5 Jan, 2 Feb</p>
 
 Meeting Point: Level 10, Gallery entrance
 Time: 7.00pm – 8.00pm
