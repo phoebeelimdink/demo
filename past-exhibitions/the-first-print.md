@@ -63,7 +63,6 @@ _Sulalat-al-Salatin_, or more commonly known as _Sejarah Melayu_ (Malay Annals),
 
 With many tales such as the strong man Badang and the attack of the garfish, _Sejarah Melayu_ continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.
 
-"2.00pm – 3.00pm" | **_Ceritera Singapura_: Narrating Singapore**
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
@@ -162,6 +161,9 @@ Level 16, The POD, National Library Building**
 Sejarah Melayu is considered one of the most important and finest literary works of the Malay world. Essentially a court text that recorded the dynastic and feudal glories of Palembang-Singapura-Melaka and Johore from the 13th to 16th centuries, this text has piqued the interests of historians, academics as well as politicians in the era of nationalism and post-independence.
 
 This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
+
+--- | ---
+"2.00pm – 3.00pm" | **_Ceritera Singapura_: Narrating Singapore**
 </div>     
 <!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
