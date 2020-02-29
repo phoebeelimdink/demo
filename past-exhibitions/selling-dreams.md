@@ -40,13 +40,6 @@ permalink: /past-exhibitions/selling-dreams
    </div>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
-### Selling Dreams: Early Advertising in Singapore
-**20 July 2018 – 24 February 2019
-10.00am – 9.00pm
-Level 10, Gallery
-National Library Building
-_Free admission_**
-
 Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years.
 
 Modelled after a department store, the exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market. Through this colourful showcase of the National Library’s rare publications, magazines, newspapers and ephemera, you will gain a deeper understanding of advertising and its impact on society, while learning more about Singapore’s past.
