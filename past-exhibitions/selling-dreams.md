@@ -70,6 +70,7 @@ A micro exhibition of the same title will be travelling to the following Public 
 * **Clementi Public Library: 22 Oct – 16 Dec 2018**
 * **Sengkang Public Library: 17 Dec 2018 – 10 Feb 2019**
 * **Library@Harbourfront: 11 Feb 2019 – 24 Mar 2019**
+
 Join us as we uncover the nation’s early years through advertising paraphernalia from the National Library’s rich collection.
 
 <hr>
