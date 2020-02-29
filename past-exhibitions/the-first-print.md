@@ -42,20 +42,20 @@ permalink: /past-exhibitions/the-first-print
 <div class="event-text-area" markdown="1">
 ## The First Print: Stories and Legends of Early Singapore
 
-** 23 January – 1 April 2019
-Level 11, Lee Kong Chian Reference Library, National Library Building **
+**23 January – 1 April 2019
+Level 11, Lee Kong Chian Reference Library, National Library Building**
 
-** 3 April – 30 April 2019
-Central Public Library **
+**3 April – 30 April 2019
+Central Public Library**
 
-** 2 May – 30 June 2019
-Jurong Regional Library **
+**2 May – 30 June 2019
+Jurong Regional Library**
 
-** 1 July – 31 August 2019
-Tampines Regional Library **
+**1 July – 31 August 2019
+Tampines Regional Library**
 
-** 1 September – 31 October 2019
-Woodlands Regional Library **
+**1 September – 31 October 2019
+Woodlands Regional Library**
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
