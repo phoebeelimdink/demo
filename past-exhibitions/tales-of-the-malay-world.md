@@ -289,8 +289,10 @@ Cast: Maria Menado, Noordin Ahmad, Yusoff Latiff, Rose Yatimah, Mat Sentol
 Synopsis:
 
 _Tun Fatimah_ is a tale about Fatimah, the daughter of the _bendahara_ (chief minister) of Melaka in the 16th century. Besotted by her beauty and wishing to take her as his consort, the sultan plots the murder of Fatimah’s husband, the _bendahara_ and his sons. Despite her contempt for the sultan, Fatimah mobilises a resistance and defends the kingdom against the invading Portuguese.
+
 ![Movie still courtesy of Cathay-Keris Films Pte Ltd](/images/event-images/tmw/Tun-Fatimah-01-768x576-1.jpg)
-<span style="text-align:center;">Movie still courtesy of Cathay-Keris Films Pte Ltd</span>
+<p style="text-align:center;">Movie still courtesy of Cathay-Keris Films Pte Ltd</p>
+
 
 **Hang Jebat** (117 mins, 1961)
 Director: Hussain Haniff
@@ -300,8 +302,8 @@ Synopsis:
 
 _Hang Jebat_ tells the legendary tale of the close relationship between two warriors – Hang Jebat and Hang Tuah. Hang Tuah is unquestionably loyal to the sultan. Under the influence of court officials, however, the sultan instructs for Hang Tuah to be executed. The _bendahara_ (chief minister) defies the order and keeps Hang Tuah alive. Hang Jebat, bent on seeking revenge for his best friend, is unstoppable in wreaking chaos. To defeat him, Hang Tuah is called upon to stop the rebellion.
 
-![Movie still courtesy of Cathay-Keris Films Pte Ltd](/images/event-image/tmw/Tun-Fatimah-01-768x576-1.jpg)
-<span style="text-align:center;">Movie still courtesy of Cathay-Keris Films Pte Ltd</span>
+![Movie still courtesy of Cathay-Keris Films Pte Ltd](/images/event-images/tmw/Tun-Fatimah-01-768x576-1.jpg)
+<p style="text-align:center;">Movie still courtesy of Cathay-Keris Films Pte Ltd</p>
 
 <hr>
 
