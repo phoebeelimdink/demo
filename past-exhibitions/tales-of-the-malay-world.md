@@ -167,10 +167,44 @@ The National Library would like to thank Inch Chua for allowing her music video,
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
-[![From Books to Bytes Microsite](/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg)](http://nlb.gov.sg/exhibitions/sellingdreams/){: .normal-width-img target="_blank"}
-<div style="text-align:center;" markdown="1">  
-[Click to access the online exhibition.](http://nlb.gov.sg/exhibitions/sellingdreams/)
+All programmes will be held at the National Library Building (100 Victoria Street, Singapore 188064).
+
+#### **TALK | Art and Artists in Malay Manuscript Books**
+**Friday, 18 August 2017
+7.00pm – 8.00pm
+Level 16, The Pod
+Speaker: Datuk Dr Annabel Teh Gallop
+_This talk is conducted in English_**
+
+The art of the Malay book is primarily a religious art, and the finest examples of manuscript illumination in Southeast Asia are found not in literary or historical works, but in copies of the Qur’an. Sumptuously illuminated Qur’ans were produced in certain artistic centres such as Terengganu and Patani on the east coast of the Malay peninsula, Aceh on the northern tip of Sumatra, and across the archipelago from Java to Sulawesi and the island of Sumbawa.
+
+Almost without exception, these exquisite works of art were anonymous, for Malay artists did not traditionally sign their artworks. However, in one finely illuminated Malay literary manuscript from the British Library currently on display in this exhibition – a copy of the _Hikayat Nabi Yusuf_, ‘The Story of the Prophet Joseph’, written in Perlis in 1802 – the artist has inscribed his own name, and his comments and annotations shed valuable light on the mechanics of the book trade in the Malay peninsula in the early 19th century.
+
+Join Dr Annabel Gallop in this talk as she shares about the illumination of Qur’ans and other Islamic manuscripts.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+<div style="text-align:center;" markdown="1">
+![Hikayat Nabi Yusuf](/images/event-images/tmw/TMW-old-001.jpg)
+<i>Hikayat Nabi Yusuf</i>, 1802, British Library
 </div>
+**Annabel Teh Gallop** is lead curator for Southeast Asia materials at the British Library. She obtained her doctorate at the School of Oriental and African Studies, London, in 2002 with the thesis, ‘Malay Seal Inscriptions: A Study in Islamic Epigraphy from Southeast Asia’. Her main research interests are Malay manuscripts, letters, documents and seals, and the art of the Qur’an in Southeast Asia.
+
+<hr>
+
+#### **TALK | The Script State (Negeri Naskhah) – Malay Manuscripts in Documenting Memories**
+**Saturday, 30 September 2017
+3.00pm – 4.00pm
+Level 5, Possibility Room
+Speaker: Dr Azhar Ibrahim
+_This talk is conducted in English_**
+
+Manuscripts are testaments of their time, as they reflect the conditions and people surrounding the text. Today, the reception of manuscripts and texts – the way we read and interpret them – is also subject to the prevailing ideas of our time.
+
+This programme provides an overview of the written tradition of the Malay world, which we have inherited in the form of manuscripts. Discover the stories of these texts; their various forms throughout history; and how the written text has become a symbol of power, intellect and mastery.
+
+**Azhar Ibrahim** is a lecturer at the Department of Malay Studies, National University of Singapore. His research interests include sociology of religion, sociology of literature and critical literacy, and the Malay-Indonesia intellectual development.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
 </div>      
 <!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
   </div>
@@ -182,255 +216,7 @@ The National Library would like to thank Inch Chua for allowing her music video,
     <h3>{{thisevent.custom-tab2-title}}</h3>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div markdown="1">      
-#### **Talk | Early Advertising in Singapore (Fashion, Hospitality and Entertainment)**
-**A Librarian’s World
-Date: 26 July 2018
-Time: 7.00pm – 8.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
 
-**A Librarian’s World@PL
-Date: 1 Sep 2018
-Time: 2.00pm – 3.00pm
-Venue: library@orchard**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Join us as we reconstruct life and lifestyles in Singapore based on print advertisements from the 1830s to 1960s. Come and discover Singapore’s fashion trends across different cultures and eras as well as the early days of our local hospitality, F&B and entertainment industries.
-
-This programme is organised in conjunction with the series A _Librarian’s World_.
-
-##### **About the Speakers**
-**Akshata Patkar** is the Assistant Manager (Research) of Content and Services at the National Library. She conducts research into public policy and current affairs and has a keen interest in cultural studies.
-
-**Fiona Lim** is an Associate Librarian with the National Library’s Singapore and Southeast Asia team. She is interested in the interrogation of places and their histories as a means of engaging with the city. She is both a contributor to and editor of the publication _Between the Lines: Print Advertising in Singapore 1830s – 1960s_.
-
-**Goh Yu Mei** is a Librarian at the National Library. She works with the Chinese arts and literary collection and has recently updated the Bibliography of Singapore Chinese Literature. Her research interest lies in the interaction between society and Chinese literature.
-
-<hr>
-
-#### **Talk | The Sticky Tricky History of Advertising in Singapore**
-**Date: 4 Aug 2018
-Time: 2.00pm – 3.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Before advertising agencies started to use computers in the mid-1990s, advertising production was very much craft-based, with artists sticking down type and photographs for press advertisements and editing film footage with cutters and adhesive tape.
-
-Join Allein Moore as he shares his memories of his career, taking us back to the early years of advertising in Singapore.
-
-##### **About the Speaker**
-**Allein Moore** is one of the pioneers of Singapore advertising and is a well-known figure in the industry. He is the founder and curator of Advertising Archive Asia, which aims to preserve advertising and design work.
-
-<hr>
-
-#### **Selling Dreams @ Singapore Night Festival**
-Wander about the library’s ‘department store’ and discover the rich treasures and fascinating stories of Singapore’s published heritage through the medium of advertising. During the Singapore Night Festival, the exhibition’s opening hours will be extended until 11.30pm. During this period, our curators will lead special tours that will be available on Saturday nights.
-
-**Exhibition 
-17 & 18 Aug 2018, 24 & 25 Aug 2018
-Time: 10.00am – 11.30pm
-Venue: Level 10, Gallery, National Library Building**
-<p style="color:red;">(Event has ended.)</p>
-
-##### **Curator’s Tours**
-**18 & 25 Aug 2018
-Time: 9.00pm – 10.00pm
-Meeting point: Level 10, Gallery entrance, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-![selling dreams curator tour](/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323.jpg)
-
-<hr>
-
-#### **Talk | Survey of Tamil and Malay Ads in 20th century Singapore**
-**Date: 27 Sep 2018
-Time: 7.00pm – 8.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Join librarians Sundari and Nadirah as they share the trends and variety of Tamil and Malay advertisements from the National Library’s collections. From beauty, food and fashion, discover how advertisements offer glimpses into the lifestyles and world views of local communities.
-
-This programme is organised in conjunction with the series _A Librarian’s World_.
-
-##### **About the Speakers**
-**Nadirah Norruddin** is an Associate Librarian (Singapore, Southeast Asia and Exhibitions) at the National Library. Her main responsibility is managing and developing the Singapore and Southeast Asia collection. Her research interest is in the customs and traditions of the Malay world.
-
-**Sundari Balasubramaniam** is a Librarian with the National Library. She compiled three publications. _A Selection of Singapore Tamil Literature, 1872-2009, Annotated Bibliography of Tamil Short Stories and Poetry, 1936-1960 and Literary Criticism of P. Krishnan’s (Puthumaithsan) Works._
-
-<hr>
-
-#### **Talk | Selling Dreams | Behind the Dreams: The Curators’ Perspective**
-**Date: 11 Oct 2018
-Time: 7.00pm – 8.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Join the curators of the National Library’s latest exhibition, _Selling Dreams: Early Advertising in Singapore_, as they share what went on behind the scenes, their curatorial processes as well as the untold stories they discovered in the library’s extensive collection of advertising materials.
-
-##### **About the Curators**
-**Chung Sang Hong** is an Assistant Director (Exhibitions & Curation) at the National Library. He is the lead curator of _Selling Dreams: Early Advertising in Singapore_. He is interested in the social history of Singapore.
-
-**Georgina Wong** is an Assistant Curator at the National Library. She is the co-curator of _Selling Dreams: Early Advertising in Singapore._ Her research interests include historical architecture and decorative art history.
-
-<hr>
-
-#### **讲座 | Selling Dreams | 幸福青春梦：1880年代至1960年代新加坡华文报纸广告中的爱与性**
-**日期: 2018年10月19日
-时间: 晚上七时到8时30分
-地点: The Pod, 十六楼**
-<i>入场免费。</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-“既达荷尔蒙期则顺应自然的本能而繁殖之。”看到这则1931年的报纸广告，你能猜出它诉求的是什么吗？
-
-本讲座陪同听众翻阅1880年代到1960年代的新加坡华文报纸，从文图学(Text and Image Studies)的角度，概观和分析早期华文广告中所传达的性爱经济和幸福追求。
-
-内容将包括：广告中的青春梦想；爱慾和性力；性知识．性产品．医疗消费。
-
-本讲座由文图学会和新加坡国家图书馆联合主办。
-
-(本讲座涉及成人话题，请斟酌参与。)
-
-##### **讲员简介**
-衣若芬，台湾大学中国文学博士，现任教于新加坡南洋理工大学，新加坡《联合早报》专栏作家，「文图学」创发人，「文图学会」荣誉主席。研究领域为文图学、苏轼研究、东亚汉文学与文化交流。出版学术专著和文学创作20多部，包括《南洋风华：艺文．广告．跨界新加坡》(新加坡：八方文化创作室，2016年) ，本书荣获《联合早报》2016年书选。
-
-<hr>
-
-#### **Talk | Selling Dreams | A.I. – The Future of Advertising (But it’s not what you think)**
-**Date: 24 Nov 2018
-Time: 2.00pm – 3.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-As with much of the world, the future of advertising lies in A. I., but not the Artificial Intelligence you are probably thinking of. With the dawn of the fourth industrial revolution, came the advent of A.I. – Augmented Interest and Added Information.
-
-The key to staying ahead of the curve is to think like a Renaissance polymath. After all, knowledge is power. Come join us and find out how you can be the future of the industry.
-
-##### **About the Speaker**
-A multi-awarded creative and strategic communications leader, **James Keng Lim**’s career has spanned 20 years. He has experience in network and independent advertising, as well as digital and PR agencies – including running his own integrated communications agency – across cities such as Singapore, Kuala Lumpur, Shanghai, Dubai and Amsterdam.
-
-<hr>
-
-#### **Talk | Selling Dreams | The Journey of a Mad Man**
-**Date: 19 Jan 2019
-Time: 2.00pm – 3.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Join Peter Soh as he shares his journey from a humble traffic assistant to regional chief creative officer of Saatchi & Saatchi – as well as becoming a judge at local and international award shows – all without any formal training.
-
-##### **About the Speaker**
-**Peter Soh** founded the World Chinese Creative Awards, or “Long Xi”, with a few good men – Jimmy Lam, David Sun and Tomaz Mok. Today, it is the only Chinese award that is recognised by the western world. A well-respected figure in the advertising circle of greater China, Peter also sits on the Worldwide Creative Board.
-
-<hr>
-
-#### **Talk | Selling Dreams | Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements**
-**Date: 2 Feb 2019
-Time: 2.00pm – 3.15pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-From the pre-modern to contemporary periods, Singapore has had a vibrant history of being imagined as a utopia. Most of these were top-down political narratives, but it was with the onset of print media that utopia began to be packaged as a commodity. Focusing on print advertisements from the late 19th and early centuries, this talk will examine specific imaginings of the Singapore Dream. In doing so, it aims to unveil the underlying prevailing worldviews that dominated these periods, while also making the case that the study of popular culture is serious business.
-
-This session will also feature a short 15-minute presentation by SUTD students about their digital exhibits for ‘Selling Dreams: Early Advertising in Singapore’.
-
-##### **About the Speaker**
-**Dr Nazry Bahrawi** is senior lecturer at Singapore University of Technology and Design (SUTD). As a literary critic, he specialises in the comparative study of Muslim texts, thoughts and traditions of Indian Ocean cultures between Southeast Asia and the Middle East.
-
-<hr>
-
-#### **Talk | Selling Dreams | Japanese Brand Presence in Singapore Since the 19th Century**
-**Date: 19 Feb 2019
-Time: 7.00pm – 8.30pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-It is generally thought that Japanese products and services were only present in Singapore from the 1940s onwards. However, there is evidence of Japanese brand presence in Singapore’s “Little Japan” (spanning Hylam, Malabar and Malay streets) from as early as the 19th century. Advertisements from the 1830s to 1930s publicising Japanese curios, stores, dentists, photographers, hotels, masseuses and even a fishing pond all point to the presence of Japanese products and services in early Singapore.
-
-Join Peter Ling as he shares part of his fascinating research on Japanese advertising in Singapore between the 19th and 21st centuries.
-
-##### **About the Speaker**
-**Peter Ling** was an advertising practitioner and president of the Association of Accredited Advertising Agents in Singapore before working in the cities of Taipei, Perth and Melbourne. He is the author of _[Be the Innovators](https://www.oup.com.au/books/higher-education/management-and-marketing/9780195590173-be-the-innovators)_ as well as the lead author of _[Consumer Behaviour in Action](https://www.oup.com.au/books/higher-education/management-and-marketing/9780195525601-consumer-behaviour-in-action)_, both published by Oxford University Press (OUP). His third title, _Integrated Marketing Communication: A balanced approach_ (OUP), will be published in mid-2019. He is currently a Visiting Fellow at the Wee Kim Wee School of Communication and Information at Nanyang Technological University, Singapore. Between 2011 and 2017, he was an [associate/deputy dean](http://rmitlibrarynews.blogspot.com/2017/10/rmit-author-showcase-associate.html) at RMIT University, Australia.
-
-<hr>
-
-#### **Talk | Selling Dreams | Decoding Advertisements: The Semiotics of Print Advertisements**
-**Date: 23 Feb 2019
-Time: 2.00pm – 3.00pm
-Venue: Level 5, Possibility Room, National Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-Product advertisements, in essence, are created to offer consumers choices. They persuade us to give ourselves a chance to transform ourselves – and our lives – for the better, through the simple act of choosing to purchase something. The addiction to buying and consumption leads to consumerism as a means to obtain a better life by way of capitalism.
-
-But what lay beneath consumerism in the early settlement of Singapore? In this dialogue, Olivia will share about the significance of the images and text behind the design of print advertisements from early Singapore.
-
-##### **About the Speaker**
-**Jessica Olivia** earned her Master Degree in Arts (Design) in 2007 and has 10 years of industry experience as an Art Director at various advertising agencies under her belt. In the course of her creative career, Olivia has translated strategic thinking into big ideas. She is a firm believer of using good design fundamentals in her teaching delivery and many of her students have gone on to become successful designers. She is currently teaching at School of Design Communication, LASALLE College of the Arts.
-
-<hr>
-
-#### **Tours | Selling Dreams | Curator’s Tours (English)**
-Join our curator-led tours and discover the rich treasures and fascinating stories of Singapore’s published heritage through the medium of advertising.
-
-**Every third Thursday of the month**
-
-<strong>2018 | 16 Aug, 20 Sept, 18 Oct, 15 Nov, 20 Dec</strong>
-
-<strong>2019 | 17 Jan, 21 Feb</strong>
-
-**Time: 7.00pm – 8.00pm**
-
-**Meeting point: Level 10, Gallery entrance**
-
-<i>Free admission. Tours will be conducted in English.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-<hr>
-
-#### **Tours | Selling Dreams | Public Tours (English)**
-Join our docent-led tours and discover the rich treasures and fascinating stories of Singapore’s published heritage through the medium of advertising.
-
-**Sep 2018 | 1, 2, 15, 16, 29 & 30 
-Oct 2018 | 6, 7, 20 & 21 
-Nov 2018 | 3, 4, 17 & 18 
-Dec 2018 | 1, 2 & 15 
-Jan 2019 | 5, 6, 19 & 20 
-Feb 2019 | 16 & 17 
-Time: 4.00pm – 5.00pm
-Meeting point: Level 10, Gallery entrance**
-
-<i>Led by docents. Free admission, first-come first-served basis.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-<hr>
-
-#### **Tours | Selling Dreams | 周末导览 （华语讲解**
-**2018年9月 | 8/9/22/23日
-2018年10月 | 13/14/27/28日
-2018年11月 | 10/11/24/25日
-2018年12月 | 8/9/22日
-2019年1月 | 12/13/26/27日
-2019年2月 | 23/24日
-时间: 下午4时至5时
-集合地点: 国家图书馆大厦10楼展厅门口**
-
-<i>由义务导览员带领。 入场免费, 人数有限，先到先得 。</i> <i style="color:red">(Programme has ended, registration is closed.)</i>
-
-<hr>
-
-#### **Workshop | Selling Dreams | Chasing Dreams: Shopping in Old Singapore**
-**Dates: 21 & 28 Jul, 4,11,18 & 25 Aug, 1 & 8 Sep, 6 Oct, 17 & 24 Nov 2018
-Session 1: 2.30pm – 3.30pm
-Session 2: 3.30pm – 4.30pm
-(2 sessions per day)
-Venue: Level 10, Learning Space, national Library Building**
-<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-
-_Limited to 60 pax per session._
-<i style="color:#d51918;">Each child must be accompanied by an adult/parent.</i>
-_Each participant must purchase one ticket. If you are attending the event with your spouse and child, please purchase three tickets._ 
-
-Calling all parents with children aged 7 to 12!
-
-Come and explore what life was like in Singapore from the colonial era to the 1960s. Join us for this interactive programme set against the backdrop of Singapore’s early shopping scene.
-
-Families will engage in hands-on activities to help their children understand the power of advertisements and strategies used to promote products and services. Facilitated by librarians, these fun and interactive sessions are opportunities for families to come together to solve puzzles as well as share experiences of what life in Singapore used to be like.
 </div>      
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
