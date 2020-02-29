@@ -62,6 +62,9 @@ We all grew up with the story of Sang Nila Utama and how he founded Singapura, t
 _Sulalat-al-Salatin_, or more commonly known as _Sejarah Melayu_ (Malay Annals), contains tales that not only underline Singapore’s significance as one of the capital cities of Malay kings since the 13th century; it is also one of the few surviving materials that describe the early history of Singapore.
 
 With many tales such as the strong man Badang and the attack of the garfish, _Sejarah Melayu_ continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.
+
+--- | --- 
+"2.00pm – 3.00pm"|**_Ceritera Singapura_: Narrating Singapore**
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
