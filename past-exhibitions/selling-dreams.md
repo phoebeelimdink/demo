@@ -54,23 +54,29 @@ Modelled after a department store, the exhibition highlights advertisements prom
 Click below to download the exhibition brochure and guide.
 
 <hr>
-#### *The Art of Persuasion*
-*20 July 2018 – 24 February 2019
+#### **The Art of Persuasion**
+**20 July 2018 – 24 February 2019
 10.00am – 9.00pm
 Level 10, Lobby
 National Library Building
-_Free admission_*
+_Free admission_**
 
 How do advertisers hook an audience? ‘The Art of Persuasion’ looks at different advertising methods and strategies used in ads drawn from the library’s vast collection of print publications from the 1830s to 1960s. Head down to the National Library’s ‘advertising studio’ in the lobby and check out ads featuring comics and cartoons, witty copy, bold imagery and illustrations as well as early advertising attempts to appeal to local audiences.
 
 A micro exhibition of the same title will be travelling to the following Public Libraries:
 
-*-Ang Mo Kio Public Library: 9 Jul – 26 Aug 2018 
--Woodlands Regional Library: 27 Aug – 21 Oct 2018 
--Clementi Public Library: 22 Oct – 16 Dec 2018 
--Sengkang Public Library: 17 Dec 2018 – 10 Feb 2019
--Library@Harbourfront: 11 Feb 2019 – 24 Mar 2019
--Join us as we uncover the nation’s early years through advertising paraphernalia from the National Library’s rich collection.*
+* **Ang Mo Kio Public Library: 9 Jul – 26 Aug 2018**
+* **Woodlands Regional Library: 27 Aug – 21 Oct 2018**
+* **Clementi Public Library: 22 Oct – 16 Dec 2018**
+* **Sengkang Public Library: 17 Dec 2018 – 10 Feb 2019**
+* **Library@Harbourfront: 11 Feb 2019 – 24 Mar 2019**
+Join us as we uncover the nation’s early years through advertising paraphernalia from the National Library’s rich collection.
+
+<hr>
+#### **School Tours**
+Set in a shopping scene in the early 20th century, students and teachers will experience a taste of life in Singapore from the colonial era to the 1960s. Singapore’s social history and businesses, in particular, will be featured through a selection of advertisements from newspapers and other publications. Worksheets for students will also be provided.
+
+Interested schools can email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
 
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
@@ -221,11 +227,11 @@ Level 5, Possibility Room**
 Dalam sesi ini, Dr Kartini Anwar dan Annaliza Bakri akan mengetengahkan beberapa tema, nilai dan idealogi dalam kesusasteraan Melayu awal yang kekal dari generasi ke generasi. Ketahui bagaimana kisah-kisah tersebut telah meninggalkan kesan yang mendalam terhadap masyarakat dan juga dunia kesusasteraan Melayu hingga ke hari ini.
 
 **Ahli Panel:**
--**Dr Kartini Anwar**, Pensyarah, NIE dan NTU
--**Dr Kartini Anwar**, Pensyarah, NIE dan NTU
+* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
+* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
 
 **Pemudahcara:**
--**Juffri Supa’at**, Pustakawan Kanan, NLB
+* **Juffri Supa’at**, Pustakawan Kanan, NLB
 </div>     
 <!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
