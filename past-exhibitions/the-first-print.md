@@ -168,7 +168,7 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
       <strong>2.00pm – 3.00pm</strong>
     </td>
     <td>
-      <strong><i>Ceritera Singapura</i>: Narrating Singapore<strong>
+      <strong><i>Ceritera Singapura</i>: Narrating Singapore</strong>
     </td>
   </tr>
   <tr>
