@@ -40,7 +40,7 @@ permalink: /past-exhibitions/the-first-print
    </div>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
-## The First Print: Stories and Legends of Early Singapore
+### The First Print: Stories and Legends of Early Singapore
 
 **23 January – 1 April 2019
 Level 11, Lee Kong Chian Reference Library, National Library Building**
