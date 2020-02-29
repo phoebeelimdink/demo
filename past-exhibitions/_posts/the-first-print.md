@@ -2,7 +2,7 @@
 layout: post
 title: "The First Print: Stories and Legends of Early Singapore"
 date: 2020-01-01
-permalink: /past-exhibition/the-first-print
+permalink: /past-exhibitions/the-first-print
 ---
 
 {% assign event-details = site.data.event-list %}
