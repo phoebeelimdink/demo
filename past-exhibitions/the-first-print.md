@@ -168,23 +168,23 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
       <strong>2.00pm – 3.00pm</strong>
     </td>
     <td>
-      <strong><i>Ceritera Singapura</i>: Narrating Singapore</strong>
+      <p><strong><i>Ceritera Singapura</i>: Narrating Singapore</strong></p>
     </td>
   </tr>
   <tr>
     <td width="150">
     </td>
     <td>
-      <span><u>Speaker</u></span>
-      <strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore
+      <u>Speaker</u><p></p>
+      <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore</p>
     </td>
   </tr>
   <tr>
-    <td width="150"><p><strong>3.00pm – 3.15pm</strong></p></td>
+    <td width="150"><strong>3.00pm – 3.15pm</strong></td>
     <td><p>Performance by Aqmal N, Singer, Musician, Composer and Producer</p></td>
   </tr>
   <tr>
-    <td width="150"><p><strong>3.15pm – 5.00pm</strong></p></td>
+    <td width="150"><strong>3.15pm – 5.00pm</strong></td>
     <td><p><strong>When History becomes a Boon and a Bane: <em>Sejarah Melayu </em>in Retrospection</strong></p></td>
   </tr>
   <tr>
