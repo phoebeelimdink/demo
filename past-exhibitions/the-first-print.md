@@ -212,11 +212,11 @@ Level 5, Possibility Room**
 Dalam sesi ini, Dr Kartini Anwar dan Annaliza Bakri akan mengetengahkan beberapa tema, nilai dan idealogi dalam kesusasteraan Melayu awal yang kekal dari generasi ke generasi. Ketahui bagaimana kisah-kisah tersebut telah meninggalkan kesan yang mendalam terhadap masyarakat dan juga dunia kesusasteraan Melayu hingga ke hari ini.
 
 **Ahli Panel:**
--**Dr Kartini Anwar**, Pensyarah, NIE dan NTU
--**Dr Kartini Anwar**, Pensyarah, NIE dan NTU
+* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
+* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
 
 **Pemudahcara:**
--**Juffri Supa’at**, Pustakawan Kanan, NLB
+* **Juffri Supa’at**, Pustakawan Kanan, NLB
 </div>     
 <!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
