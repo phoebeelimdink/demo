@@ -60,7 +60,7 @@ Click below to download the exhibition brochure and guide.
 [Exhibition guide (Tamil)](/files/sellingdreamsonsite/NLB-Exhibition-Guide-TM-20122018.pdf){: .dl-style-1 target="_blank"}
 
 <hr>
-#### **The Art of Persuasion**
+### **The Art of Persuasion**
 **20 July 2018 – 24 February 2019
 10.00am – 9.00pm
 Level 10, Lobby
@@ -80,7 +80,7 @@ A micro exhibition of the same title will be travelling to the following Public 
 Join us as we uncover the nation’s early years through advertising paraphernalia from the National Library’s rich collection.
 
 <hr>
-#### **School Tours**
+### **School Tours**
 Set in a shopping scene in the early 20th century, students and teachers will experience a taste of life in Singapore from the colonial era to the 1960s. Singapore’s social history and businesses, in particular, will be featured through a selection of advertisements from newspapers and other publications. Worksheets for students will also be provided.
 
 Interested schools can email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
