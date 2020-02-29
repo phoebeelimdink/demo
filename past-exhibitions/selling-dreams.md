@@ -379,8 +379,9 @@ Join our curator-led tours and discover the rich treasures and fascinating stori
 
 **Every third Thursday of the month**
 
-**2018 | 16 Aug, 20 Sept, 18 Oct, 15 Nov, 20 Dec
-2019 | 17 Jan, 21 Feb**
+<strong>2018 | 16 Aug, 20 Sept, 18 Oct, 15 Nov, 20 Dec</strong>
+
+<strong>2019 | 17 Jan, 21 Feb</strong>
 
 **Time: 7.00pm – 8.00pm**
 
