@@ -53,6 +53,7 @@ Highlights include a manuscript (copied in 1710) of one of the oldest existing _
 Come, discover these and other fascinating stories.
 
 Click on the buttons below to download the exhibition brochure and guides.
+
 [Exhibition brochure](/files/tmw/TMW_Brochure_lowres.pdf){: .dl-style-1 target="_blank"}
 [Exhibition guide (English)](/files/tmw/NLB-TMW-Exh-Guide_Eng_E-Version.pdf){: .dl-style-1 target="_blank"}
 [Exhibition guide (Malay)](/files/tmw/TMW-Exh.-Guide_Malay_E-Version.pdf){: .dl-style-1 target="_blank"}
