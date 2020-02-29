@@ -164,7 +164,7 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
 
 <table class="">
   <tr>
-    <td>
+    <td width="150">
       <strong>2.00pm – 3.00pm</strong>
     </td>
     <td>
@@ -172,12 +172,16 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="150">
     </td>
     <td>
-      <u>Speaker</u>
+      <span><u>Speaker</u></span>
       <strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore
     </td>
+  </tr>
+  <tr>
+    <td width="150"><strong>3.00pm – 3.15pm</strong></td>
+    <td>Performance by Aqmal N, Singer, Musician, Composer and Producer</td>
   </tr>
 </table>  
 
