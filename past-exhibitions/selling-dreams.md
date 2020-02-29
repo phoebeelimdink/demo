@@ -52,6 +52,7 @@ Advertisements are fascinating cultural documents that both shape and reflect pe
 Modelled after a department store, the exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market. Through this colourful showcase of the National Library’s rare publications, magazines, newspapers and ephemera, you will gain a deeper understanding of advertising and its impact on society, while learning more about Singapore’s past.
 
 Click below to download the exhibition brochure and guide.
+
 [Exhibition brochure (with Programmes from October 2018 to February 2019)](/files/sellingdreamsonsite/SEAD_Brochure-B_FINAL.pdf){: .dl-style-1 target="_blank"}
 [Exhibition brochure (with Programmes from July 2018 to October 2018)](/files/sellingdreamsonsite/SEAD_DL-Brochure-A_small.pdf){: .dl-style-1 target="_blank"}
 [Exhibition guide (English)](/files/sellingdreamsonsite/NLB-Exhibition-Guide-101018-single-pages.pdf){: .dl-style-1 target="_blank"}
