@@ -151,7 +151,7 @@ With many tales such as the strong man Badang and the attack of the garfish, _Se
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
-##### Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu
+##### **Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu**
 **23 February 2019
 2.00pm – 5.00pm
 Level 16, The POD, National Library Building**
@@ -191,7 +191,7 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
   <tr>
     <td width="150"><strong>&nbsp;</strong></td>
     <td><u>Panellists</u><p></p>
-    <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of       Education Singapore</p>
+    <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore</p>
     <p><strong>Faisal Tehrani</strong>, Author and Playwright</p>
     <p><strong>Idris Rashid Khan Surattee</strong>, Freelance Researcher and Writer</p></td>
   </tr>
@@ -202,7 +202,7 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
   </tr>
 </table>
 <hr>
-##### Chetakan Pertama | Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional
+##### **Chetakan Pertama | Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional**
 **16 March 2019
 10:30am – 12:30pm
 Level 5, Possibility Room**
