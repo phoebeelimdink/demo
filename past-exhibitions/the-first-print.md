@@ -56,6 +56,12 @@ Tampines Regional Library**
 
 **1 September – 31 October 2019
 Woodlands Regional Library**
+
+We all grew up with the story of Sang Nila Utama and how he founded Singapura, the “lion city”. This tale from the 13th century is included in one of the oldest and most important Malay texts, _Sulalat al-Salatin_, which was actually composed four centuries later, around the 17th century.
+
+_Sulalat-al-Salatin_, or more commonly known as _Sejarah Melayu_ (Malay Annals), contains tales that not only underline Singapore’s significance as one of the capital cities of Malay kings since the 13th century; it is also one of the few surviving materials that describe the early history of Singapore.
+
+With many tales such as the strong man Badang and the attack of the garfish, _Sejarah Melayu_ continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
@@ -144,11 +150,16 @@ Woodlands Regional Library**
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
-One of the aims of the National Library is to build a comprehensive collection on Singapore and selectively on Southeast Asia. We welcome donations of published and unpublished works that will enrich our collection, but unfortunately are not able to accept everything.
+### Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu
+**23 February 2019
+2.00pm – 5.00pm
+Level 16, The POD, National Library Building**
 
-Please click on the button below to find out more about the donation process, and materials we are looking for in particular.
+_Conducted in English. <p style="color:red;">(Event has ended, registration is closed.)</p>_
 
-[Be a Donor](https://www.nlb.gov.sg/GetInvolved/Donate/DonatetoourCollections.aspx){: .dl-style-2 target="_blank"}
+ Sejarah Melayu is considered one of the most important and finest literary works of the Malay world. Essentially a court text that recorded the dynastic and feudal glories of Palembang-Singapura-Melaka and Johore from the 13th to 16th centuries, this text has piqued the interests of historians, academics as well as politicians in the era of nationalism and post-independence.
+
+This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
 </div>     
 <!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
