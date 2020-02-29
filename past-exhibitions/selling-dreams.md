@@ -244,7 +244,7 @@ Venue: Level 10, Gallery, National Library Building**
 Time: 9.00pm – 10.00pm
 Meeting point: Level 10, Gallery entrance, National Library Building**
 <i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
-![selling dreams curator tour](/images/event_images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323.jpg)
+![selling dreams curator tour](/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323.jpg)
 
 <hr>
 
@@ -356,6 +356,88 @@ Join Peter Ling as he shares part of his fascinating research on Japanese advert
 
 ##### **About the Speaker**
 **Peter Ling** was an advertising practitioner and president of the Association of Accredited Advertising Agents in Singapore before working in the cities of Taipei, Perth and Melbourne. He is the author of _[Be the Innovators](https://www.oup.com.au/books/higher-education/management-and-marketing/9780195590173-be-the-innovators)_ as well as the lead author of _[Consumer Behaviour in Action](https://www.oup.com.au/books/higher-education/management-and-marketing/9780195525601-consumer-behaviour-in-action)_, both published by Oxford University Press (OUP). His third title, _Integrated Marketing Communication: A balanced approach_ (OUP), will be published in mid-2019. He is currently a Visiting Fellow at the Wee Kim Wee School of Communication and Information at Nanyang Technological University, Singapore. Between 2011 and 2017, he was an [associate/deputy dean](http://rmitlibrarynews.blogspot.com/2017/10/rmit-author-showcase-associate.html) at RMIT University, Australia.
+
+<hr>
+
+#### **Talk | Selling Dreams | Decoding Advertisements: The Semiotics of Print Advertisements**
+**Date: 23 Feb 2019
+Time: 2.00pm – 3.00pm
+Venue: Level 5, Possibility Room, National Library Building**
+<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
+
+Product advertisements, in essence, are created to offer consumers choices. They persuade us to give ourselves a chance to transform ourselves – and our lives – for the better, through the simple act of choosing to purchase something. The addiction to buying and consumption leads to consumerism as a means to obtain a better life by way of capitalism.
+
+But what lay beneath consumerism in the early settlement of Singapore? In this dialogue, Olivia will share about the significance of the images and text behind the design of print advertisements from early Singapore.
+
+##### **About the Speaker**
+**Jessica Olivia** earned her Master Degree in Arts (Design) in 2007 and has 10 years of industry experience as an Art Director at various advertising agencies under her belt. In the course of her creative career, Olivia has translated strategic thinking into big ideas. She is a firm believer of using good design fundamentals in her teaching delivery and many of her students have gone on to become successful designers. She is currently teaching at School of Design Communication, LASALLE College of the Arts.
+
+<hr>
+
+#### **Tours | Selling Dreams | Curator’s Tours (English)**
+Join our curator-led tours and discover the rich treasures and fascinating stories of Singapore’s published heritage through the medium of advertising.
+
+**Every third Thursday of the month**
+
+**2018 | 16 Aug, 20 Sept, 18 Oct, 15 Nov, 20 Dec**
+
+**2019 | 17 Jan, 21 Feb**
+
+**Time: 7.00pm – 8.00pm**
+
+**Meeting point: Level 10, Gallery entrance**
+
+<i>Free admission. Tours will be conducted in English.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
+
+<hr>
+
+#### **Tours | Selling Dreams | Public Tours (English)**
+Join our docent-led tours and discover the rich treasures and fascinating stories of Singapore’s published heritage through the medium of advertising.
+
+**Sep 2018 | 1, 2, 15, 16, 29 & 30 
+Oct 2018 | 6, 7, 20 & 21 
+Nov 2018 | 3, 4, 17 & 18 
+Dec 2018 | 1, 2 & 15 
+Jan 2019 | 5, 6, 19 & 20 
+Feb 2019 | 16 & 17 
+Time: 4.00pm – 5.00pm
+Meeting point: Level 10, Gallery entrance**
+
+<i>Led by docents. Free admission, first-come first-served basis.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
+
+<hr>
+
+#### **Tours | Selling Dreams | 周末导览 （华语讲解**
+**2018年9月 | 8/9/22/23日
+2018年10月 | 13/14/27/28日
+2018年11月 | 10/11/24/25日
+2018年12月 | 8/9/22日
+2019年1月 | 12/13/26/27日
+2019年2月 | 23/24日
+时间: 下午4时至5时
+集合地点: 国家图书馆大厦10楼展厅门口**
+
+<i>由义务导览员带领。 入场免费, 人数有限，先到先得 。</i> <i style="color:red">(Programme has ended, registration is closed.)</i>
+
+<hr>
+
+#### **Workshop | Selling Dreams | Chasing Dreams: Shopping in Old Singapore**
+**Dates: 21 & 28 Jul, 4,11,18 & 25 Aug, 1 & 8 Sep, 6 Oct, 17 & 24 Nov 2018
+Session 1: 2.30pm – 3.30pm
+Session 2: 3.30pm – 4.30pm
+(2 sessions per day)
+Venue: Level 10, Learning Space, national Library Building**
+<i>Free admission.</i> <i style="color:red;">(Programme has ended, registration is closed.)</i>
+
+_Limited to 60 pax per session._
+<i style="color:#d51918;">Each child must be accompanied by an adult/parent.</i>
+_Each participant must purchase one ticket. If you are attending the event with your spouse and child, please purchase three tickets._ 
+
+Calling all parents with children aged 7 to 12!
+
+Come and explore what life was like in Singapore from the colonial era to the 1960s. Join us for this interactive programme set against the backdrop of Singapore’s early shopping scene.
+
+Families will engage in hands-on activities to help their children understand the power of advertisements and strategies used to promote products and services. Facilitated by librarians, these fun and interactive sessions are opportunities for families to come together to solve puzzles as well as share experiences of what life in Singapore used to be like.
 </div>      
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
