@@ -174,85 +174,8 @@ Interested schools can email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) f
     <h3>{{thisevent.custom-tab1-title}}</h3>
 <!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
-##### **Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu**
-**23 February 2019
-2.00pm – 5.00pm
-Level 16, The POD, National Library Building**
-
-<i>Conducted in English.</i> <i style="color:red;">(Event has ended, registration is closed.)</i>
-
-Sejarah Melayu is considered one of the most important and finest literary works of the Malay world. Essentially a court text that recorded the dynastic and feudal glories of Palembang-Singapura-Melaka and Johore from the 13th to 16th centuries, this text has piqued the interests of historians, academics as well as politicians in the era of nationalism and post-independence.
-
-This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
-<p>&nbsp;</p>
-<u>Programme</u>
-<table class="">
-  <tr>
-    <td width="150">
-      <strong>2.00pm – 3.00pm</strong>
-    </td>
-    <td>
-      <p><strong><i>Ceritera Singapura</i>: Narrating Singapore</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="150">
-    </td>
-    <td>
-      <u>Speaker</u><p></p>
-      <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="150"><strong>3.00pm – 3.15pm</strong></td>
-    <td><p>Performance by Aqmal N, Singer, Musician, Composer and Producer</p></td>
-  </tr>
-  <tr>
-    <td width="150"><strong>3.15pm – 5.00pm</strong></td>
-    <td><p><strong>When History becomes a Boon and a Bane: <em>Sejarah Melayu </em>in Retrospection</strong></p></td>
-  </tr>
-  <tr>
-    <td width="150"><strong>&nbsp;</strong></td>
-    <td><u>Panellists</u><p></p>
-    <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore</p>
-    <p><strong>Faisal Tehrani</strong>, Author and Playwright</p>
-    <p><strong>Idris Rashid Khan Surattee</strong>, Freelance Researcher and Writer</p></td>
-  </tr>
-  <tr>
-    <td width="150"><strong>&nbsp;</strong></td>
-    <td><u>Moderator</u><p></p>
-    <p><strong>Dr Azhar Ibrahim</strong>, Lecturer and Deputy Head at the Department of Malay Studies, National University of Singapore</p></td>
-  </tr>
-</table>
-<hr>
-##### **Chetakan Pertama | Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional**
-**16 March 2019
-10:30am – 12:30pm
-Level 5, Possibility Room**
-
-<i style="color:red;">(Event has ended, registration is closed.)</i>
-
-Dalam sesi ini, Dr Kartini Anwar dan Annaliza Bakri akan mengetengahkan beberapa tema, nilai dan idealogi dalam kesusasteraan Melayu awal yang kekal dari generasi ke generasi. Ketahui bagaimana kisah-kisah tersebut telah meninggalkan kesan yang mendalam terhadap masyarakat dan juga dunia kesusasteraan Melayu hingga ke hari ini.
-
-**Ahli Panel:**
-* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
-* **Dr Kartini Anwar**, Pensyarah, NIE dan NTU
-
-**Pemudahcara:**
-* **Juffri Supa’at**, Pustakawan Kanan, NLB
-</div>     
-<!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
-  </div>
-  {% else %}
-  {% endif %}
-  
-  {% if thisevent.custom-tab2 == "show" %}
-  <div id="tab8">
-    <h3>{{thisevent.custom-tab2-title}}</h3>
-<!-- ---------------------------------------------------CONTENT-CUSTOM-2-START-HERE------------------------------------------------- -->
-<div markdown="1">      
-#### Custom Markdown Here for Custom Tab 2
-Put your content here!
+[![From Books to Bytes Microsite](/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg)](http://nlb.gov.sg/exhibitions/sellingdreams/){: .normal-width-img target="_blank"}
+[Click to access the online exhibition.](http://nlb.gov.sg/exhibitions/sellingdreams/)
 </div>      
 <!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
   </div>
