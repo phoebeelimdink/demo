@@ -183,6 +183,22 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
     <td width="150"><strong>3.00pm – 3.15pm</strong></td>
     <td>Performance by Aqmal N, Singer, Musician, Composer and Producer</td>
   </tr>
+  <tr>
+    <td width="150"><strong>3.15pm – 5.00pm</strong></td>
+    <td><strong>When History becomes a Boon and a Bane: <em>Sejarah Melayu </em>in Retrospection</strong></td>
+  </tr>
+  <tr>
+    <td width="150"><strong>&nbsp;</strong></td>
+    <td><u>Panellists</u><p></p>
+    <p><strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of       Education Singapore</p>
+    <p><strong>Faisal Tehrani</strong>, Author and Playwright</p>
+    <p><strong>Idris Rashid Khan Surattee</strong>, Freelance Researcher and Writer</p></td>
+  </tr>
+  <tr>
+    <td width="150"><strong>&nbsp;</strong></td>
+    <td><u>Moderator</u><p></p>
+    <p><strong>Dr Azhar Ibrahim</strong>, Lecturer and Deputy Head at the Department of Malay Studies, National University of     Singapore</p></td>
+  </tr>
 </table>  
 
 </div>     
