@@ -369,8 +369,7 @@ _Free admission, first-come first-served basis_
 
 <hr>
 
-#### **Langkah ke Alam Ceritera Melayu**
-#### **bersama DJ 94.2FM Puan Mariam Mas’od**
+#### **Langkah ke Alam Ceritera Melayu<br>bersama DJ 94.2FM Puan Mariam Mas’od**
 Jangan lepaskan peluang keemasan untuk melihat manuskrip-manuskrip yang indah dan berharga dari koleksi Perpustakaan Negara dan perpustakaan-perpustakaan ternama yang lain seperti di United Kingdom dan Belanda buat julung-julung kalinya.
 
 Ikuti Puan Mariam Mas’od seorang DJ veteran dari stesen radio Warna 94.2FM dalam sebuah lawatan berpandu eksklusif untuk pameran **Ceritera di Alam Melayu: Manuskrip dan Naskhah Awal.**
