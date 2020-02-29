@@ -180,12 +180,12 @@ This symposium aims to highlight Sejarah Melayu and its effects on the cultural 
     </td>
   </tr>
   <tr>
-    <td width="150"><strong>3.00pm – 3.15pm</strong></td>
-    <td>Performance by Aqmal N, Singer, Musician, Composer and Producer</td>
+    <td width="150"><p><strong>3.00pm – 3.15pm</strong></p></td>
+    <td><p>Performance by Aqmal N, Singer, Musician, Composer and Producer</p></td>
   </tr>
   <tr>
-    <td width="150"><strong>3.15pm – 5.00pm</strong></td>
-    <td><strong>When History becomes a Boon and a Bane: <em>Sejarah Melayu </em>in Retrospection</strong></td>
+    <td width="150"><p><strong>3.15pm – 5.00pm</strong></p></td>
+    <td><p><strong>When History becomes a Boon and a Bane: <em>Sejarah Melayu </em>in Retrospection</strong></p></td>
   </tr>
   <tr>
     <td width="150"><strong>&nbsp;</strong></td>
