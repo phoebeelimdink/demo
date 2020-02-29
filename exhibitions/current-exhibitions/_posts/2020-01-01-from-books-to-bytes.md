@@ -130,7 +130,9 @@ permalink: /exhibitions/current-exhibitions/from-books-to-bytes
 <!-- ----------------------------------------------------CONTEN-START-HERE--------------------------------------------------------- -->
 <div markdown="1">
   <div style="text-align:center; margin-left:auto; margin-right:auto;" markdown="1">
-[![From Books to Bytes Microsite](/images/event-images/frombooks/from-books-to-bytes-microsite.jpg)](http://eresources.nlb.gov.sg/webarchives/wayback/20150724091101/http:/www.nlb.gov.sg/exhibitions/bookstobytes/home/index.html){: .normal-width-img target="_blank"}
+[![From Books to Bytes Microsite](/images/event-images/frombooks/from-books-to-bytes-microsite.jpg)]
+<div style="text-align:center;" markdown="1">    
+(http://eresources.nlb.gov.sg/webarchives/wayback/20150724091101/http:/www.nlb.gov.sg/exhibitions/bookstobytes/home/index.html){: .normal-width-img target="_blank"}</div>
   </div>
 </div>     
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
