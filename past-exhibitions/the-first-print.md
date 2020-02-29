@@ -162,9 +162,22 @@ Sejarah Melayu is considered one of the most important and finest literary works
 
 This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
 
-<table>
+<table class="">
   <tr>
-    <td>"2.00pm – 3.00pm"</td><td>**_Ceritera Singapura_: Narrating Singapore**</td>
+    <td>
+      <strong>2.00pm – 3.00pm</strong>
+    </td>
+    <td>
+      <strong><i>Ceritera Singapura</i>: Narrating Singapore<strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    </td>
+    <td>
+      <u>Speaker</u>
+      <strong>Dr Sa’eda Bte Buang</strong>, Assistant Head of the Asian Languages and Cultures Department, National Institute of Education Singapore
+    </td>
   </tr>
 </table>  
 
