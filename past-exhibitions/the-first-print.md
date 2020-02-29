@@ -162,8 +162,12 @@ Sejarah Melayu is considered one of the most important and finest literary works
 
 This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
 
---- | ---
-"2.00pm – 3.00pm" | **_Ceritera Singapura_: Narrating Singapore**
+<table>
+  <tr>
+    <td>"2.00pm – 3.00pm"</td><td>**_Ceritera Singapura_: Narrating Singapore**</td>
+  </tr>
+</table>  
+
 </div>     
 <!-- ------------------------------------------------------CONTENT-CUSTOM-1-END----------------------------------------------------- -->
   </div>
