@@ -286,9 +286,12 @@ As a complement to the _Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and 
 
 为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。
 
+<div markdown="1" class="default-p">
 [![AOFM07](/images/event-images/aof/AOFM07-300x181.jpg)](/images/event-images/aof/AOFM07.jpg)
 [![AOFM08](/images/event-images/aof/AOFM08-300x184.jpg)](/images/event-images/aof/AOFM08.jpg)
 [![AOFM06](/images/event-images/aof/AOFM06-300x185.jpg)](/images/event-images/aof/AOFM06.jpg)
+</div>
+
 </div>      
 <!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
   </div>
