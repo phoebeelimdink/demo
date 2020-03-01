@@ -169,6 +169,7 @@ Admission is free.
 * **Esplanade Public Library, 14 March 2017 – 23 April 2017**
 * **Jurong Regional Library, 15 March 2017 – 24 April 2017**
 * **Marine Parade Library, 16 March 2017 – 25 April 2017**
+
 **Free admission**
 Alongside the main showcase the National Library, three public libraries will host “#Shakespeare”, a display that turns stories from Shakespeare’s plays into tweets by key characters from plays such as _Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream,_ and _Hamlet._
 </div>      
