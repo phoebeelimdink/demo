@@ -653,6 +653,10 @@ event-tab-list.tab-list-outside a:hover {
     white-space: pre-wrap;
 }
 
+.event-details-area h5 {
+    margin-top: 1.5em;
+}
+
 .event-details-area a::after {
     display: none;
 }
