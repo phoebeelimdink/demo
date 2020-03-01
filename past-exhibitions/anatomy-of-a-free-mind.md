@@ -168,9 +168,9 @@ Join internationally acclaimed artist Tan Swie Hian on this exclusive tour to di
 
 <p style="color:red;">(Programme has ended, registration is closed.)</p>
 
-[![AOFM02](/images/event-images/aof/AOFM02-300x200.jpg)](/images/event-images/aof/AOFM02-300x200.jpg){: .inline30}
-[![AOFM03](/images/event-images/aof/AOFM03-300x200.jpg)](/images/event-images/aof/AOFM03-300x200.jpg){: .inline30}
-[![AOFM04](/images/event-images/aof/AOFM04-300x200.jpg)](/images/event-images/aof/AOFM04-300x200.jpg){: .inline30}
+[![AOFM02](/images/event-images/aof/AOFM02-300x200.jpg)](/images/event-images/aof/AOFM02.jpg){: .inline30}
+[![AOFM03](/images/event-images/aof/AOFM03-300x200.jpg)](/images/event-images/aof/AOFM03.jpg){: .inline30}
+[![AOFM04](/images/event-images/aof/AOFM04-300x200.jpg)](/images/event-images/aof/AOFM04.jpg){: .inline30}
 
 <hr>
 
@@ -184,24 +184,34 @@ Meeting point: Level 10, Gallery entrance, National Library Building
 集合地点：于国家图书馆大厦10楼展厅门口
 
 December 2016
-* Fri, 16 Dec | 7pm – 8pm | Conducted in English
-* Sat, 17 Dec | 2pm – 3pm | Conducted in Mandarin  2016年12月17日 (周六)下午2点至3点
+<ul>
+<li>Fri, 16 Dec | 7pm – 8pm | Conducted in English</li>
+<li>Sat, 17 Dec | 2pm – 3pm | Conducted in Mandarin  2016年12月17日 (周六)下午2点至3点</li>
+</ul>
 
 January 2017
-* Fri, 6 Jan | 7pm – 8pm | Conducted in Mandarin  2017年1月6日 (周五)晚上7点至8点
-* Sat, 7 Jan | 2pm – 3pm | Conducted in English
+<ul>
+<li>Fri, 6 Jan | 7pm – 8pm | Conducted in Mandarin  2017年1月6日 (周五)晚上7点至8点</li>
+<li>Sat, 7 Jan | 2pm – 3pm | Conducted in English</li>
+</ul>
 
 February 2017
-* Fri, 17 Feb | 7pm – 8pm | Conducted in English
-* Sat, 18 Feb | 2pm – 3pm | Conducted in Mandarin  2017年2月18日 (周六)下午2点至3点
+<ul>
+<li>Fri, 17 Feb | 7pm – 8pm | Conducted in English</li>
+<li>Sat, 18 Feb | 2pm – 3pm | Conducted in Mandarin  2017年2月18日 (周六)下午2点至3点</li>
+</ul>
 
 March 2017
-* Fri, 10 Mar | 7pm – 8pm | Conducted in Mandarin  2017年3月10日 (周五)晚上7点至8点
-* Sat, 11 Mar | 2pm – 3pm | Conducted in English
+<ul>
+<li>Fri, 10 Mar | 7pm – 8pm | Conducted in Mandarin  2017年3月10日 (周五)晚上7点至8点</li>
+<li>Sat, 11 Mar | 2pm – 3pm | Conducted in English</li>
+</ul>
 
 April 2017
-* Fri, 21 Apr | 7pm – 8pm | Conducted in English
-* Sat, 22 Mar | 2pm – 3pm | Conducted in Mandarin 2017年4月22日 (周六)下午2点至3点
+<ul>
+<li>Fri, 21 Apr | 7pm – 8pm | Conducted in English</li>
+<li>Sat, 22 Mar | 2pm – 3pm | Conducted in Mandarin 2017年4月22日 (周六)下午2点至3点</li>
+</ul>
 
 <p style="color:red;">(Programme has ended, registration is closed.)</p>
 
@@ -210,11 +220,13 @@ April 2017
 
 集合地点：于国家图书馆大厦10楼展厅门口
 
-* 2017年3月4日 (周六) 下午2点至3点
-* 2017 3月5日 (周日) |下午2点至3点
-* 2017 3月12日 (周日) |下午2点至3点
-* 2017年3月18日 (周六) 下午2点至3点
-* 2017 3月19日 (周日) |下午2点至3点
+<ul>
+<li>2017年3月4日 (周六) 下午2点至3点</li>
+<li>2017 3月5日 (周日) |下午2点至3点</li>
+<li>2017 3月12日 (周日) |下午2点至3点</li>
+<li>2017年3月18日 (周六) 下午2点至3点</li>
+<li>2017 3月19日 (周日) |下午2点至3点</li>
+</ul>
 
 <p>Admission is free. <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
 
@@ -229,7 +241,7 @@ National Library Building**
 
 Learn how artists record their ideas and inspiration in their art journals in this talk-and-demonstration that offers you a peek into their minds.
 <p>Admission is free. <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
-[![AOFM05](/images/event-images/aof/AOFM05.jpg)](/images/event-images/aof/AOFM05.jpg)
+[![AOFM05](/images/event-images/aof/AOFM05-300x200.jpg)](/images/event-images/aof/AOFM05.jpg)
 
 <hr>
 
@@ -272,9 +284,9 @@ As a complement to the _Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and 
 
 为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。
 
-[![AOFM07](/images/event-images/aof/AOFM07.jpg)](/images/event-images/aof/AOFM07.jpg)
-[![AOFM08](/images/event-images/aof/AOFM08.jpg)](/images/event-images/aof/AOFM08.jpg)
-[![AOFM06](/images/event-images/aof/AOFM06.jpg)](/images/event-images/aof/AOFM06.jpg)
+[![AOFM07](/images/event-images/aof/AOFM07-300x200.jpg)](/images/event-images/aof/AOFM07.jpg)
+[![AOFM08](/images/event-images/aof/AOFM08-300x200.jpg)](/images/event-images/aof/AOFM08.jpg)
+[![AOFM06](/images/event-images/aof/AOFM06-300x200.jpg)](/images/event-images/aof/AOFM06.jpg)
 </div>      
 <!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
   </div>
