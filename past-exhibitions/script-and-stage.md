@@ -140,7 +140,7 @@ Download a copy of the brochure by clicking the button below.
 <div markdown="1">      
 
 <div style="text-align:center;" markdown="1">
-[![Script and Stage Microsite](/images/event-images/script-and-stage/selling-dreams-thumbnail.jpg)](http://www.nlb.gov.sg/exhibitions/scriptandstage/virtualtour/Script%20and%20Stage.html){: .normal-width-img target="_blank"}
+[![Script and Stage Microsite](/images/event-images/script-and-stage/script-and-stage-thumbnail.jpg)](http://www.nlb.gov.sg/exhibitions/scriptandstage/virtualtour/Script%20and%20Stage.html){: .normal-width-img target="_blank"}
 </div>
 
 </div>      
@@ -167,7 +167,7 @@ This exhibition is a roving component of _Script & Stage: Theatre in Singapore f
 <hr>
 
 #### **Programmes**
-Admission to programmes is free and open to all unless otherwise stated. Seats are limited, on a first-come first-served basis. Please register at **library eKiosks** or [www.nlb.gov.sg/golibrary](www.nlb.gov.sg/golibrary). All programmes will be held at the National Library Building (100 Victoria Street, Singapore 188064).
+Admission to programmes is free and open to all unless otherwise stated. Seats are limited, on a first-come first-served basis. Please register at **library eKiosks** or [www.nlb.gov.sg/golibrary](https://www.nlb.gov.sg/golibrary). All programmes will be held at the National Library Building (100 Victoria Street, Singapore 188064).
 
 ##### **[NL Arts Conversation] The Anatomy of a Great SG Musical**
 **Friday, 18 November 2016
@@ -302,7 +302,7 @@ Through guided tours specifically tailored for schools, students will discover f
 
 Worksheets will be provided for students during the tour. The activities in the worksheet are designed to enable students to learn the skills of critical analysis and show a greater appreciation for the art of theatre and playwriting.
 
-Interested schools can send an email to [visitnls@nlb.gov.sg](visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
+Interested schools can send an email to [visitnls@nlb.gov.sg](https://visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
 
 <p style="color:red;">Programme has ended, registration is closed.</p>
 
