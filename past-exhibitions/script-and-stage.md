@@ -302,7 +302,7 @@ Through guided tours specifically tailored for schools, students will discover f
 
 Worksheets will be provided for students during the tour. The activities in the worksheet are designed to enable students to learn the skills of critical analysis and show a greater appreciation for the art of theatre and playwriting.
 
-Interested schools can send an email to [visitnls@nlb.gov.sg](https://visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
+Interested schools can send an email to [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) for more details. Book early to secure a tour slot!
 
 <p style="color:red;">Programme has ended, registration is closed.</p>
 
