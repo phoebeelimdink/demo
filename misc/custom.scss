@@ -1115,6 +1115,12 @@ a.programme-readmore {
     transition: all 0.3s ease;
 }
 
+.inline30 {
+    display: inline-block !IMPORTANT;
+    width: 31%;
+    margin-right: 1%;
+}
+
 .resources-url-style:hover a {
     color: white;
     text-decoration: none;
