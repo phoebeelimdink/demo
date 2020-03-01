@@ -168,9 +168,11 @@ Join internationally acclaimed artist Tan Swie Hian on this exclusive tour to di
 
 <p style="color:red;">(Programme has ended, registration is closed.)</p>
 
+<div markdown="1">
 [![AOFM02](/images/event-images/aof/AOFM02-300x200.jpg)](/images/event-images/aof/AOFM02.jpg){: .inline30}
 [![AOFM03](/images/event-images/aof/AOFM03-300x200.jpg)](/images/event-images/aof/AOFM03.jpg){: .inline30}
 [![AOFM04](/images/event-images/aof/AOFM04-300x200.jpg)](/images/event-images/aof/AOFM04.jpg){: .inline30}
+</div>
 
 <hr>
 
