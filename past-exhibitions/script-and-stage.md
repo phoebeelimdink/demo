@@ -48,7 +48,7 @@ Not to be missed are showcases of notable local musicals, such as Beauty World (
 
 Download a copy of the brochure by clicking the button below.
 
-[Exhibition brochure](/files/scriptandstageonsite/Script-Stage-Exhibition-Brochure-Resized.pdf){: .dl-style-1 target="_blank"}
+[Exhibition brochure](/files/script-and-stage-onsite/Script-Stage-Exhibition-Brochure-Resized.pdf){: .dl-style-1 target="_blank"}
 
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
