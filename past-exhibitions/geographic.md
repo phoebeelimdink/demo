@@ -243,12 +243,10 @@ Free weekend guided tours are available from February 2015. Tours are limited to
 <p style="color:red;">(Programme has ended, registration is closed.)</p>
 
 **Curator’s Tour Part 1 (Land of Gold and Spices)**
-<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 7.30pm<br>
-Meeting point: Outside the Gallery, Level 10</p>
+<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 7.30pm<br>Meeting point: Outside the Gallery, Level 10</p>
 
 **Curator’s Tour Part 2 (Island of Stories)**
-<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 9.00pm<br>
-Meeting point: Outside the Lee Kong Chian Reference Library, Level 11</p>
+<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 9.00pm<br>Meeting point: Outside the Lee Kong Chian Reference Library, Level 11</p>
 
 Admission is free. Tours are limited to 20 participants per session.
 
