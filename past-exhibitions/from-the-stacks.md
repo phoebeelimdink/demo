@@ -159,23 +159,27 @@ Download your copy of the brochure and exhibition guide by clicking the buttons 
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div markdown="1">      
 Click on the button below to browse a selection of digitized books at NLB’s e-Resources.
-[Browse digitised books](http://eresources.nlb.gov.sg/printheritage/browse/from_the_stacks.aspx){: .resources-url-style target="_blank"}
+<div class="resources-url-style">
+          <a href="http://eresources.nlb.gov.sg/printheritage/browse/from_the_stacks.aspx" target="_blank">Browse digitised books</a>
+</div>
   
 Click on the button below to to read BiblioAsia: Highlights of the National Library.
-[Browse articles from BiblioAsia](http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/){: .resources-url-style target="_blank"}
+<div class="resources-url-style">
+          <a href="http://www.nlb.gov.sg/biblioasia/vol-11-issue-4-jan-mar-2016/" target="_blank">Browse articles from BiblioAsia</a>
+</div>
 
 Browse the image gallery below for the exhibition’s Activity Booklet.
 <div markdown="1" class="default-p">
-[![From the Stacks Booklet Page 1](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_01-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_01-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 2](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_02-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_02-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 3](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_03-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_03-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 4](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_04-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_04-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 5](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_05-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_05-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 6](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_06-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_06-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 7](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_07-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_07-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 8](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_08-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_08-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 9](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_09-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_09-high.jpg){: .inline50}
-[![From the Stacks Booklet Page 10](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_10-low.jpg)](/images/event-images/from-the-stacks/from-the-stacks_booklet_page_10-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 1](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_01-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_01-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 2](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_02-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_02-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 3](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_03-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_03-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 4](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_04-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_04-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 5](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_05-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_05-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 6](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_06-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_06-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 7](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_07-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_07-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 8](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_08-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_08-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 9](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_09-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_09-high.jpg){: .inline50}
+[![From the Stacks Booklet Page 10](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_10-low.jpg)](/images/event-images/from-the-stacks-onsite/from-the-stacks_booklet_page_10-high.jpg){: .inline50}
 </div>
 
 
