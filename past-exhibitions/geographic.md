@@ -63,6 +63,7 @@ Source: Singapore Land Authority, Courtesy of National Archives of Singapore</sm
 
 <h5><strong>Bibliotopia</strong><strong style="color:#484848 !important"> | by Michael Lee</strong></h5>
 **Promenade, Level 7**
+
 ![Michael Lee, Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)](/images/event-images/geographic/geographic-main-image-3.jpg){: .normal-width-img}
 <small class="image-caption">Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</small>
 
@@ -74,6 +75,7 @@ Michael Lee is an artist, curator and publisher, whose works focus on urban memo
 
 <h5><strong>Outliers</strong><strong style="color:#484848 !important"> | by Jeremy Sharma</strong></h5>
 **Promenade, Level 8**
+
 ![Jeremy Sharma, Work in Progress for the Outliers, 2014-2015](/images/event-images/geographic/geographic-main-image-4.jpg){: .normal-width-img}
 <small class="image-caption">Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</small>
 
@@ -85,6 +87,7 @@ Jeremy Sharma instigates investigative processes to inform the formal expression
 
 <h5><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong style="color:#484848 !important"> | by Sherman Ong</strong></h5>
 **Promenade, Level 9**
+
 ![Sherman Ong, Video stills from Fables of Nusantara (2015)](/images/event-images/geographic/geographic-main-image-5.jpg){: .normal-width-img}
 <small class="image-caption">Sherman Ong<br>Video stills from Fables of Nusantara (2015)</small>
 
@@ -96,6 +99,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 
 ##### **Land of Gold and Spices: Early Maps of Southeast Asia and Singapore**
 **National Library Gallery, Level 10**
+
 ![Land of Gold and Spices](/images/event-images/geographic/geographic-main-image-6.jpg){: .normal-width-img}
 Asia, particularly Southeast Asia, had a strong hold over the imaginations of early Europeans as a source of gold, spices and all things exotic. Land of Gold and Spices presents a fascinating look at how Southeast Asia was perceived, conceived of and mapped by the Europeans from the 15th to the early 19th centuries.
 
@@ -105,6 +109,7 @@ The maps featured in this exhibition are from the National Library, Singapore’
 
 ##### **Island of Stories: Singapore Maps**
 **Lee Kong Chian Reference Library, Level 11**
+
 ![Island of Stories: Singapore Maps](/images/event-images/geographic/geographic-main-image-7.jpg){: .normal-width-img}
 **Island of Stories**, showcasing the collection of the National Archives of Singapore, draws on an eclectic mix of Singapore maps that captures intriguing moments from our country’s history. Featuring maps of forgotten mileage points to the island’s farmland and soil composition, as well as stories of the former detached mole at Marina Bay, the Orchard Road “circus” and the election fever of 1955 – these maps weave a quirky, multifaceted story of Singapore’s past.
 
@@ -116,6 +121,7 @@ Jointly organised by the National Archives of Singapore and the National Library
 
 <h5><strong>SEA STATE 8 SEABOOK</strong><strong style="color:#484848 !important"> | An Art Project by Charles Lim</strong></h5>
 **Lee Kong Chian Reference Library, Level 11**
+
 ![Charles Lim, Sea Safe (2014)](/images/event-images/geographic/geographic-main-image-8.jpg){: .normal-width-img}
 Part of the SEA STATE series, **SEABOOK** follows Charles Lim’s solo-exhibition, “In Search of Raffles’ Light” (2013) held at the NUS Museum. SEABOOK is conceived by the artist, as a site for the accumulation of archival materials, anecdotes and memories that unravels Singapore’s relationship with the sea. Developed with the librarians from the National Library, the project attempts to highlight the range of primary resources available on the sea from the colonial and post-colonial periods. In effect, SEABOOK aspires to be the most extensive cultural study of Singapore’s troubled relationship with the sea.
 
