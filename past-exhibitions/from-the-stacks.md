@@ -194,6 +194,201 @@ Browse the image gallery below for the exhibition’s Activity Booklet.
     <h3>{{thisevent.custom-tab3-title}}</h3>
 <!-- ----------------------------------------------------CONTENT-CUSTOM-3-START-HERE------------------------------------------------ -->
 <div markdown="1">     
+#### **_From the Stacks_ Giftaways**
+Fancy trying your hand at vintage recipes? Or going back to a time where library borrowing cards were used? How about bringing home quaint pictures of old-time Singapore?
+
+We are giving away an assortment of souvenirs such as recipe cards, library cards and photo reproductions of old Singapore. Take one of these mementoes home when you visit the exhibition! #
+
+#Souvenirs are subject to availability, while stocks last. Each visitor is entitled to one souvenir per visit.
+
+You can also participate in our monthly Facebook quiz and stand a chance to win^ a framed photo of old Singapore by G. R. Lambert & Co. – a renowned photography studio in the late 19th century. Simply like our Facebook page **@NationalLibrarySG** and keep a lookout for the online quiz on the second Sunday of every month!
+
+^Two winners will be selected monthly for each quiz. [Terms and conditions apply](http://www.nlb.gov.sg/exhibitions/wp-content/uploads/2016/01/TCs-for-From-the-Stacks-Monthly-FB-Quiz.pdf).
+
+<p style="color:red;">(Event has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Programmes**
+Public Tours
+Join our curator- or docent-led weekend tours and discover the rich treasures and fascinating stories of Singapore’s published heritage from the collections of the National Library.
+
+Your journey begins here.
+
+##### **Curator’s Tour**
+Conducted in English | 7.30pm – 8.30pm
+19 Feb, 18 Mar, 15 Apr, 27 May, 17 Jun, 15 Jul, 19 Aug 2016
+
+Conducted in English | 7.00pm – 8.00pm
+2 Sep 2016
+
+Meeting point: Level 10, outside the Gallery entrance
+<p>Admission is free. <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
+
+##### **策展员导览**
+华语讲解 | 晚上七时到八时
+2016年9月16日（星期五）
+
+集合地点: 国家图书馆大厦10楼展厅外
+<p>入场免费｡ <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
+
+##### **Weekend Tours**
+Conducted in English | 1.00pm – 2.00pm
+All Saturdays and Sundays from 20 February to 28 August 2016*
+
+Meeting point: Level 10, outside the Gallery entrance
+<p>First-come first-served basis. Admission is free. <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
+
+<strong>*There will be no tours on public holidays.</strong>
+
+##### **周末导览**
+华语讲解 | 下午一时半到二时半
+每逢星期六﹐从2016年2月20日至8月27日*
+
+集合地点: 国家图书馆大厦10楼展厅外
+<p>入场免费｡ 团额有限，额满即止。<span style="color:red;">(Programme has ended, registration is closed.)</span></p>
+
+<strong>*公共假日导览暂停｡</strong>
+
+##### **School Tours**
+Experience the history of Singapore through the National Library’s exhibition featuring rare publications, manuscripts, documents, maps, photographs and other resources.
+
+Guided school tours can be arranged for students who will receive the specially produced From the _Stacks: Activity Booklet on Singapore History_. Through puzzles, illustrations, maps and photographs, students will be able to learn and apply the 5W1H approach of research and Information Literacy (IL).
+
+Schools also have the option of enhancing the tour with a customised IL workshop that will teach the critical aspects of research, especially in analysing and using content from a variety of resources.
+
+Interested schools can email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) for more details.
+<p>Book early to secure a tour slot! <span style="color:red;">(Programme has ended, registration is closed.)</span></p>
+
+<hr>
+
+#### **180年前新加坡刊行的一部中文小说 -《是非略论》**
+**华语讲座 | 2016年1月30日（六）,下午二时到四时 Possibility Room﹐五楼**
+
+讲员：庄钦永博士﹐新加坡新跃大学新跃中华学术中心兼任研究员
+
+1835年﹐新加坡坚夏书院出版了传教士郭实猎（Karl F. A. Gützlaff, 1803-1851）所著的小说《是非略论》— 一部鸦片战争前撰写的重要文学创作｡通过小说﹐著者为旅居广州之泰西人呐喊：他们不满在中国所受到的歧视与限制｡演讲将探讨小说之创作背景﹐将文本与档案进行比读﹐深入挖掘其纸背后之深意以及弦外之音｡
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **A Chinese Novel Published in Singapore in 1835 – _Shi fei lüe lun (A Brief Discussion of Right and Wrong)_ by Karl F. A. Gützlaff (1803-1851)**
+**Conducted in Mandarin | Saturday, 30 Jan 2016,
+2.00pm – 4.00pm | Level 5, Possibility Room**
+
+**Speaker: Dr David K. Y. Chng**
+
+![Portrait of Karl F.A.Gützlaff](/images/event-images/from-the-stacks-onsite/FTS02.jpg){: .normal-width-img}
+
+The talk will focus on the novel _Shi fei lüe lun (A Brief Discussion of Right and Wrong)_ written by Protestant missionary Karl F. A. Gützlaff (1803-1851), published in Singapore in 1835 by the American Board Mission Press. It is a very important piece of literature that sheds light on Sino-British relationships in the 1830s. The talk will also explore the historical context of the novel.
+
+Dr David K. Y. Chng is a part-time researcher at the UniSIM Centre for Chinese Studies, SIM University.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **In Honour of Dead Friends: The Ethics of Antiquarian Book Collecting** 
+**Thursday, 18 Feb 2016, 7.00pm – 9.00pm | Level 16, The Pod**
+
+**Speaker: Dr Farish A. Noor**
+
+Books are the repositories of ideas and world views of those who have come before us, offering a glimpse into other life-worlds that in turn present us with alternative ways of understanding our world. Book collectors, therefore, play an essential role in preserving our published heritage.
+
+Join Dr Farish A. Noor as he shares his 30-year journey of collecting antiquarian books and maps related to Southeast Asia.
+
+Dr Farish A. Noor is an associate professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University. His research covers topics ranging from Southeast Asian history to contemporary politics, material culture, art and antiquities as well as the media. He is a collector of antiquarian books, maps, prints, photos and memorabilia of Southeast Asia since the 1980s, and is a valued donor to the National Library Board of Singapore.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Birdwatching & Exhibition Tour with Nature Society Singapore (NSS)**
+**Saturday, 19 Mar 2016, 8:30am – 12.00pm
+National Library Building and Labrador Park**
+
+![An Illustration from Birds of the Malay Peninsula featuring the Eastern Swallow, a frequently spotted bird in Singapore](/images/event-images/from-the-stacks-onsite/FTS03.jpg){: .normal-width-img}
+
+Within the National Library’s exhibition _From the Stacks_, is a beautifully illustrated series of books titled _Birds of the Malay Peninsula_ that date as far back as 1927. Published by the earliest ornithologists in Singapore, Frederick Chasen and Herbert Robinson, the book details hundreds of bird species found in Malaya up to 1976.
+
+In the spirit of exploration, join us for a fascinating walk around Labrador Park to identify and observe birds in their natural habitat.
+
+This tour is organised in partnership with the Nature Society Singapore.
+
+##### **Programme**
+
+**8.30am** | Meet up @ NL Building lobby, level 1 (chartered bus to Labrador Park)
+**9.00am** | Introduction to birds and birdwatching
+**10.30am** | Return to the National Library
+**11.00am** | Tour of From the Stacks exhibition
+**12.00pm** | End of programme
+
+A bus will be chartered to bring participants to and from Labrador Park. Participants are advised to dress comfortably (e.g. walking shoes) as well as to bring their own water and binoculars. To join this tour, please email visitnls@nlb.gov.sg with the subject “Birdwatching Tour”, indicating if rental of binoculars is required ($10 per pair).
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Art and Cartoons about the Japanese Occupation in Singapore and Malaysia**
+**Saturday, 19 Mar 2016, 3.00pm – 4.30pm
+Level 5, Possibility Room**
+
+**Speaker: Mr Lim Cheng Tju**
+
+70 years after the end of World War II and 50 years after Singapore’s independence, the Japanese Occupation remains a pivotal period in the history of Singapore. Its importance in nation-building and national education can be seen in textbooks and commemorative dates such as Total Defense Day. Besides textual materials (documents, speeches, diaries, etc), art and cartoons are also important sources of history. What can art and cartoons tell us about the Japanese Occupation in Singapore through how it is portrayed and remembered? This short sharing will examine artist Liu Kang’s _Chop Suey_ (1946), a collection of cartoons about the Japanese Occupation; Lim Yew Kuan’s _Lingering Fear_ (1954), a painting depicting the arrest of his older brother by the Kempeitai in 1944; and a set of cartoons drawn by artist Abdullah Ariff during the Japanese Occupation of Penang in 1942.
+
+Lim Cheng Tju is an educator with an interest in history and popular culture. His articles have appeared in the _Southeast Asian Journal of Social Science, Journal of Popular Culture_ and _Print Quarterly_. He is the country editor (Singapore) for the _International Journal of Comic Art_ and also the co-editor of _Liquid City 2_, an anthology of Southeast Asian comics published by Image Comics. He is one of the authors of _The University Socialist Club and the Contest for Malaya: Tangled Strands of Modernity_ (Amsterdam University Press/National University of Singapore Press).
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Conservation Talk by National Archives of Singapore (NAS)**
+**Saturday, 16 Apr 2016, 2:30pm – 4.00pm
+Level 5, Imagination Room**
+
+![Book pages being repaired through application of glue to its interior spine](/images/event-images/from-the-stacks-onsite/FTS04.jpg){: .normal-width-img}
+
+**Speakers: Dr Phang Lai Tee and Mr Chng Yak Hock**
+
+Ever wondered how Singapore’s historical archives are conserved and preserved? What can you do to safely keep your own family records?
+
+Hear from Dr Phang Lai Tee, Senior Assistant Director, Audio Visual Archives, National Archives of Singapore (NAS), as she shares about NAS’s role in preserving the nation’s audio-visual archives including family videos, broadcast archives and music albums.
+
+Learn from Conservator, Mr Chng Yak Hock, who will introduce the art of paper conservation performed by NAS and provide advice on what you can do to maintain your old paper records at home.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **From Priest to an Islamic Reformer – The Life, Works and Legacy of Abdullah Bin Abdul Kadir Munsyi (1796-1854)**
+**Saturday, 7 May 2016, 2.30pm – 4.00pm
+Level 5, Imagination Room**
+
+**Speaker: Dr Hadijah Rahmat**
+
+Find out more about the life, works, influences and legacy of Abdullah bin Abdul Kadir Munsyi (1796-1854), a prominent and controversial 19th century Malay writer.  Abdullah is widely regarded as the father of modern Malay-Indonesian literature and his works, especially his autobiography (_Hikayat Abdullah_, 1849) and travelogue (_Kisah Pelayaran Abdullah_, 1838), were promoted by both British and Dutch colonial institutions.  However, Abdullah’s pro-colonial stance was strongly criticized by some, with his own communities seeing him as a ‘British stooge’ and mocking him as ‘Abdullah Paderi’ (Abdullah the Priest). Only in the early 21st century was Abdullah regarded by scholars to be an Islamic Reformer. Join Dr Hadijah as she traces Abdullah’s legacy in Southeast Asia, Europe and the United States and sheds light on the man and his works.
+
+Dr Hadijah Rahmat is an Associate Professor and Covering Head/ Deputy Head of the Asian Languages and Cultures Academic Group, Nanyang Technological University. She received her PhD from the School of Oriental and African Studies, University of London in 1996 and was a Fulbright Visiting Scholar at the University of California Berkeley; Library of Congress, Washington D.C. and Harvard University (2002-2003). She was an Affiliated Fellow at the International Institute of Asian Studies, University Leiden, Netherland (2010) and Visiting Scholar at School of Oriental and African Studies, University of London (2011).
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **A Printmaker’s Tale**
+**Saturday, 25 Jun 2016, 2.30pm – 4.00pm
+Level 5, Possibility Room**
+
+**Speaker: Ms Lim Bee Ling**
+
+In this interactive session, artist and educator, Lim Bee Ling, will share with audiences different printmaking techniques through the ages. She will also showcase various matrixes and prints. Participants will get the chance to see these various print mediums up close.
+
+Lim Bee Ling is a lecturer from the School of Fine Arts at LASALLE College of the Arts. Bee Ling has been practicing printmaking as a major art form. Her works deal with the notion of physical space as a medium of collective memory through the material and method she works with. She approaches this topic by manipulating the different printing principles in art-making, using archived images which are rooted in the memory of national identity.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
 
 <div markdown="1" class="default-p">
 [![SS04](/images/event-images/script-and-stage-onsite/SS04-300x209.jpg)](/images/event-images/script-and-stage-onsite/SS04.jpg){: .inline30}
