@@ -203,7 +203,7 @@ We are giving away an assortment of souvenirs such as recipe cards, library card
 
 You can also participate in our monthly Facebook quiz and stand a chance to win^ a framed photo of old Singapore by G. R. Lambert & Co. – a renowned photography studio in the late 19th century. Simply like our Facebook page **@NationalLibrarySG** and keep a lookout for the online quiz on the second Sunday of every month!
 
-^Two winners will be selected monthly for each quiz. [Terms and conditions apply](http://www.nlb.gov.sg/exhibitions/wp-content/uploads/2016/01/TCs-for-From-the-Stacks-Monthly-FB-Quiz.pdf).
+^Two winners will be selected monthly for each quiz. [Terms and conditions apply](/files/from-the-stacks-onsite/TCs-for-From-the-Stacks-Monthly-FB-Quiz.pdf).
 
 <p style="color:red;">(Event has ended, registration is closed.)</p>
 
