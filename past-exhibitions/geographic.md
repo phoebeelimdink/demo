@@ -61,7 +61,7 @@ Source: Singapore Land Authority, Courtesy of National Archives of Singapore</sm
 ##### **Mind the Gap: Mapping the Other**
 **Mind the Gap** presents the works of three Singapore-based contemporary artists who harness the strategies of data collection and mapping to investigate what lies beneath the surface of contemporary life.
 
-<h5><strong>Bibliotopia</strong><strong color="#3a3a3a !important"> | by Michael Lee</strong></h5>
+<h5><strong>Bibliotopia</strong><strong style="color:#484848 !important"> | by Michael Lee</strong></h5>
 **Promenade, Level 7**
 ![Michael Lee, Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)](/images/event-images/geographic/geographic-main-image-3.jpg){: .normal-width-img}
 <small class="image-caption">Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</small>
@@ -70,7 +70,9 @@ In this work titled Bibliotopia, Michael Lee uses the device of the mind map to 
 
 Michael Lee is an artist, curator and publisher, whose works focus on urban memory and fiction, with an emphasis on their contexts and issues of loss.
 
-<h5><strong>Outliers</strong><strong color="#3a3a3a !important"> | by Jeremy Sharma</strong></h5>
+<hr>
+
+<h5><strong>Outliers</strong><strong style="color:#484848 !important"> | by Jeremy Sharma</strong></h5>
 **Promenade, Level 8**
 ![Jeremy Sharma, Work in Progress for the Outliers, 2014-2015](/images/event-images/geographic/geographic-main-image-4.jpg){: .normal-width-img}
 <small class="image-caption">Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</small>
@@ -79,7 +81,9 @@ In the installation **Outliers** by Jeremy Sharma, are four white polystyrene bl
 
 Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.
 
-<h5><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong color="#3a3a3a !important"> | by Sherman Ong</strong></h5>
+<hr>
+
+<h5><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong style="color:#484848 !important"> | by Sherman Ong</strong></h5>
 **Promenade, Level 9**
 ![Sherman Ong, Video stills from Fables of Nusantara (2015)](/images/event-images/geographic/geographic-main-image-5.jpg){: .normal-width-img}
 <small class="image-caption">Sherman Ong<br>Video stills from Fables of Nusantara (2015)</small>
@@ -110,7 +114,7 @@ Jointly organised by the National Archives of Singapore and the National Library
 
 <hr>
 
-<h5><strong>SEA STATE 8 SEABOOK</strong><strong color="#3a3a3a !important"> | An Art Project by Charles Lim</strong></h5>
+<h5><strong>SEA STATE 8 SEABOOK</strong><strong style="color:#484848 !important"> | An Art Project by Charles Lim</strong></h5>
 **Lee Kong Chian Reference Library, Level 11**
 ![Charles Lim, Sea Safe (2014)](/images/event-images/geographic/geographic-main-image-8.jpg){: .normal-width-img}
 Part of the SEA STATE series, **SEABOOK** follows Charles Lim’s solo-exhibition, “In Search of Raffles’ Light” (2013) held at the NUS Museum. SEABOOK is conceived by the artist, as a site for the accumulation of archival materials, anecdotes and memories that unravels Singapore’s relationship with the sea. Developed with the librarians from the National Library, the project attempts to highlight the range of primary resources available on the sea from the colonial and post-colonial periods. In effect, SEABOOK aspires to be the most extensive cultural study of Singapore’s troubled relationship with the sea.
