@@ -52,7 +52,7 @@ Download your copy of the festival brochure by clicking the button below.
 
 Topographic maps give a three-dimensional sense of the area being mapped, depicting the contours and relief of the terrain. On display are Singapore’s first complete set of topographical maps that were produced in 1924, and the six-sheet 1954 map of the city centre.
 
-![Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924](/images/event-images/geographic/Geo01.jpg){: .normal-width-img}
+![Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924](/images/event-images/geographic/geographic-main-image-2.jpg){: .normal-width-img}
 <small class="image-caption">Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924
 Source: Singapore Land Authority, Courtesy of National Archives of Singapore</small>
 
@@ -61,32 +61,75 @@ Source: Singapore Land Authority, Courtesy of National Archives of Singapore</sm
 ##### **Mind the Gap: Mapping the Other**
 **Mind the Gap** presents the works of three Singapore-based contemporary artists who harness the strategies of data collection and mapping to investigate what lies beneath the surface of contemporary life.
 
-<h5><strong>Bibliotopia</strong><strong color="#3a3a3a"> | by Michael Lee</strong></h5>
+<h3><strong>Bibliotopia</strong><strong color="#3a3a3a !important"> | by Michael Lee</strong></h3>
 **Promenade, Level 7**
-![Michael Lee, Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)](/images/event-images/geographic/Geo02.jpg){: .normal-width-img}
+![Michael Lee, Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)](/images/event-images/geographic/geographic-main-image-3.jpg){: .normal-width-img}
 <small class="image-caption">Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</small>
 
 In this work titled Bibliotopia, Michael Lee uses the device of the mind map to uncover the “secret bookscape” of Singapore’s book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan – the artist draws out secrets that are hidden within, or exposed by, narratives on identity, adolescence, and the ghostly in Singapore.
 
 Michael Lee is an artist, curator and publisher, whose works focus on urban memory and fiction, with an emphasis on their contexts and issues of loss.
 
-<h5><strong>Outliers</strong><strong color="#3a3a3a"> | by Jeremy Sharma</strong></h5>
+<h3><strong>Outliers</strong><strong color="#3a3a3a !important"> | by Jeremy Sharma</strong></h3>
 **Promenade, Level 8**
-![Jeremy Sharma, Work in Progress for the Outliers, 2014-2015](/images/event-images/geographic/Geo03.jpg){: .normal-width-img}
+![Jeremy Sharma, Work in Progress for the Outliers, 2014-2015](/images/event-images/geographic/geographic-main-image-4.jpg){: .normal-width-img}
 <small class="image-caption">Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</small>
 
 In the installation **Outliers** by Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture the signals of dying stars (pulsars) in material form. Sharma, with the help of a pulsar scientist, has been collecting and categorising the radiographic data of selected pulsars. His work contemplates the profound space-time distance the signals of dying stars travel to communicate their death throes.
 
 Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.
 
-<h5><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong color="#3a3a3a"> | by Sherman Ong</strong></h5>
+<h3><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong color="#3a3a3a !important"> | by Sherman Ong</strong></h3>
 **Promenade, Level 9**
-![Sherman Ong, Video stills from Fables of Nusantara (2015)](/images/event-images/geographic/Geo04.jpg){: .normal-width-img}
+![Sherman Ong, Video stills from Fables of Nusantara (2015)](/images/event-images/geographic/geographic-main-image-5.jpg){: .normal-width-img}
 <small class="image-caption">Sherman Ong<br>Video stills from Fables of Nusantara (2015)</small>
 
 In this video installation, Sherman Ong uses the documentary/ethnographic film genre to tell stories of migration, trans-border identities, myths and memories in the islands of Southeast Asia. The histories and contemporary stories of the region are explored through the nine individuals featured in the video vignettes.
 
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition.
+
+<hr>
+
+### **Land of Gold and Spices: Early Maps of Southeast Asia and Singapore**
+**National Library Gallery, Level 10**
+![Land of Gold and Spices](/images/event-images/geographic/geographic-main-image-6.jpg){: .normal-width-img}
+Asia, particularly Southeast Asia, had a strong hold over the imaginations of early Europeans as a source of gold, spices and all things exotic. Land of Gold and Spices presents a fascinating look at how Southeast Asia was perceived, conceived of and mapped by the Europeans from the 15th to the early 19th centuries.
+
+The maps featured in this exhibition are from the National Library, Singapore’s rare maps collection and tell stories of the European presence in the region. The exhibition features printed and hand-drawn maps as well as sailing instructions that point to Singapore’s early history before the arrival of the British in 1819. On special loan from European libraries are rare maps, such as indigenous Southeast Asian maps, on display for the very first time in Singapore.
+
+<hr>
+
+### **Island of Stories: Singapore Maps**
+**Lee Kong Chian Reference Library, Level 11**
+![Island of Stories: Singapore Maps](/images/event-images/geographic/geographic-main-image-7.jpg){: .normal-width-img}
+**Island of Stories**, showcasing the collection of the National Archives of Singapore, draws on an eclectic mix of Singapore maps that captures intriguing moments from our country’s history. Featuring maps of forgotten mileage points to the island’s farmland and soil composition, as well as stories of the former detached mole at Marina Bay, the Orchard Road “circus” and the election fever of 1955 – these maps weave a quirky, multifaceted story of Singapore’s past.
+
+Among other various audiovisual elements, visitors can overlay 19th-century maps over a contemporary map of the island in an interactive display developed with the Urban Redevelopment Authority, to see how the island has changed over the years.
+
+Jointly organised by the National Archives of Singapore and the National Library, Singapore.
+
+<hr>
+
+<h3><strong>SEA STATE 8 SEABOOK</strong><strong color="#3a3a3a !important"> | An Art Project by Charles Lim</strong></h3>
+**Lee Kong Chian Reference Library, Level 11**
+![Charles Lim, Sea Safe (2014)](/images/event-images/geographic/geographic-main-image-8.jpg){: .normal-width-img}
+Part of the SEA STATE series, **SEABOOK** follows Charles Lim’s solo-exhibition, “In Search of Raffles’ Light” (2013) held at the NUS Museum. SEABOOK is conceived by the artist, as a site for the accumulation of archival materials, anecdotes and memories that unravels Singapore’s relationship with the sea. Developed with the librarians from the National Library, the project attempts to highlight the range of primary resources available on the sea from the colonial and post-colonial periods. In effect, SEABOOK aspires to be the most extensive cultural study of Singapore’s troubled relationship with the sea.
+
+Charles Lim will represent Singapore in the 2015 Venice Biennale. He has a close relationship with the sea, being a former national sailor and having represented Singapore in the 1996 Olympics.
+
+Jointly organised by the National Library, Singapore and NUS Museum.
+ 
+<hr>
+
+### **MAPS! At the Public Libraries**
+Check out our interactive exhibition **MAPS!** which explores maps and navigation through history at the following libraries near you!
+
+Public Library | Date
+---|---
+Jurong Regional Library, Level 1 | 21 Jan 2015 – 26 Feb 2015
+Bishan Public Library, Level 1, Foyer | 28 Feb 2015 – 5 Apr 2015
+Central Public Library, Basement 1 | 7 Apr 2015 – 14 June 2015
+Woodlands Regional Library, Level 3 | 15 June 2015 – 29 Jul 2015
 
 
 </div>
