@@ -390,10 +390,76 @@ Lim Bee Ling is a lecturer from the School of Fine Arts at LASALLE College of th
 
 <hr>
 
-<div markdown="1" class="default-p">
-[![SS04](/images/event-images/script-and-stage-onsite/SS04-300x209.jpg)](/images/event-images/script-and-stage-onsite/SS04.jpg){: .inline30}
-[![SS06](/images/event-images/script-and-stage-onsite/SS06-300x212.jpg)](/images/event-images/script-and-stage-onsite/SS06.jpg){: .inline30}
-[![SS05](/images/event-images/script-and-stage-onsite/SS05-300x196.jpg)](/images/event-images/script-and-stage-onsite/SS05.jpg){: .inline30}
+#### **Chinese Identity and Loyalty in Singapore in the 19th and 20th Centuries**
+**Tuesday, 26 Jul 2016, 7.00pm – 9.00pm
+Level 16, The Pod**
+
+**Speaker: Prof Wang Gungwu**
+
+Chinese identity and loyalty to home and country among the Chinese in 19th and 20th centuries evolved over time. Deep cultural links to family origin and anti-colonial movements were some of the sentiments impacting these changes. Join Professor Wang Gungwu, Chairman of the East Asian Institute and University Professor at the National University of Singapore, as he traces the shifts in identity and loyalty of the Chinese in Singapore from the 19th century to post independence in 1965.
+
+Besides holding key appointments such as Chairman of the East Asian Institute, Chairman of the Lee Kuan Yew School of Public Policy, Chairman of the Institute of Southeast Asian Studies, and University Professor, National University of Singapore, Professor Wang Gungwu was also conferred the International Academic Prize and Fukuoka Asian Cultural prizes. He has written numerous publications in both English and Chinese, such as _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_ (2000); _Don’t Leave Home: Migration and the Chinese_ (2001); and _Diasporic Chinese Ventures_  (edited by Gregor Benton and Liu Hong, 2004).
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Heritage Food Talk & Cooking Demonstration**
+**Saturday, 6 Aug 2016, 2.30pm – 4.00pm
+Level 5, Possibility Room & Courtyard**
+
+**Speaker: Ms Aziza Ali**
+
+Join former chef and restaurateur, Aziza Ali, in this interactive session as she shares about the food from her childhood as well as traditional Malay heritage foods. Participants can also look forward to a cooking demonstration by Aziza using some of her family recipes.
+
+Aziza Ali is a former chef, food consultant, business person, artist, jeweler, and author. She is credited with opening Singapore’s first Malay restaurant, as well as introducing the concept of Malay fine-dining to Singapore.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Picturing the Past: 19th-century Photographs of Singapore**
+**Saturday, 20 Aug 2016, 2.30pm – 3.30pm
+Level 5, Imagination Room**
+
+**Speaker: Ms Gretchen Liu**
+
+In the days before easy amateur photography and picture postcards, travellers had to purchase large-format topographical views supplied by professional photographic firms. As a transportation hub and busy port city, Singapore was home to several such firms from the 1860s. Today these remarkable images are prized as important records of the island’s rapidly changing landscape.  In her illustrated talk, writer Gretchen Liu will introduce the main photographers on the scene then and discuss their contributions to Singapore’s visual heritage.
+
+Gretchen Liu is a former journalist and book editor with a keen interest in Singapore’s visual heritage. She is the author of several illustrated books relating to Singapore history and architecture including A Pictorial History of Singapore 1819-2000.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Featurette | Vice & Virtue: 1800s Singapore**
+From colonial power struggles to government sanctioned drug cartels and prostitution rings, 19th century Singapore was full of fantastic stories of vice and virtue. Join academic and history lover, Dr Farish A. Noor, as he takes us on a journey to uncover these forgotten stories buried in a treasure trove of rare collections.
+
+_Vice & Virtue: 1800s Singapore_ was broadcasted on Channel NewsAsia.
+
+Selected artefacts in the exhibition are showcased in this documentary.
+
+![Journal of a Tour Along the Coast of Java and Bali, published by Mission Press](/images/event-images/from-the-stacks-onsite/FTS05.jpg){: .normal-width-img}
+
+<hr>
+
+#### **Roving Exhibition**
+
+![A showcase of some of the interesting library finds](/images/event-images/from-the-stacks-onsite/FTS06.jpg){: .normal-width-img}
+
+<hr>
+
+#### **Library Finds!**
+What is the last thing you would expect to find at the National Library? Satisfy your curiosity as you explore cabinets and drawers full of ephemera from the library’s closed shelves. An eclectic assortment of bits and bobs, explore a different side of history through the odds and ends of our collection.
+
+Public Library | Date
+---|---
+Tampines Regional Library	| 18 Jan – 28 Feb 2016
+Toa Payoh Public Library | 29 Feb – 24 Apr 2016
+Jurong Regional Library	| 25 Apr – 19 Jun 2016
+Woodlands Regional Library | 20 Jun – 31 Aug 2016
+
+This exhibition is a roving component of _From the Stacks: Highlights of the National Library_.
 </div>
 
 </div>      
