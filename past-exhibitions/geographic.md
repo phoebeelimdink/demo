@@ -241,7 +241,7 @@ Free weekend guided tours are available from February 2015. Tours are limited to
 * There will be no tours on public holidays.
 
 <p style="color:red;">(Programme has ended, registration is closed.)</p>
-
+<p>&nbsp;</p>
 <p><strong>Curator’s Tour Part 1 (Land of Gold and Spices)</strong><br>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 7.30pm<br>Meeting point: Outside the Gallery, Level 10<br>
 </p>
 
