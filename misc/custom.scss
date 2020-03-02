@@ -1132,6 +1132,13 @@ a.programme-readmore {
     margin-right: 0.5%;
 }
 
+small.image-caption {
+    text-align: center !important;
+    display: block;
+    line-height: 1.5em;
+    position: relative !important;
+}
+
 .resources-url-style:hover a {
     color: white;
     text-decoration: none;
