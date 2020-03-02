@@ -230,9 +230,126 @@ Woodlands Regional Library, Level 3 | 15 June 2015 – 29 Jul 2015
 <!-- ----------------------------------------------------CONTENT-CUSTOM-1-START-HERE------------------------------------------------ -->
 <div markdown="1">      
 
-<div style="text-align:center;" markdown="1">
-[![From the Stacks Microsite](/images/event-images/from-the-stacks/from-the-stacks-main-image.jpg)](http://www.nlb.gov.sg/exhibitions/fromthestacks/web-hires/index.html){: .normal-width-img target="_blank"}
-</div>
+#### **Tours**
+**Weekend Guided Tour (Land of Gold and Spices)**
+<p>Conducted in English | *All Saturdays and Sundays, 2pm | 2pm – 3pm (Except 11 Apr, 25 Apr, 16 May | 4.30pm – 5.30pm)</p>
+
+<p>Conducted in Mandarin | *All Saturdays and Sundays, 2.30pm | 2.30pm – 3.30pm</p>
+
+Meeting point: Outside the Gallery, Level 10
+
+Free weekend guided tours are available from February 2015. Tours are limited to 20 participants per session, on a first-come-first-served basis. The first 10 participants for each session will receive a free exclusive publication, Visualizing Space: Maps of Singapore and the Region. For enquiries, please email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg)
+
+* There will be no tours on public holidays.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+**Curator’s Tour Part 1 (Land of Gold and Spices)**
+<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 7.30pm</p>
+
+Meeting point: Outside the Gallery, Level 10
+
+**Curator’s Tour Part 2 (Island of Stories)**
+<p>Conducted in English | 26 Feb, 20 Mar, 17 Apr, 15 May, 19 Jun, 10 Jul 2015, 9.00pm</p>
+
+Meeting point: Outside the Lee Kong Chian Reference Library, Level 11
+
+Admission is free. Tours are limited to 20 participants per session.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+#### **School Self-guided Tour**
+Gallery, Level 10 and 11
+
+Schools are able to organise a self-guided tour facilitated by their teachers. A handy educator’s guide/teaching aid for teachers as well as activity sheets for students are available. Interested schools can email [visitnls@nlb.gov.sg](mailto:visitnls@nlb.gov.sg) for more details.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Book Display**
+**Maps that Shaped Singapore 
+12 Dec 2014 – 28 Feb 2015 | Lee Kong Chian Reference Library, Level 8**
+
+Singapore’s urban landscape has been shaped by its various Concept Plans – the country’s strategic land use and transportation plans. By showcasing these Concept Plans and publications related to land use in Singapore, this book display examines the background and impact of Concept Plans in shaping the country’s urban environment.
+
+<hr>
+
+### **Programmes**
+#### **The Spice Islands’ Impact on the Mapping of the World**
+**Wednesday, 21 Jan, 7.00pm – 9.00pm | The Pod, Level 16 | Speaker: Dr David E. Parry**
+
+How did the search for a sea route to the “Indies” and “Isles of Spicerie” became the Holy Grail of the great Renaissance explorers, revealing the continents of Africa and North and South America? Discover this and more as renowned soil scientist, Dr Parry shares his experience as an avid map collector and about his book _The Cartography of the East Indian Islands._
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Cartography at National Geographic: From Crow Quill Pen to Computer**
+**Thursday, 5 Mar, 7.00pm – 8.30pm | Possibility Room, Level 5 | Speaker: Mr Juan José Valdés**
+
+Technology has modified the way maps have been traditionally researched, designed and edited. This is nowhere more evident than at the National Geographic Society, with its cartographic tradition spanning over 100 years; their cartographers have now embraced the fast-paced digital world of map-making. Speaking live from Washington DC via web broadcast, Mr Juan José Valdés, official geographer of the National Geographic Society, addresses the society’s significant milestones and their impact on its maps and map products.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Mapping Histories: Cartographic Representation of Singapore and Its Limits**
+**Saturday, 21 Mar, 2.00pm – 4.00pm | Possibility Room, Level 5 | Speaker: Dr Imran bin Tajudeen**
+
+Maps record both cultural and natural physical data to varying degrees and a comparative perspective across time can reveal useful information about changes to multiple aspects of the landscape. In this session, Dr Imran, an assistant professor at the National University of Singapore’s Department of Architecture, will discuss the use of old maps to uncover the lesser-known aspects of place histories in Singapore.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Mapping Singapore in World War II: A Global Perspective**
+**Saturday, 11 Apr, 2.00pm – 4.00pm | Possibility Room, Level 5 | Speaker: Mr Mok Ly Yng**
+
+This presentation reviews the organisation of worldwide mapping efforts by the British and American mapping agencies during World War II as well as Singapore’s military mapping from a global perspective. Selected military maps of Singapore that were in use or produced during World War II with significant points of interest reflected will be highlighted during this session by mapping consultant, Mr Mok Ly Yng.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Changing Landscapes of Singapore**
+**Saturday, 25 Apr, 2.00pm – 4.00pm | Possibility Room, Level 5 | Speaker: Associate Professor Victor R Savage**
+
+Over the last 190 years of Singapore’s history, the city-state landscapes have undergone tremendous changes and transformations. This talk by Associate Professor Victor R. Savage from the National University of Singapore’s Department of Geography, provides a glimpse into Singapore’s past and current landscapes and their implications in the imageability and legibility of Singapore to residents and tourists alike.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **Planning for Singapore: How Do We Do It?**
+**Saturday, 16 May, 2.00pm – 4.00pm | Possibility Room, Level 5 | Speaker: Mr Daniel Leong**
+
+Given Singapore’s limited space and multiple land uses, the nation’s planners use a comprehensive framework that provides an integrated approach to sustainable development. Tools developed based on Geographic Information Systems (GIS) help to enhance and plan for the needs of the current and future generations of Singaporeans. Mr Daniel Leong, a planner with the Urban Redevelopment Authority, shares how these GIS tools can help to create a vibrant and sustainable city of distinction.
+
+The programmes are limited to 120 participants per session, on a first-come-first-served basis.Admission is free.
+
+<p style="color:red;">(Programme has ended, registration is closed.)</p>
+
+<hr>
+
+#### **The Past is a Foreign Country: A special presentation by the Singapore Memory Project**
+**April to August 2015 | Promenade, Level 10, National Library Building**
+
+**The Past is a Foreign Country** is a selection of projects funded by the irememberSG fund that explore issues of territoriality, space and environment through the trope of memory in Singapore. For more information of the specific exhibitions and programmes, please visit [iremember.sg](http://iremember.sg)
+
+Projects showcase include:
+
+* Points of Departureby Juria Toramae & Jerome Lim
+* Island Nation by Captured (Edwin Koo, Zakaria Zainal & Juliana Tan)
+* Memories of Pulau Brani by Muhammad Nadjad Abdul Rahim
+* The Memories of Trees by Robert Zhao Renhui
+* Singapore’s Orchid History by Hedrick Kwan
+* BuiltInSG by Meka Studios
+* Architecture & Architects by DO NOT DESIGN
+* irememberParks by Singapore Furniture Industries Council
+* Building Memories by Achates 360 & Koh Hong Teng
+
+Supported by the Singapore Memory Project.
 
 </div>      
 <!-- ------------------------------------------------------CONTENT-CUSTOM-2-END----------------------------------------------------- -->
