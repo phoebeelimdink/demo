@@ -66,6 +66,7 @@ Topographic maps give a three-dimensional sense of the area being mapped, depict
 ![Michael Lee, Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)](/images/event-images/geographic/geographic-main-image-3.jpg){: .normal-width-img}
 <div class="default-p"><small class="image-caption">Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</small></div>
 
+
 In this work titled Bibliotopia, Michael Lee uses the device of the mind map to uncover the “secret bookscape” of Singapore’s book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan – the artist draws out secrets that are hidden within, or exposed by, narratives on identity, adolescence, and the ghostly in Singapore.
 
 Michael Lee is an artist, curator and publisher, whose works focus on urban memory and fiction, with an emphasis on their contexts and issues of loss.
@@ -78,6 +79,7 @@ Michael Lee is an artist, curator and publisher, whose works focus on urban memo
 ![Jeremy Sharma, Work in Progress for the Outliers, 2014-2015](/images/event-images/geographic/geographic-main-image-4.jpg){: .normal-width-img}
 <div class="default-p"><small class="image-caption">Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</small></div>
 
+
 In the installation **Outliers** by Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture the signals of dying stars (pulsars) in material form. Sharma, with the help of a pulsar scientist, has been collecting and categorising the radiographic data of selected pulsars. His work contemplates the profound space-time distance the signals of dying stars travel to communicate their death throes.
 
 Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.
@@ -89,6 +91,7 @@ Jeremy Sharma instigates investigative processes to inform the formal expression
 
 ![Sherman Ong, Video stills from Fables of Nusantara (2015)](/images/event-images/geographic/geographic-main-image-5.jpg){: .normal-width-img}
 <div class="default-p"><small class="image-caption">Sherman Ong<br>Video stills from Fables of Nusantara (2015)</small></div>
+
 
 In this video installation, Sherman Ong uses the documentary/ethnographic film genre to tell stories of migration, trans-border identities, myths and memories in the islands of Southeast Asia. The histories and contemporary stories of the region are explored through the nine individuals featured in the video vignettes.
 
