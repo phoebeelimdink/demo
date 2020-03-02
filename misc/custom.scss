@@ -1125,6 +1125,13 @@ a.programme-readmore {
     margin-right: 1%;
 }
 
+.inline50 {
+    width: 48% !important;
+    display: inline-block;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
 .resources-url-style:hover a {
     color: white;
     text-decoration: none;
@@ -1350,6 +1357,13 @@ a.dl-style-1 {
 .inline30 {
     display: block !IMPORTANT;
     width: 100%;
+    margin-right: 0;
+}
+	
+.inline50 {
+    width: 100% !important;
+    display: block;
+    margin-left: 0;
     margin-right: 0;
 }
 .event-progremme-brief-info-wrap p {
