@@ -1023,7 +1023,7 @@ event:
     resources-text: 
     resources-list: 
       - url: https://www.facebook.com/media/set/?set=a.803222086464802.1073741842.219541704832846&type=3
-        url-name: "Entries from the "Be a Poetry on Platforms Star Poet Contest""
+        url-name: Entries from the Be a Poetry on Platforms Star Poet Contest
       - url: http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9
         url-name: "SingaPoetry: An Anthology of Singapore Poems"
       - url: http://www.nlb.gov.sg/readsingapore/multimedia/
@@ -1125,7 +1125,7 @@ event:
       main-image-link: /lpg/singapore-literary-pioneers-main-image.jpg
       date: onsite
       time: 10.00am – 9.00pm
-      place: Level 11, Promenade National Library Building
+      place: Level 11, Promenade, National Library Building
       label: onsite
       short-description: "The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens."
     #photo gallery tab
