@@ -1023,11 +1023,11 @@ event:
     resources-text: 
     resources-list: 
       - url: https://www.facebook.com/media/set/?set=a.803222086464802.1073741842.219541704832846&type=3
-        url-name: Entries from the "Be a Poetry on Platforms Star Poet Contest"
+        url-name: "Entries from the "Be a Poetry on Platforms Star Poet Contest""
       - url: http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9
-        url-name: SingaPoetry: An Anthology of Singapore Poems
+        url-name: "SingaPoetry: An Anthology of Singapore Poems"
       - url: http://www.nlb.gov.sg/readsingapore/multimedia/
-        url-name: Audio version of SingaPoetry: An Anthology of Singapore Poems        
+        url-name: "Audio version of SingaPoetry: An Anthology of Singapore Poems"       
     #programmes tab
     programmes-tab: hide
     #custom tab 1 tab
