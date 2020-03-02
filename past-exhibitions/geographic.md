@@ -70,7 +70,6 @@ In this work titled Bibliotopia, Michael Lee uses the device of the mind map to 
 
 Michael Lee is an artist, curator and publisher, whose works focus on urban memory and fiction, with an emphasis on their contexts and issues of loss.
 
-<hr>
 
 <h5><strong>Outliers</strong><strong style="color:#484848 !important"> | by Jeremy Sharma</strong></h5>
 **Promenade, Level 8**
@@ -82,7 +81,6 @@ In the installation **Outliers** by Jeremy Sharma, are four white polystyrene bl
 
 Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.
 
-<hr>
 
 <h5><strong>Islands in Between<br>… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong><strong style="color:#484848 !important"> | by Sherman Ong</strong></h5>
 **Promenade, Level 9**
