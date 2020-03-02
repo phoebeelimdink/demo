@@ -644,6 +644,13 @@ event-tab-list.tab-list-outside a:hover {
     position: relative;
 }
 
+div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
+    top: -350px;
+    position: relative;
+    z-index: -1;
+    padding-top: 350px;
+}
+
 .event-details-area {
     margin-left: 20px;
     margin-right: 20px;
