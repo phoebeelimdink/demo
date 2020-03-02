@@ -460,7 +460,6 @@ Jurong Regional Library	| 25 Apr – 19 Jun 2016
 Woodlands Regional Library | 20 Jun – 31 Aug 2016
 
 This exhibition is a roving component of _From the Stacks: Highlights of the National Library_.
-</div>
 
 </div>      
 <!-- -------------------------------------------------------CONTENT-CUSTOM-3-END---------------------------------------------------- -->
