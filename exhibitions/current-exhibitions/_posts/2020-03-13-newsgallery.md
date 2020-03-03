@@ -8,7 +8,7 @@ permalink: /exhibitions/current-exhibitions/newsgallery
 {% assign event-details = site.data.event-list %}
 
 {% for thisevent in event-details.event %}
-{% if thisevent.short-name == "1919sg" %}
+{% if thisevent.short-name == "ng" %}
 <!--
 <div class="event-tab-area" style="background:url('/images/event-images{{ thisevent.details.tab-banner-image-link }}');">
   <div class="tab-gradient-overlay"></div>
