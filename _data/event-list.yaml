@@ -5,9 +5,9 @@ event:
     url: /exhibitions/current-exhibitions/newsgallery
     #details
     details:
-      thumbnail-link: /newsgallery/ng_thumbnail_temp.png
-      tab-banner-image-link: /newsgallery/ng_tab-banner_temp.png 
-      main-image-link: /newsgallery/ng_tab-about_temp.png
+      thumbnail-link: /newsgallery/ng_thumbnail_temp.jpg
+      tab-banner-image-link: /newsgallery/ng_tab-banner_temp.jpg
+      main-image-link: /newsgallery/ng_tab-about_temp.jpg
       date: nodata
       time: 10.00am – 9.00pm
       place: Level 11, Promenade, National Library Building
