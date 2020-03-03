@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "The News Gallery: Beyond Headlines"
-date: 2020-03-13
+date: 2020-03-03
 permalink: /exhibitions/current-exhibitions/newsgallery
 ---
 
 {% assign event-details = site.data.event-list %}
 
 {% for thisevent in event-details.event %}
-{% if thisevent.short-name == "ng" %}
+{% if thisevent.short-name == "newsgallery" %}
 <!--
 <div class="event-tab-area" style="background:url('/images/event-images{{ thisevent.details.tab-banner-image-link }}');">
   <div class="tab-gradient-overlay"></div>

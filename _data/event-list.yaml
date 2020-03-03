@@ -1,6 +1,6 @@
 event:
   - title: "The News Gallery: Beyond Headlines"
-    short-name: ng
+    short-name: newsgallery
     category: current
     url: /exhibitions/current-exhibitions/newsgallery
     #details
