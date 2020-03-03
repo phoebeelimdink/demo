@@ -294,7 +294,7 @@ event:
       tab-banner-image-link: /frombooks/from-books-to-bytes-tab-banner.jpg
       main-image-link: /frombooks/from-books-to-bytes-main-image.jpg
       date: nodata
-      time: 10:00am – 9:00pm
+      time: 10.00am – 9.00pm
       place: Level 5, Promenade, National Library Building
       label: On-Site
       short-description: "Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present."
@@ -655,3 +655,523 @@ event:
     #custom tab 3 tab
     custom-tab3: hide
     custom-tab3-title:
+##
+##
+  - title: "Shakespeare in Print: The First Folio"
+    short-name: shakespeare
+    category: past
+    url: /past-exhibitions/shakespeare-in-print#tab1
+    #detalis
+    details:
+      thumbnail-link: /shakespeare/shakespeare-in-print-thumbnail.jpg
+      tab-banner-image-link: /shakespeare/shakespeare-in-print-tab-banner.jpg
+      main-image-link: /shakespeare/shakespeare-in-print-main-image.jpg
+      date: 11 March 2017 – 23 April 2017
+      time: nodata
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /shakespeare/shakespeare-in-print_gallery_1.jpg
+      - photo-link: /shakespeare/shakespeare-in-print_gallery_2.jpg
+      - photo-link: /shakespeare/shakespeare-in-print_gallery_3.jpg
+      - photo-link: /shakespeare/shakespeare-in-print_gallery_4.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: The Bodleian First Folio
+    resources-text: "The digitised version of Shakespeare’s First Folio is available from The University of Oxford’s Bodleian Libraries. For more information about the project and to browse the First Folio, please click on the buttons below."
+    resources-list: 
+      - url: http://firstfolio.bodleian.ox.ac.uk/
+        url-name: The Bodleian First Folio main page
+      - url: http://firstfolio.bodleian.ox.ac.uk/book.html
+        url-name: Browse the digitised Bodleian First Folio
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+    short-name: aof
+    category: past
+    url: /past-exhibitions/anatomy-of-a-free-mind#tab1
+    #detalis
+    details:
+      thumbnail-link: /aof/anatomy-of-a-free-mind-thumbnail.jpg
+      tab-banner-image-link: /aof/anatomy-of-a-free-mind-tab-banner.jpg
+      main-image-link: /aof/anatomy-of-a-free-mind-main-image.jpg
+      date: 22 November 2016 – 23 April 2017
+      time: nodata
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_1.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_2.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_3.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_4.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_5.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_6.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_7.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_8.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_9.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_10.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_11.jpg
+      - photo-link: /aof/anatomy-of-a-free-mind_gallery_12.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-2-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-2-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-3-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-3-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-4-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-4-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-5-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-5-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-6-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-6-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-7-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-7-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-8-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-8-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-9-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-9-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-10-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-10-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-11-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-11-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-12-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-12-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-13-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-13-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-14-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-14-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-15-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-15-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-16-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-16-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-17-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-17-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-18-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-18-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-19-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-19-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-20-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-20-high.jpg
+      - exhibition-highlight-lowres-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-21-low.jpg
+        exhibition-highlight-hires-image-link: /aof/anatomy-of-a-free-mind-exhibition-highlights-21-high.jpg  
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
+    short-name: scriptandstageonsite
+    category: past
+    url: /past-exhibitions/script-and-stage#tab1
+    #detalis
+    details:
+      thumbnail-link: /script-and-stage-onsite/script-and-stage-thumbnail.jpg
+      tab-banner-image-link: /script-and-stage-onsite/script-and-stage-tab-banner.jpg
+      main-image-link: /script-and-stage-onsite/script-and-stage-main-image.jpg
+      date: 28 October 2016 – 26 March 2017
+      time: nodata
+      place: Levels 7 & 8, Promenade National Library Building
+      label: nodata
+      short-description: "Script & Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_1.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_2.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_3.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_4.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_5.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_6.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_7.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_8.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_9.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_10.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_11.jpg
+      - photo-link: /script-and-stage-onsite/script-and-stage_gallery_12.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /script-and-stage-onsite/script-and-stage-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /script-and-stage-onsite/script-and-stage-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Online Exhibition
+    #custom tab 2 tab
+    custom-tab2: show
+    custom-tab2-title: Programmes
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "From The Stacks: Highlights of the National Library"
+    short-name: from-the-stacks
+    category: past
+    url: /past-exhibitions/from-the-stacks#tab1
+    #detalis
+    details:
+      thumbnail-link: /from-the-stacks-onsite/from-the-stacks-thumbnail.jpg
+      tab-banner-image-link: /from-the-stacks-onsite/from-the-stacks-tab-banner.jpg
+      main-image-link: /from-the-stacks-onsite/from-the-stacks-main-image.jpg
+      date: 30 January 2016 – 25 September 2016
+      time: 10.00am - 9.00pm
+      place: Level 10, Gallery,National Library Building
+      label: nodata
+      short-description: "Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_1.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_2.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_3.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_4.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_5.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_6.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_7.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_8.jpg
+      - photo-link: /from-the-stacks-onsite/from-the-stacks_gallery_9.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name: 
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Online Exhibition
+    #custom tab 2 tab
+    custom-tab2: show
+    custom-tab2-title: Resources
+    #custom tab 3 tab
+    custom-tab3: show
+    custom-tab3-title: Programmes
+##
+##
+  - title: "Poetry on Platforms: Poems on Singapore"
+    short-name: pop
+    category: past
+    url: /past-exhibitions/poetry-on-platforms#tab1
+    #detalis
+    details:
+      thumbnail-link: /poetry-on-platforms/poetry-on-platforms-thumbnail.jpg
+      tab-banner-image-link: /poetry-on-platforms/poetry-on-platforms-tab-banner.jpg
+      main-image-link: /poetry-on-platforms/poetry-on-platforms-main-image.jpg
+      date: 16 July 2015 – 13 August 2015
+      time: nodata
+      place: City Hall MRT Platforms
+      label: nodata
+      short-description: "Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_1.jpg
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_2.jpg
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_3.jpg
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_4.jpg
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_5.jpg
+      - photo-link: /poetry-on-platforms/poetry-on-platforms_gallery_6.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: show
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: https://www.facebook.com/media/set/?set=a.803222086464802.1073741842.219541704832846&type=3
+        url-name: Entries from the Be a Poetry on Platforms Star Poet Contest
+      - url: http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9
+        url-name: "SingaPoetry: An Anthology of Singapore Poems"
+      - url: http://www.nlb.gov.sg/readsingapore/multimedia/
+        url-name: "Audio version of SingaPoetry: An Anthology of Singapore Poems"       
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "Geo|Graphic: Celebrating maps and their stories"
+    short-name: geographic
+    category: past
+    url: /past-exhibitions/geographic#tab1
+    #detalis
+    details:
+      thumbnail-link: /geographic/geographic-thumbnail.jpg
+      tab-banner-image-link: /geographic/geographic-tab-banner.jpg
+      main-image-link: /geographic/geographic-main-image.jpg
+      date: 16 January 2015 – 19 July 2015
+      time: nodata
+      place: National Library Building
+      label: nodata
+      short-description: "Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /geographic/geographic_gallery_1.jpg
+      - photo-link: /geographic/geographic_gallery_2.jpg
+      - photo-link: /geographic/geographic_gallery_3.jpg
+      - photo-link: /geographic/geographic_gallery_4.jpg
+      - photo-link: /geographic/geographic_gallery_5.jpg
+      - photo-link: /geographic/geographic_gallery_6.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: show
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: /geographic/geographic-exhibition-highlights-1-low.jpg
+        exhibition-highlight-hires-image-link: /geographic/geographic-exhibition-highlights-1-high.jpg
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+      - exhibition-highlight-lowres-image-link: /geographic/geographic-exhibition-highlights-2-low.jpg
+        exhibition-highlight-hires-image-link: /geographic/geographic-exhibition-highlights-2-high.jpg
+      - exhibition-highlight-lowres-image-link: /geographic/geographic-exhibition-highlights-3-low.jpg
+        exhibition-highlight-hires-image-link: /geographic/geographic-exhibition-highlights-3-high.jpg
+      - exhibition-highlight-lowres-image-link: /geographic/geographic-exhibition-highlights-4-low.jpg
+        exhibition-highlight-hires-image-link: /geographic/geographic-exhibition-highlights-4-high.jpg
+      - exhibition-highlight-lowres-image-link: /geographic/geographic-exhibition-highlights-5-low.jpg
+        exhibition-highlight-hires-image-link: /geographic/geographic-exhibition-highlights-5-high.jpg
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name:     
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Programmes
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title: 
+##
+##
+  - title: "Singapore Literary Pioneers"
+    short-name: lpg
+    category: past
+    url: /past-exhibitions/singapore-literary-pioneers#tab1
+    #detalis
+    details:
+      thumbnail-link: /lpg/singapore-literary-pioneers-thumbnail.jpg
+      tab-banner-image-link: /lpg/singapore-literary-pioneers-tab-banner.jpg
+      main-image-link: /lpg/singapore-literary-pioneers-main-image.jpg
+      date: onsite
+      time: 10.00am – 9.00pm
+      place: Level 11, Promenade, National Library Building
+      label: onsite
+      short-description: "The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens."
+    #photo gallery tab
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /lpg/singapore-literary-pioneers_gallery_1.jpg
+      - photo-link: /lpg/singapore-literary-pioneers_gallery_2.jpg
+      - photo-link: /lpg/singapore-literary-pioneers_gallery_3.jpg
+      - photo-link: /lpg/singapore-literary-pioneers_gallery_4.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description: 
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link: 
+        featured-highlight-title: 
+        featured-highlight-subtitle: 
+        featured-highlight-description: 
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link: 
+        exhibition-highlight-hires-image-link: 
+        exhibition-highlight-title: 
+        exhibition-highlight-subtitle: 
+        exhibition-highlight-text: 
+    #resources tab
+    resources-tab: hide
+    resources-title: 
+    resources-text: 
+    resources-list: 
+      - url: 
+        url-name:     
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: show
+    custom-tab1-title: Exhibition Microsite
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title: 

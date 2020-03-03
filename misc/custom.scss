@@ -9,11 +9,11 @@ $primary: #aaaaaa;
 $secondary: #d51918;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+$media-color-one: #799092;
+$media-color-two: #799092;
+$media-color-three: #799092;
+$media-color-four: #799092;
+$media-color-five: #799092;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -644,6 +644,13 @@ event-tab-list.tab-list-outside a:hover {
     position: relative;
 }
 
+div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
+    top: -350px;
+    position: relative;
+    z-index: -1;
+    padding-top: 350px;
+}
+
 .event-details-area {
     margin-left: 20px;
     margin-right: 20px;
@@ -651,6 +658,10 @@ event-tab-list.tab-list-outside a:hover {
 
 .event-details-area p {
     white-space: pre-wrap;
+}
+
+.event-details-area h5 {
+    margin-top: 1.5em;
 }
 
 .event-details-area a::after {
@@ -1111,6 +1122,31 @@ a.programme-readmore {
     transition: all 0.3s ease;
 }
 
+.default-p p{
+    white-space: normal !important;
+}
+
+.inline30 {
+    display: inline-block !IMPORTANT;
+    width: 31%;
+    margin-right: 1%;
+}
+
+.inline50 {
+    width: 48% !important;
+    display: inline-block;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+small.image-caption {
+    text-align: center !important;
+    display: block;
+    line-height: 1.5em;
+    position: relative !important;
+    margin-bottom: 2em;
+}
+
 .resources-url-style:hover a {
     color: white;
     text-decoration: none;
@@ -1333,6 +1369,18 @@ a.dl-style-1 {
     column-count: 1;
 }
 /*programme*/
+.inline30 {
+    display: block !IMPORTANT;
+    width: 100%;
+    margin-right: 0;
+}
+	
+.inline50 {
+    width: 100% !important;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+}
 .event-progremme-brief-info-wrap p {
     margin-bottom: 5px !important;
 }
