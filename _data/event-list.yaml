@@ -5,9 +5,9 @@ event:
     url: /exhibitions/current-exhibitions/newsgallery
     #details
     details:
-      thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
-      tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
-      main-image-link:
+      thumbnail-link: /newsgallery/ng_thumbnail_temp.png
+      tab-banner-image-link: /newsgallery/ng_tab-banner_temp.png 
+      main-image-link: /newsgallery/ng_tab-about_temp.png
       date: nodata
       time: 10.00am – 9.00pm
       place: Level 11, Promenade, National Library Building
