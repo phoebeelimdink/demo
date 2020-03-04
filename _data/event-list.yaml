@@ -203,6 +203,61 @@ event:
     custom-tab3-title:
 ##
 ##
+event:
+  - title: "The News Gallery: Beyond Headlines"
+    short-name: news
+    category: current
+    url: /exhibitions/current-exhibitions/newsgallery
+    #details
+    details:
+      thumbnail-link: /newsgallery/ng_thumbnail_temp.jpg
+      tab-banner-image-link: /newsgallery/ng_tab-banner_temp.jpg
+      main-image-link: /newsgallery/ng_tab-about_temp.jpg
+      date: nodata
+      time: 10.00am – 9.00pm
+      place: Level 11, Promenade, National Library Building
+      label: On-Site
+      short-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    #photo gallery
+    gallery-tab: show
+    gallery-image: 
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description:
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link:
+        featured-highlight-title: 
+        featured-highlight-subtitle:
+        featured-highlight-description:   
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link:
+        exhibition-highlight-hires-image-link:
+        exhibition-highlight-title:
+        exhibition-highlight-subtitle:
+        exhibition-highlight-text:
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title: 
+##
+##
   - title: "Donors’ Gallery"
     short-name: donors
     category: current
